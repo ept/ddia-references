@@ -64,7 +64,7 @@ Chapter 9 References
 1.  “[Apache Curator](http://curator.apache.org/),” Apache Software Foundation, *curator.apache.org*, 2015.
 
 1.  Morali Vallath:
-    *Oracle 10g RAC Grid, Services &amp; Clustering*. Elsevier Digital Press, 2006.
+    *Oracle 10g RAC Grid, Services & Clustering*. Elsevier Digital Press, 2006.
     ISBN: 978-1-555-58321-7
 
 1.  Peter Bailis, Alan Fekete, Michael J Franklin, et al.:
@@ -235,7 +235,7 @@ Chapter 9 References
 
 1.  Hagit Attiya and Jennifer Welch: *Distributed
     Computing: Fundamentals, Simulations and Advanced Topics*, 2nd edition.
-    John Wiley &amp; Sons, 2004. ISBN: 978-0-471-45324-6,
+    John Wiley & Sons, 2004. ISBN: 978-0-471-45324-6,
     [doi:10.1002/0471478210](http://dx.doi.org/10.1002/0471478210)
 
 1.  Mahesh
@@ -424,8 +424,8 @@ Chapter 9 References
     volume 12, number 4, pages 472–484, September 2014.
     [doi:10.1109/TDSC.2014.2355848](http://dx.doi.org/10.1109/TDSC.2014.2355848)
 
-1.  Will Portnoy:
-    “[Lessons Learned from Implementing Paxos](http://blog.willportnoy.com/2012/06/lessons-learned-from-paxos.html),” *blog.willportnoy.com*, June 14, 2012.
+1.  Will
+    Portnoy: “[Lessons Learned from Implementing Paxos](http://blog.willportnoy.com/2012/06/lessons-learned-from-paxos.html),” *blog.willportnoy.com*, June 14, 2012.
 
 1.  Heidi Howard, Dahlia Malkhi, and Alexander Spiegelman:
     “[Flexible Paxos: Quorum Intersection Revisited](https://arxiv.org/abs/1608.06696),”

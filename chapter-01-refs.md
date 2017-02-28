@@ -5,7 +5,7 @@ Chapter 1 References
 --------------------
 
 1.  Michael Stonebraker and Uğur Çetintemel:
-    “['One Size Fits All': An Idea Whose Time Has Come and Gone](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.68.9136&amp;rep=rep1&amp;type=pdf),” at *21st International Conference
+    “['One Size Fits All': An Idea Whose Time Has Come and Gone](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.68.9136&rep=rep1&type=pdf),” at *21st International Conference
     on Data Engineering* (ICDE), April 2005.
 
 1.  Walter L. Heimerdinger and Charles B. Weinstock:

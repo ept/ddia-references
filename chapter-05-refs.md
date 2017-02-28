@@ -80,7 +80,7 @@ Chapter 5 References
     MSR-TR-2011-137, October 2011.
 
 1.  Douglas B. Terry, Alan J. Demers, Karin Petersen, et al.:
-    “[Session Guarantees for Weakly Consistent Replicated Data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.71.2269&amp;rep=rep1&amp;type=pdf),” at *3rd International Conference
+    “[Session Guarantees for Weakly Consistent Replicated Data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.71.2269&rep=rep1&type=pdf),” at *3rd International Conference
     on Parallel and Distributed Information Systems* (PDIS), September 1994.
     [doi:10.1109/PDIS.1994.331722](http://dx.doi.org/10.1109/PDIS.1994.331722)
 
@@ -114,7 +114,7 @@ Chapter 5 References
     “[Eventual Consistency – Detecting Conflicts](http://messagepassing.blogspot.co.uk/2011/10/eventual-consistency-detecting.html),” *messagepassing.blogspot.co.uk*, October 20, 2011.
 
 1.  Robert Hodges:
-    “[State of the Art for MySQL Multi-Master Replication](https://www.percona.com/live/mysql-conference-2013/sessions/state-art-mysql-multi-master-replication),” at *Percona Live: MySQL Conference &amp;
+    “[State of the Art for MySQL Multi-Master Replication](https://www.percona.com/live/mysql-conference-2013/sessions/state-art-mysql-multi-master-replication),” at *Percona Live: MySQL Conference &
     Expo*, April 2013.
 
 1.  John Daily:
@@ -142,7 +142,7 @@ Chapter 5 References
       January 2015.
 
 1.  Chengzheng Sun and Clarence Ellis:
-      “[Operational   Transformation in Real-Time Group Editors: Issues, Algorithms, and Achievements](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.933&amp;rep=rep1&amp;type=pdf),” at
+      “[Operational   Transformation in Real-Time Group Editors: Issues, Algorithms, and Achievements](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.933&rep=rep1&type=pdf),” at
       *ACM Conference on Computer Supported Cooperative Work* (CSCW), November 1998.
 
 1.  Lars Hofhansl:

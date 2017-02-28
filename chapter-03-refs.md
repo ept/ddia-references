@@ -20,7 +20,7 @@ Chapter 3 References
       September 2010.
 
 1.  Goetz Graefe:
-      “[Modern B-Tree Techniques](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.7269&amp;rep=rep1&amp;type=pdf),”
+      “[Modern B-Tree Techniques](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.7269&rep=rep1&type=pdf),”
       *Foundations and Trends in Databases*, volume 3, number 4, pages 203–402, August 2011.
       [doi:10.1561/1900000028](http://dx.doi.org/10.1561/1900000028)
 
@@ -70,7 +70,7 @@ Chapter 3 References
     Laboratory, report no. 20, July 1970.
 
 1.  Douglas Comer:
-    “[The Ubiquitous B-Tree](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.96.6637&amp;rep=rep1&amp;type=pdf),” *ACM Computing Surveys*, volume 11, number 2, pages 121–137, June 1979.
+    “[The Ubiquitous B-Tree](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.96.6637&rep=rep1&type=pdf),” *ACM Computing Surveys*, volume 11, number 2, pages 121–137, June 1979.
     [doi:10.1145/356770.356776](http://dx.doi.org/10.1145/356770.356776)
 
 1.  Emmanuel Goossaert:
@@ -158,7 +158,7 @@ Chapter 3 References
     Cambridge University Press, 2008. ISBN: 978-0-521-86571-5, available online at *nlp.stanford.edu/IR-book*
 
 1.  Michael Stonebraker, Samuel Madden, Daniel J. Abadi, et al.:
-    “[The End of an Architectural Era (It’s Time for a Complete Rewrite)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.137.3697&amp;rep=rep1&amp;type=pdf),” at
+    “[The End of an Architectural Era (It’s Time for a Complete Rewrite)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.137.3697&rep=rep1&type=pdf),” at
     *33rd International Conference on Very Large Data Bases* (VLDB), September 2007.
 
 1.  “[VoltDB Technical Overview White Paper](https://www.voltdb.com/wptechnicaloverview),” VoltDB, 2014.
@@ -178,7 +178,7 @@ Chapter 3 References
     number 14, pages 1942–1953, September 2013.
 
 1.  Joy Arulraj, Andrew Pavlo, and Subramanya R. Dulloor:
-    “[Let's Talk About Storage &amp; Recovery Methods for Non-Volatile Memory Database Systems](http://www.pdl.cmu.edu/PDL-FTP/NVM/storage.pdf),” at *ACM International Conference on
+    “[Let's Talk About Storage & Recovery Methods for Non-Volatile Memory Database Systems](http://www.pdl.cmu.edu/PDL-FTP/NVM/storage.pdf),” at *ACM International Conference on
     Management of Data* (SIGMOD), June 2015.
     [doi:10.1145/2723372.2749441](http://dx.doi.org/10.1145/2723372.2749441)
 
@@ -214,7 +214,7 @@ Chapter 3 References
 
 1.  Ralph Kimball and Margy Ross:
     *The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling*,
-    3rd edition. John Wiley &amp; Sons, July 2013. ISBN: 978-1-118-53080-1
+    3rd edition. John Wiley & Sons, July 2013. ISBN: 978-1-118-53080-1
 
 1.  Derrick Harris:
     “[Why Apple, eBay, and Walmart Have Some of the Biggest Data Warehouses You’ve Ever Seen](http://gigaom.com/2013/03/27/why-apple-ebay-and-walmart-have-some-of-the-biggest-data-warehouses-youve-ever-seen/),”

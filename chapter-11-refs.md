@@ -304,7 +304,7 @@ Chapter 11 References
 
 1.  Ralph Kimball and Margy Ross:
     *The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling*,
-    3rd edition. John Wiley &amp; Sons, 2013. ISBN: 978-1-118-53080-1
+    3rd edition. John Wiley & Sons, 2013. ISBN: 978-1-118-53080-1
 
 1.  Viktor Klang:
     “[I'm coining the phrase 'effectively-once' for message processing with at-least-once + idempotent operations](https://twitter.com/viktorklang/status/789036133434978304),”
@@ -330,7 +330,7 @@ Chapter 11 References
 1.  Jason Gustafson, Flavio Junqueira, Apurva Mehta, Sriram Subramanian, and Guozhang Wang: “[KIP-98 – Exactly Once Delivery and Transactional Messaging](https://cwiki.apache.org/confluence/display/KAFKA/KIP-98+-+Exactly+Once+Delivery+and+Transactional+Messaging),” *cwiki.apache.org*, November 2016.
 
 1.  Pat Helland:
-    “[Idempotence Is Not a Medical Condition](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.401.1539&amp;rep=rep1&amp;type=pdf),” *Communications of the ACM*, volume 55, number 5, page 56, May 2012.
+    “[Idempotence Is Not a Medical Condition](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.401.1539&rep=rep1&type=pdf),” *Communications of the ACM*, volume 55, number 5, page 56, May 2012.
     [doi:10.1145/2160718.2160734](http://dx.doi.org/10.1145/2160718.2160734)
 
 1.  Jay Kreps:

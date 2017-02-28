@@ -178,6 +178,6 @@ Chapter 2 References
       [doi:10.1093/nar/gkm929](http://dx.doi.org/10.1093/nar/gkm929)
 
 1.  Fons Rademakers:
-      “[ROOT   for Big Data Analysis](http://indico.cern.ch/getFile.py/access?contribId=13&amp;resId=0&amp;materialId=slides&amp;confId=246453),” at *Workshop on the Future of Big Data Management*,
+      “[ROOT   for Big Data Analysis](http://indico.cern.ch/getFile.py/access?contribId=13&resId=0&materialId=slides&confId=246453),” at *Workshop on the Future of Big Data Management*,
       London, UK, June 2013.
 

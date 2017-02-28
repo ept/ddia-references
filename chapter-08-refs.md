@@ -27,7 +27,7 @@ Chapter 8 References
 1.  Luiz André Barroso, Jimmy Clidaras, and Urs Hölzle:
     “[The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines, Second Edition](http://www.morganclaypool.com/doi/abs/10.2200/S00516ED2V01Y201306CAC024),”
     *Synthesis Lectures on Computer Architecture*, volume 8, number 3,
-    Morgan &amp; Claypool Publishers, July 2013.
+    Morgan & Claypool Publishers, July 2013.
     [doi:10.2200/S00516ED2V01Y201306CAC024](http://dx.doi.org/10.2200/S00516ED2V01Y201306CAC024),
     ISBN: 978-1-627-05010-4
 
@@ -50,7 +50,7 @@ Chapter 8 References
     ISBN: 978-0-691-07916-5
 
 1.  Richard W. Hamming:
-      *The Art of Doing Science and Engineering*. Taylor &amp; Francis, 1997.
+      *The Art of Doing Science and Engineering*. Taylor & Francis, 1997.
       ISBN: 978-9-056-99500-3
 
 1.  Claude E. Shannon:
@@ -255,7 +255,7 @@ Chapter 8 References
 
 1.  Christopher Clark, Keir Fraser, Steven Hand, et al.:
       “[Live   Migration of Virtual Machines](http://www.cl.cam.ac.uk/research/srg/netos/papers/2005-nsdi-migration.pdf),” at *2nd USENIX Symposium on Symposium on
-      Networked Systems Design &amp; Implementation* (NSDI), May 2005.
+      Networked Systems Design & Implementation* (NSDI), May 2005.
 
 1.  Mike Shaver:
       “[fsyncers and   Curveballs](http://shaver.off.net/diary/2008/05/25/fsyncers-and-curveballs/),” *shaver.off.net*, May 25, 2008.
@@ -287,7 +287,7 @@ Chapter 8 References
     June 2013.
 
 1.  Caitie McCaffrey:
-    “[Clients Are Jerks: AKA How Halo 4 DoSed the Services at Launch &amp; How We Survived](http://caitiem.com/2015/06/23/clients-are-jerks-aka-how-halo-4-dosed-the-services-at-launch-how-we-survived/),” *caitiem.com*,
+    “[Clients Are Jerks: AKA How Halo 4 DoSed the Services at Launch & How We Survived](http://caitiem.com/2015/06/23/clients-are-jerks-aka-how-halo-4-dosed-the-services-at-launch-how-we-survived/),” *caitiem.com*,
     June 23, 2015.
 
 1.  Leslie Lamport, Robert Shostak, and Marshall Pease:
@@ -327,7 +327,7 @@ Chapter 8 References
       “[The   Discovery of Apache ZooKeeper’s Poison Packet](http://www.pagerduty.com/blog/the-discovery-of-apache-zookeepers-poison-packet/),” *pagerduty.com*, May 7, 2015.
 
 1.  Jonathan Stone and Craig Partridge:
-      “[When   the CRC and TCP Checksum Disagree](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.27.7611&amp;rep=rep1&amp;type=pdf),” at *ACM Conference on Applications,
+      “[When   the CRC and TCP Checksum Disagree](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.27.7611&rep=rep1&type=pdf),” at *ACM Conference on Applications,
       Technologies, Architectures, and Protocols for Computer Communication* (SIGCOMM), August 2000.
       [doi:10.1145/347059.347561](http://dx.doi.org/10.1145/347059.347561)
 

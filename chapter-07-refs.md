@@ -5,12 +5,12 @@ Chapter 7 References
 --------------------
 
 1.  Donald D. Chamberlin, Morton M. Astrahan, Michael W. Blasgen, et al.:
-    “[A History and Evaluation of System R](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.348&amp;rep=rep1&amp;type=pdf),” *Communications of the ACM*,
+    “[A History and Evaluation of System R](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.348&rep=rep1&type=pdf),” *Communications of the ACM*,
     volume 24, number 10, pages 632–646, October 1981.
     [doi:10.1145/358769.358784](http://dx.doi.org/10.1145/358769.358784)
 
 1.  Jim N. Gray, Raymond A. Lorie, Gianfranco R. Putzolu, and Irving L. Traiger:
-    “[Granularity of Locks and Degrees of Consistency in a Shared Data Base](http://citeseer.ist.psu.edu/viewdoc/download?doi=10.1.1.92.8248&amp;rep=rep1&amp;type=pdf),” in *Modelling in Data
+    “[Granularity of Locks and Degrees of Consistency in a Shared Data Base](http://citeseer.ist.psu.edu/viewdoc/download?doi=10.1.1.92.8248&rep=rep1&type=pdf),” in *Modelling in Data
     Base Management Systems: Proceedings of the IFIP Working Conference on Modelling in Data Base
     Management Systems*, edited by G. M. Nijssen, pages
     364–394, Elsevier/North Holland Publishing, 1976. Also in *Readings in Database Systems*, 4th edition, edited by Joseph M.
@@ -29,7 +29,7 @@ Chapter 7 References
     “[NoSQL's CAP Theorem Busters: We Don't Drop ACID](http://www.theregister.co.uk/2012/11/22/foundationdb_fear_of_cap_theorem/),” *theregister.co.uk*, November 22, 2012.
 
 1.  Theo Härder and Andreas Reuter:
-    “[Principles of Transaction-Oriented Database Recovery](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.2812&amp;rep=rep1&amp;type=pdf),” *ACM Computing Surveys*,
+    “[Principles of Transaction-Oriented Database Recovery](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.2812&rep=rep1&type=pdf),” *ACM Computing Surveys*,
     volume 15, number 4, pages 287–317, December 1983.
     [doi:10.1145/289.291](http://dx.doi.org/10.1145/289.291)
 
@@ -166,7 +166,7 @@ Chapter 7 References
       “[Enforcing   Complex Constraints in Oracle](http://tonyandrews.blogspot.co.uk/2004/10/enforcing-complex-constraints-in.html),” *tonyandrews.blogspot.co.uk*, October 15, 2004.
 
 1.  Douglas B. Terry, Marvin M. Theimer, Karin Petersen, et al.:
-      “[Managing   Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.141.7889&amp;rep=rep1&amp;type=pdf),” at
+      “[Managing   Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.141.7889&rep=rep1&type=pdf),” at
       *15th ACM Symposium on Operating Systems Principles* (SOSP), December 1995.
       [doi:10.1145/224056.224070](http://dx.doi.org/10.1145/224056.224070)
 
@@ -174,7 +174,7 @@ Chapter 7 References
       “[Postgres Serializability   Bug](https://github.com/gfredericks/pg-serializability-bug),” *github.com*, September 2015.
 
 1.  Michael Stonebraker, Samuel Madden, Daniel J. Abadi, et al.:
-    “[The End of an Architectural Era (It’s Time for a Complete Rewrite)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.137.3697&amp;rep=rep1&amp;type=pdf),” at *33rd International
+    “[The End of an Architectural Era (It’s Time for a Complete Rewrite)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.137.3697&rep=rep1&type=pdf),” at *33rd International
     Conference on Very Large Data Bases* (VLDB), September 2007.
 
 1.  John Hugg:
