@@ -36,3 +36,32 @@ Chapters
 10. [References for Chapter 10](https://github.com/ept/ddia-references/blob/master/chapter-10-refs.md)
 11. [References for Chapter 11](https://github.com/ept/ddia-references/blob/master/chapter-11-refs.md)
 12. [References for Chapter 12](https://github.com/ept/ddia-references/blob/master/chapter-12-refs.md)
+
+Maps
+----
+
+As an additional special touch, the book has a graphical table of contents for each chapter,
+[drawn in the style of a geographic map](https://www.oreilly.com/ideas/drawing-a-map-of-distributed-data-systems).
+Each chapter is represented by an island in the sea of distributed data. We have also assembled
+the archipelago into a poster which you can download here:
+
+* [Poster of maps in PDF format](https://github.com/ept/ddia-references/blob/master/ddia-poster.pdf)
+* [Poster of maps in JPEG format](https://github.com/ept/ddia-references/blob/master/ddia-poster.jpg)
+
+License
+-------
+
+Copyright (c) 2017 [Martin Kleppmann](http://martin.kleppmann.com/).
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
+
+You may freely use the material in this repository under a
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons
+Attribution-NonCommercial 4.0 International License</a> (CC BY-NC 4.0).
+
+Thank you to
+[Shabbir Diwan](http://shabbirdiwan.com/),
+[Edie Freedman](http://www.ediefreedman.com/),
+[Ron Bilodeau](http://www.oreilly.com/pub/au/3771), and
+[Marie Beaugureau](https://twitter.com/cmariebeau)
+for designing the maps, and to [O'Reilly Media](https://www.oreilly.com/) for supporting the project.
