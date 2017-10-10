@@ -183,8 +183,7 @@ Chapter 3 References
     [doi:10.1145/2723372.2749441](http://dx.doi.org/10.1145/2723372.2749441)
 
 1.  Edgar F. Codd, S. B. Codd, and C. T. Salley:
-    “[Providing OLAP to User-Analysts: An IT Mandate](http://www.minet.uni-jena.de/dbis/lehre/ss2005/sem_dwh/lit/Cod93.pdf),” E. F. Codd Associates,
-1993.
+    “[Providing OLAP to User-Analysts: An IT Mandate](http://www.minet.uni-jena.de/dbis/lehre/ss2005/sem_dwh/lit/Cod93.pdf),” E. F. Codd Associates, 1993.
 
 1.  Surajit Chaudhuri and Umeshwar Dayal:
     “[An Overview of Data Warehousing and OLAP Technology](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/sigrecord.pdf),” *ACM SIGMOD Record*, volume 26, number 1, pages 65–74,
