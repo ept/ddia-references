@@ -9,7 +9,7 @@ Chapter 1 References
     on Data Engineering* (ICDE), April 2005.
 
 1.  Walter L. Heimerdinger and Charles B. Weinstock:
-    “[A Conceptual Framework for System Fault Tolerance](http://www.sei.cmu.edu/reports/92tr033.pdf),” Technical Report CMU/SEI-92-TR-033, Software Engineering Institute, Carnegie
+    “[A Conceptual Framework for System Fault Tolerance](https://resources.sei.cmu.edu/asset_files/TechnicalReport/1992_005_001_16112.pdf),” Technical Report CMU/SEI-92-TR-033, Software Engineering Institute, Carnegie
     Mellon University, October 1992.
 
 1.  Ding Yuan, Yu Luo, Xin Zhuang, et al.:
