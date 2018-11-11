@@ -36,7 +36,7 @@ Chapter 5 References
     Symposium on Operating Systems Principles* (SOSP), October 2011.
 
 1.  Andrew Wang:
-    “[Windows Azure Storage](http://umbrant.com/blog/2016/windows_azure_storage.html),”
+    “[Windows Azure Storage](https://www.umbrant.com/2016/02/04/windows-azure-storage/),”
     *umbrant.com*, February 4, 2016.
 
 1.  “[Percona    Xtrabackup - Documentation](https://www.percona.com/doc/percona-xtrabackup/2.1/index.html),” Percona LLC, 2014.

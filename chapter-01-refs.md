@@ -9,7 +9,7 @@ Chapter 1 References
     on Data Engineering* (ICDE), April 2005.
 
 1.  Walter L. Heimerdinger and Charles B. Weinstock:
-    “[A Conceptual Framework for System Fault Tolerance](http://www.sei.cmu.edu/reports/92tr033.pdf),” Technical Report CMU/SEI-92-TR-033, Software Engineering Institute, Carnegie
+    “[A Conceptual Framework for System Fault Tolerance](https://resources.sei.cmu.edu/asset_files/TechnicalReport/1992_005_001_16112.pdf),” Technical Report CMU/SEI-92-TR-033, Software Engineering Institute, Carnegie
     Mellon University, October 1992.
 
 1.  Ding Yuan, Yu Luo, Xin Zhuang, et al.:
@@ -126,7 +126,7 @@ Chapter 1 References
     at *Strange Loop*, September 2011.
 
 1.  Hongyu Pei Breivold, Ivica Crnkovic, and Peter J. Eriksson:
-    “[Analyzing Software Evolvability](http://www.mrtc.mdh.se/publications/1478.pdf),”
+    “[Analyzing Software Evolvability](http://www.es.mdh.se/pdf_publications/1251.pdf),”
     at *32nd Annual IEEE International Computer Software and Applications Conference*
     (COMPSAC), July 2008.
     [doi:10.1109/COMPSAC.2008.50](http://dx.doi.org/10.1109/COMPSAC.2008.50)
