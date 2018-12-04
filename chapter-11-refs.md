@@ -65,7 +65,7 @@ Chapter 11 References
 1.  “[Apache Kafka 0.9 Documentation](http://kafka.apache.org/documentation.html),” *kafka.apache.org*, November 2015.
 
 1.  Jay Kreps, Neha Narkhede, and Jun Rao:
-    “[Kafka: A Distributed Messaging System for Log Processing](http://www.longyu23.com/doc/Kafka.pdf),” at *6th International Workshop on
+    “[Kafka: A Distributed Messaging System for Log Processing](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf),” at *6th International Workshop on
     Networking Meets Databases* (NetDB), June 2011.
 
 1.  “[Amazon Kinesis Streams Developer Guide](http://docs.aws.amazon.com/streams/latest/dev/introduction.html),” *docs.aws.amazon.com*, April 2016.
