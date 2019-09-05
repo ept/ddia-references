@@ -253,7 +253,7 @@ Chapter 11 References
     “[Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture),” *oreilly.com*, July 2, 2014.
 
 1.  Ian Hellström:
-    “[An Overview of Apache Streaming Technologies](https://databaseline.wordpress.com/2016/03/12/an-overview-of-apache-streaming-technologies/),” *databaseline.wordpress.com*, March 12, 2016.
+    “[An Overview of Apache Streaming Technologies](https://databaseline.bitbucket.io/an-overview-of-apache-streaming-technologies/),” *databaseline.bitbucket.io*, March 12, 2016.
 
 1.  Jay Kreps:
     “[Why Local State Is a Fundamental Primitive in Stream Processing](https://www.oreilly.com/ideas/why-local-state-is-a-fundamental-primitive-in-stream-processing),” *oreilly.com*, July 31, 2014.
