@@ -25,7 +25,7 @@ Chapter 3 References
       [doi:10.1561/1900000028](http://dx.doi.org/10.1561/1900000028)
 
 1.  Jeffrey Dean and Sanjay Ghemawat:
-    “[LevelDB Implementation Notes](https://github.com/google/leveldb/blob/master/doc/impl.html),”
+    “[LevelDB Implementation Notes](https://github.com/google/leveldb/blob/master/doc/impl.md),”
     *leveldb.googlecode.com*.
 
 1.  Dhruba Borthakur:
