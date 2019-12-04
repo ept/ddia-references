@@ -105,7 +105,7 @@ Chapter 3 References
     “[The Advantages of an LSM vs a B-Tree](http://smalldatum.blogspot.co.uk/2016/01/summary-of-advantages-of-lsm-vs-b-tree.html),” *smalldatum.blogspot.co.uk*, January 19, 2016.
 
 1.  Mark Callaghan:
-    “[Choosing Between Efficiency and Performance with RocksDB](http://www.codemesh.io/codemesh/mark-callaghan),” at *Code Mesh*, November 4, 2016.
+    “[Choosing Between Efficiency and Performance with RocksDB](http://www.codemesh.io/codemesh2016/mark-callaghan),” at *Code Mesh*, November 4, 2016.
 
 1.  Michi Mutsuzaki:
     “[MySQL vs. LevelDB](https://github.com/m1ch1/mapkeeper/wiki/MySQL-vs.-LevelDB),”
