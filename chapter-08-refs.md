@@ -19,7 +19,7 @@ Chapter 8 References
     “[You Can’t Sacrifice Partition Tolerance](http://codahale.com/you-cant-sacrifice-partition-tolerance/),” *codahale.com*, October 7, 2010.
 
 1.  Jeff Hodges:
-    “[Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/),” *somethingsimilar.com*, January 14, 2013.
+    “[Notes on Distributed Systems for Young Bloods](https://web.archive.org/web/20200218095605/https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/),” *somethingsimilar.com*, January 14, 2013.
 
 1.  Antonio Regalado:
       “[Who Coined   'Cloud Computing&#x2019;?](http://www.technologyreview.com/news/425970/who-coined-cloud-computing/),” *technologyreview.com*, October 31, 2011.
@@ -96,9 +96,9 @@ Chapter 8 References
       “[CAP:   If All You Have Is a Timeout, Everything Looks Like a Partition](http://blog.thislongrun.com/2015/05/CAP-theorem-partition-timeout-zookeeper.html),” *blog.thislongrun.com*,
       May 25, 2015.
 
-1.  Jerome H. Saltzer, David P. Reed, and
-    David D. Clark: “[End-To-End Arguments in System Design](http://www.ece.drexel.edu/courses/ECE-C631-501/SalRee1984.pdf),” *ACM Transactions on Computer Systems*, volume 2, number 4,
-    pages 277–288, November 1984.
+1.  Jerome H. Saltzer, David P. Reed, and David D. Clark:
+    “[End-To-End Arguments in System Design](https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf),”
+    *ACM Transactions on Computer Systems*, volume 2, number 4, pages 277–288, November 1984.
     [doi:10.1145/357401.357402](http://dx.doi.org/10.1145/357401.357402)
 
 1.  Matthew P. Grosvenor, Malte Schwarzkopf, Ionel Gog, et al.:
@@ -119,7 +119,8 @@ Chapter 8 References
     “[etcd: Distributed Locking and Service Discovery](https://www.youtube.com/watch?v=HJIjTTHWYnE),” at *Strange Loop*, September 2014.
 
 1.  Steve Newman:
-    “[A Systematic Look at EC2 I/O](http://blog.scalyr.com/2012/10/a-systematic-look-at-ec2-io/),” *blog.scalyr.com*, October 16, 2012.
+    “[A Systematic Look at EC2 I/O](https://web.archive.org/web/20141211094156/http://blog.scalyr.com/2012/10/a-systematic-look-at-ec2-io/),”
+    *blog.scalyr.com*, October 16, 2012.
 
 1.  Naohiro Hayashibara, Xavier Défago, Rami Yared, and
     Takuya Katayama: “[The ϕ Accrual Failure Detector](http://hdl.handle.net/10119/4784),” Japan Advanced Institute of Science and Technology, School of Information
@@ -132,7 +133,7 @@ Chapter 8 References
     to Computer Networking: ATM Networks, the Internet, and the Telephone Network*.
     Addison-Wesley Professional, May 1997. ISBN: 978-0-201-63442-6
 
-1.  Cisco, “[Integrated Services Digital Network](http://docwiki.cisco.com/wiki/Integrated_Services_Digital_Network),” *docwiki.cisco.com*.
+1.  Cisco, “[Integrated Services Digital Network](https://web.archive.org/web/20181229220921/http://docwiki.cisco.com/wiki/Integrated_Services_Digital_Network),” *docwiki.cisco.com*.
 
 1.  Othmar Kyas: *ATM Networks*.
     International Thomson Publishing, 1995. ISBN: 978-1-850-32128-6
@@ -153,14 +154,14 @@ Chapter 8 References
     “[How and why the leap second affected Cloudflare DNS](https://blog.cloudflare.com/how-and-why-the-leap-second-affected-cloudflare-dns/),” *blog.cloudflare.com*, January 1, 2017.
 
 1.  David Holmes:
-    “[Inside the Hotspot VM: Clocks, Timers and Scheduling Events – Part I – Windows](https://blogs.oracle.com/dholmes/entry/inside_the_hotspot_vm_clocks),” *blogs.oracle.com*,
-    October 2, 2006.
+    “[Inside the Hotspot VM: Clocks, Timers and Scheduling Events – Part I – Windows](https://web.archive.org/web/20160308031939/https://blogs.oracle.com/dholmes/entry/inside_the_hotspot_vm_clocks),”
+    *blogs.oracle.com*, October 2, 2006.
 
 1.  Steve Loughran:
     “[Time on Multi-Core, Multi-Socket Servers](http://steveloughran.blogspot.co.uk/2015/09/time-on-multi-core-multi-socket-servers.html),” *steveloughran.blogspot.co.uk*, September 17, 2015.
 
 1.  James C. Corbett, Jeffrey Dean, Michael Epstein, et al.:
-      “[Spanner: Google’s Globally-Distributed   Database](http://research.google.com/archive/spanner.html),” at *10th USENIX Symposium on Operating System Design and
+      “[Spanner: Google’s Globally-Distributed   Database](https://research.google/pubs/pub39966/),” at *10th USENIX Symposium on Operating System Design and
       Implementation* (OSDI), October 2012.
 
 1.  M. Caporaloni and R. Ambrosini:
@@ -173,7 +174,7 @@ Chapter 8 References
       *alumni.media.mit.edu*, December 1999.
 
 1.  Viliam Holub:
-      “[Synchronizing   Clocks in a Cassandra Cluster Pt. 1 – The Problem](https://blog.logentries.com/2014/03/synchronizing-clocks-in-a-cassandra-cluster-pt-1-the-problem/),” *blog.logentries.com*, March 14, 2014.
+      “[Synchronizing Clocks in a Cassandra Cluster Pt. 1 – The Problem](https://blog.rapid7.com/2014/03/14/synchronizing-clocks-in-a-cassandra-cluster-pt-1-the-problem/),” *blog.rapid7.com*, March 14, 2014.
 
 1.  Poul-Henning Kamp:
       “[The One-Second War (What Time Will You   Die?)](http://queue.acm.org/detail.cfm?id=1967009),” *ACM Queue*, volume 9, number 4, pages 44–48, April 2011.
@@ -193,27 +194,29 @@ Chapter 8 References
       Measurement* (PAM), April 2016.
       [doi:10.1007/978-3-319-30505-9_29](http://dx.doi.org/10.1007/978-3-319-30505-9_29)
 
-1.  “[Timekeeping   in VMware Virtual Machines](http://www.vmware.com/resources/techresources/238),” Information Guide, VMware, Inc., December 2011.
+1.  “[Timekeeping in VMware Virtual Machines](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/techpaper/Timekeeping-In-VirtualMachines.pdf),”
+    Information Guide, VMware, Inc., December 2011.
 
 1.  “[MiFID II / MiFIR: Regulatory Technical and Implementing Standards – Annex I (Draft)](https://www.esma.europa.eu/sites/default/files/library/2015/11/2015-esma-1464_annex_i_-_draft_rts_and_its_on_mifid_ii_and_mifir.pdf),”
     European Securities and Markets Authority, Report ESMA/2015/1464, September 2015.
 
 1.  Luke Bigum:
-    “[Solving MiFID II Clock Synchronisation With Minimum Spend (Part 1)](https://www.lmax.com/blog/staff-blogs/2015/11/27/solving-mifid-ii-clock-synchronisation-minimum-spend-part-1/),” *lmax.com*, November 27, 2015.
+    “[Solving MiFID II Clock Synchronisation With Minimum Spend (Part 1)](https://web.archive.org/web/20170704030310/https://www.lmax.com/blog/staff-blogs/2015/11/27/solving-mifid-ii-clock-synchronisation-minimum-spend-part-1/),”
+    *lmax.com*, November 27, 2015.
 
 1.  Kyle Kingsbury:
     “[Call Me Maybe: Cassandra](https://aphyr.com/posts/294-call-me-maybe-cassandra/),” *aphyr.com*, September 24, 2013.
 
 1.  John Daily:
-    “[Clocks Are Bad, or, Welcome to the Wonderful World of Distributed Systems](http://basho.com/clocks-are-bad-or-welcome-to-distributed-systems/),” *basho.com*,
-    November 12, 2013.
+    “[Clocks Are Bad, or, Welcome to the Wonderful World of Distributed Systems](https://riak.com/clocks-are-bad-or-welcome-to-distributed-systems/),”
+    *riak.com*, November 12, 2013.
 
 1.  Kyle Kingsbury:
       “[The Trouble with   Timestamps](https://aphyr.com/posts/299-the-trouble-with-timestamps),” *aphyr.com*, October 12, 2013.
 
 1.  Leslie Lamport:
-    “[Time, Clocks, and the Ordering of Events in a Distributed System](http://research.microsoft.com/en-US/um/people/Lamport/pubs/time-clocks.pdf),” *Communications of the ACM*, volume
-    21, number 7, pages 558–565, July 1978.
+    “[Time, Clocks, and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/),”
+    *Communications of the ACM*, volume 21, number 7, pages 558–565, July 1978.
     [doi:10.1145/359545.359563](http://dx.doi.org/10.1145/359545.359563)
 
 1.  Sandeep Kulkarni, Murat Demirbas, Deepak Madeppa, et al.:
@@ -244,14 +247,15 @@ Chapter 8 References
     [doi:10.1145/74850.74870](http://dx.doi.org/10.1145/74850.74870)
 
 1.  Todd Lipcon:
-      “[Avoiding   Full GCs in Apache HBase with MemStore-Local Allocation Buffers: Part 1](http://blog.cloudera.com/blog/2011/02/avoiding-full-gcs-in-hbase-with-memstore-local-allocation-buffers-part-1/),”
+      “[Avoiding Full GCs in Apache HBase with MemStore-Local Allocation Buffers: Part 1](https://web.archive.org/web/20121101040711/http://blog.cloudera.com/blog/2011/02/avoiding-full-gcs-in-hbase-with-memstore-local-allocation-buffers-part-1/),”
       *blog.cloudera.com*, February 24, 2011.
 
 1.  Martin Thompson:
       “[Java   Garbage Collection Distilled](http://mechanical-sympathy.blogspot.co.uk/2013/07/java-garbage-collection-distilled.html),” *mechanical-sympathy.blogspot.co.uk*, July 16, 2013.
 
 1.  Alexey Ragozin:
-      “[How to Tame Java GC Pauses?   Surviving 16GiB Heap and Greater](http://java.dzone.com/articles/how-tame-java-gc-pauses),” *java.dzone.com*, June 28, 2011.
+      “[How to Tame Java GC Pauses? Surviving 16GiB Heap and Greater](https://dzone.com/articles/how-tame-java-gc-pauses),”
+      *dzone.com*, June 28, 2011.
 
 1.  Christopher Clark, Keir Fraser, Steven Hand, et al.:
       “[Live   Migration of Virtual Machines](http://www.cl.cam.ac.uk/research/srg/netos/papers/2005-nsdi-migration.pdf),” at *2nd USENIX Symposium on Symposium on
@@ -291,12 +295,12 @@ Chapter 8 References
     June 23, 2015.
 
 1.  Leslie Lamport, Robert Shostak, and Marshall Pease:
-    “[The Byzantine Generals Problem](http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf),” *ACM Transactions on Programming Languages and
-    Systems* (TOPLAS), volume 4, number 3, pages 382–401, July 1982.
+    “[The Byzantine Generals Problem](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/),”
+    *ACM Transactions on Programming Languages and Systems* (TOPLAS), volume 4, number 3, pages 382–401, July 1982.
     [doi:10.1145/357172.357176](http://dx.doi.org/10.1145/357172.357176)
 
 1.  Jim N. Gray:
-    “[Notes on Data Base Operating Systems](http://research.microsoft.com/en-us/um/people/gray/papers/DBOS.pdf),” in *Operating Systems: An Advanced Course*, Lecture
+    “[Notes on Data Base Operating Systems](http://jimgray.azurewebsites.net/papers/dbos.pdf),” in *Operating Systems: An Advanced Course*, Lecture
     Notes in Computer Science, volume 60, edited by R. Bayer, R. M. Graham, and G. Seegmüller,
     pages 393–481, Springer-Verlag, 1978. ISBN: 978-3-540-08755-7
 
@@ -304,9 +308,9 @@ Chapter 8 References
     “[How Complicated Was the Byzantine Empire?](http://www.slate.com/articles/news_and_politics/explainer/2011/10/the_byzantine_tax_code_how_complicated_was_byzantium_anyway_.html),” *slate.com*, October 20, 2011.
 
 1.  Leslie Lamport:
-    “[My Writings](http://research.microsoft.com/en-us/um/people/lamport/pubs/pubs.html),” *research.microsoft.com*, December 16, 2014. This page can be found by searching the
-    web for the 23-character string obtained by removing the hyphens from the string
-    <code>allla-mport-spubso-ntheweb</code>.
+    “[My Writings](http://lamport.azurewebsites.net/pubs/pubs.html),” *lamport.azurewebsites.net*, December 16, 2014.
+    This page can be found by searching the web for the 23-character string obtained by removing the hyphens from the string
+    `allla-mport-spubso-ntheweb`.
 
 1.  John Rushby:
       “[Bus Architectures for   Safety-Critical Embedded Systems](http://www.csl.sri.com/papers/emsoft01/emsoft01.pdf),” at *1st International Workshop on Embedded Software*

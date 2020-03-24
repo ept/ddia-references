@@ -5,22 +5,22 @@ Chapter 10 References
 --------------------
 
 1.  Jeffrey Dean and Sanjay Ghemawat:
-    “[MapReduce: Simplified Data Processing on Large Clusters](http://research.google.com/archive/mapreduce.html),” at *6th USENIX Symposium on Operating System Design
-    and Implementation* (OSDI), December 2004.
+    “[MapReduce: Simplified Data Processing on Large Clusters](https://research.google/pubs/pub62/),”
+    at *6th USENIX Symposium on Operating System Design and Implementation* (OSDI), December 2004.
 
 1.  Joel Spolsky:
-    “[The Perils of JavaSchools](http://www.joelonsoftware.com/articles/ThePerilsofJavaSchools.html),” *joelonsoftware.com*, December 25, 2005.
+    “[The Perils of JavaSchools](https://www.joelonsoftware.com/2005/12/29/the-perils-of-javaschools-2/),” *joelonsoftware.com*, December 29, 2005.
 
 1.  Shivnath Babu and Herodotos Herodotou:
-    “[Massively Parallel Databases and MapReduce Systems](http://research.microsoft.com/pubs/206464/db-mr-survey-final.pdf),” *Foundations and Trends in Databases*,
-    volume 5, number 1, pages 1–104, November 2013.
+    “[Massively Parallel Databases and MapReduce Systems](https://www.microsoft.com/en-us/research/wp-content/uploads/2013/11/db-mr-survey-final.pdf),”
+    *Foundations and Trends in Databases*, volume 5, number 1, pages 1–104, November 2013.
     [doi:10.1561/1900000036](http://dx.doi.org/10.1561/1900000036)
 
 1.  David J. DeWitt and Michael Stonebraker:
     “[MapReduce: A Major Step Backwards](https://homes.cs.washington.edu/~billhowe/mapreduce_a_major_step_backwards.html),” originally published at *databasecolumn.vertica.com*, January 17, 2008.
 
 1.  Henry Robinson:
-    “[The Elephant Was a Trojan Horse: On the Death of Map-Reduce at Google](http://the-paper-trail.org/blog/the-elephant-was-a-trojan-horse-on-the-death-of-map-reduce-at-google/),”
+    “[The Elephant Was a Trojan Horse: On the Death of Map-Reduce at Google](https://www.the-paper-trail.org/post/2014-06-25-the-elephant-was-a-trojan-horse-on-the-death-of-map-reduce-at-google/),”
     *the-paper-trail.org*, June 25, 2014.
 
 1.  “[The Hollerith Machine](https://www.census.gov/history/www/innovations/technology/the_hollerith_tabulator.html),” United States Census Bureau, *census.gov*.
@@ -37,10 +37,10 @@ Chapter 10 References
     “[Kafka, Samza, and the Unix Philosophy of Distributed Data](http://martin.kleppmann.com/2015/08/05/kafka-samza-unix-philosophy-distributed-data.html),” *martin.kleppmann.com*, August 5, 2015.
 
 1.  Doug McIlroy:
-    [Internal Bell Labs memo](http://cm.bell-labs.com/cm/cs/who/dmr/mdmpipe.pdf),
+    [Internal Bell Labs memo](https://swtch.com/~rsc/thread/mdmpipe.pdf),
     October 1964. Cited in: Dennis M. Richie:
     “[Advice from Doug McIlroy](https://www.bell-labs.com/usr/dmr/www/mdmpipe.html),”
-    *cm.bell-labs.com*.
+    *bell-labs.com*.
 
 1.  M. D. McIlroy, E. N. Pinson, and B. A. Tague:
     “[UNIX Time-Sharing System: Foreword](https://archive.org/details/bstj57-6-1899),”
@@ -48,7 +48,7 @@ Chapter 10 References
     July 1978.
 
 1.  Eric S. Raymond:
-    <a href="http://www.catb.org/~esr/writings/taoup/html/">*The Art of UNIX Programming*</a>.
+    [*The Art of UNIX Programming*](http://www.catb.org/~esr/writings/taoup/html/).
     Addison-Wesley, 2003. ISBN: 978-0-13-142901-7
 
 1.  Ronald Duncan:
@@ -81,14 +81,16 @@ Chapter 10 References
 1.  “[OpenStack Swift 2.6.1 Developer Documentation](http://docs.openstack.org/developer/swift/),” OpenStack Foundation, *docs.openstack.org*, March 2016.
 
 1.  Zhe Zhang, Andrew Wang, Kai Zheng, et al.:
-    “[Introduction to HDFS Erasure Coding in Apache Hadoop](http://blog.cloudera.com/blog/2015/09/introduction-to-hdfs-erasure-coding-in-apache-hadoop/),” *blog.cloudera.com*, September 23, 2015.
+    “[Introduction to HDFS Erasure Coding in Apache Hadoop](https://blog.cloudera.com/introduction-to-hdfs-erasure-coding-in-apache-hadoop/),”
+    *blog.cloudera.com*, September 23, 2015.
 
 1.  Peter Cnudde:
-    “[Hadoop Turns 10](http://yahoohadoop.tumblr.com/post/138739227316/hadoop-turns-10),”
+    “[Hadoop Turns 10](https://web.archive.org/web/20190119112713/https://yahoohadoop.tumblr.com/post/138739227316/hadoop-turns-10),”
     *yahoohadoop.tumblr.com*, February 5, 2016.
 
 1.  Eric Baldeschwieler:
-    “[Thinking About the HDFS vs. Other Storage Technologies](http://hortonworks.com/blog/thinking-about-the-hdfs-vs-other-storage-technologies/),” *hortonworks.com*, July 25, 2012.
+    “[Thinking About the HDFS vs. Other Storage Technologies](https://web.archive.org/web/20190529215115/http://hortonworks.com/blog/thinking-about-the-hdfs-vs-other-storage-technologies/),”
+    *hortonworks.com*, July 25, 2012.
 
 1.  Brendan Gregg:
     “[Manta: Unix Meets Map Reduce](http://dtrace.org/blogs/brendan/2013/06/25/manta-unix-meets-map-reduce/),” *dtrace.org*, June 25, 2013.
@@ -110,8 +112,8 @@ Chapter 10 References
     [doi:10.1145/2463676.2463707](http://dx.doi.org/10.1145/2463676.2463707)
 
 1.  Alan F. Gates, Olga Natkovich, Shubham Chopra, et al.:
-    “[Building a High-Level Dataflow System on Top of Map-Reduce: The Pig Experience](http://www.vldb.org/pvldb/2/vldb09-1074.pdf),” at *35th International Conference on Very Large Data
-    Bases* (VLDB), August 2009.
+    “[Building a High-Level Dataflow System on Top of Map-Reduce: The Pig Experience](http://www.vldb.org/pvldb/vol2/vldb09-1074.pdf),”
+    at *35th International Conference on Very Large Data Bases* (VLDB), August 2009.
 
 1.  Ashish Thusoo, Joydeep Sen Sarma, Namit Jain, et al.:
     “[Hive – A Petabyte Scale Data Warehouse Using Hadoop](http://i.stanford.edu/~ragho/hive-icde2010.pdf),” at *26th IEEE International Conference on Data Engineering* (ICDE), March 2010.
@@ -140,6 +142,9 @@ Chapter 10 References
     “[Challenges to Adopting Stronger Consistency at Scale](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-ajoux.pdf),” at *15th USENIX Workshop on Hot Topics in
     Operating Systems* (HotOS), May 2015.
 
+1.  “[Performance and Efficiency](https://pig.apache.org/docs/latest/perf.html),”
+    Apache Pig Documentation, *pig.apache.org*, 2017.
+
 1.  Sriranjan Manjunath:
     “[Skewed Join](https://wiki.apache.org/pig/PigSkewedJoinSpec),” *wiki.apache.org*,
     2009.
@@ -161,21 +166,23 @@ Chapter 10 References
 1.  “["Cloudera Search User Guide,"](http://www.cloudera.com/documentation/cdh/5-1-x/Search/Cloudera-Search-User-Guide/Cloudera-Search-User-Guide.html) Cloudera, Inc., September 2015.
 
 1.  Lili Wu, Sam Shah, Sean Choi, et al.:
-    “[The Browsemaps: Collaborative Filtering at LinkedIn](http://ls13-www.cs.uni-dortmund.de/homepage/rsweb2014/papers/rsweb2014_submission_3.pdf),” at *6th Workshop on Recommender Systems and
-    the Social Web* (RSWeb), October 2014.
+    “[The Browsemaps: Collaborative Filtering at LinkedIn](http://ceur-ws.org/Vol-1271/Paper3.pdf),”
+    at *6th Workshop on Recommender Systems and the Social Web* (RSWeb), October 2014.
 
 1.  Roshan Sumbaly, Jay Kreps, Lei Gao, et al.:
     “[Serving Large-Scale Batch Computed Data with Project Voldemort](http://static.usenix.org/events/fast12/tech/full_papers/Sumbaly.pdf),” at *10th USENIX Conference on File and Storage
     Technologies* (FAST), February 2012.
 
 1.  Varun Sharma:
-    “[Open-Sourcing Terrapin: A Serving System for Batch Generated Data](https://engineering.pinterest.com/blog/open-sourcing-terrapin-serving-system-batch-generated-data-0),” *engineering.pinterest.com*, September 14, 2015.
+    “[Open-Sourcing Terrapin: A Serving System for Batch Generated Data](https://web.archive.org/web/20170215032514/https://engineering.pinterest.com/blog/open-sourcing-terrapin-serving-system-batch-generated-data-0),”
+    *engineering.pinterest.com*, September 14, 2015.
 
 1.  Nathan Marz:
     “[ElephantDB](http://www.slideshare.net/nathanmarz/elephantdb),” *slideshare.net*, May 30, 2011.
 
 1.  Jean-Daniel (JD) Cryans:
-    “[How-to: Use HBase Bulk Loading, and Why](http://blog.cloudera.com/blog/2013/09/how-to-use-hbase-bulk-loading-and-why/),” *blog.cloudera.com*, September 27, 2013.
+    “[How-to: Use HBase Bulk Loading, and Why](https://blog.cloudera.com/how-to-use-hbase-bulk-loading-and-why/),”
+    *blog.cloudera.com*, September 27, 2013.
 
 1.  Nathan Marz:
       “[How to Beat the CAP   Theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html),” *nathanmarz.com*, October 13, 2011.
@@ -191,8 +198,9 @@ Chapter 10 References
 1.  Jay Kreps:
     “[But the multi-tenancy thing is actually really really hard](https://twitter.com/jaykreps/status/528235702480142336),” tweetstorm, *twitter.com*, October 31, 2014.
 
-1.  Jeffrey Cohen, Brian Dolan, Mark Dunlap, et al.: “[MAD Skills: New Analysis Practices for Big Data](http://www.vldb.org/pvldb/2/vldb09-219.pdf),” *Proceedings of the VLDB Endowment*, volume 2, number
-    2, pages 1481–1492, August 2009.
+1.  Jeffrey Cohen, Brian Dolan, Mark Dunlap, et al.:
+    “[MAD Skills: New Analysis Practices for Big Data](http://www.vldb.org/pvldb/vol2/vldb09-219.pdf),”
+    *Proceedings of the VLDB Endowment*, volume 2, number 2, pages 1481–1492, August 2009.
     [doi:10.14778/1687553.1687576](http://dx.doi.org/10.14778/1687553.1687576)
 
 1.  Ignacio
@@ -204,8 +212,8 @@ Chapter 10 References
     “[To Schema on Read or to Schema on Write, That Is the Hadoop Data Lake Question](http://adaptivesystemsinc.com/blog/to-schema-on-read-or-to-schema-on-write-that-is-the-hadoop-data-lake-question/),” *adaptivesystemsinc.com*, July 2, 2015.
 
 1.  Bobby Johnson and Joseph Adler:
-    “[The Sushi Principle: Raw Data Is Better](https://vimeo.com/123985284),” at
-    *Strata+Hadoop World*, February 2015.
+    “[The Sushi Principle: Raw Data Is Better](https://conferences.oreilly.com/strata/big-data-conference-ca-2015/public/schedule/detail/38737),”
+    at *Strata+Hadoop World*, February 2015.
 
 1.  Vinod Kumar Vavilapalli, Arun C. Murthy, Chris Douglas, et al.:
     “[Apache Hadoop YARN: Yet Another Resource Negotiator](http://www.socc2013.org/home/program/a5-vavilapalli.pdf),” at *4th ACM Symposium on Cloud Computing* (SoCC), October 2013.
@@ -241,7 +249,7 @@ Chapter 10 References
     [doi:10.1007/s00778-014-0357-y](http://dx.doi.org/10.1007/s00778-014-0357-y)
 
 1.  Michael Isard, Mihai Budiu, Yuan Yu, et al.:
-    “[Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks](http://research.microsoft.com/en-us/projects/dryad/eurosys07.pdf),” at *European Conference on Computer
+    “[Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks](https://www.microsoft.com/en-us/research/publication/dryad-distributed-data-parallel-programs-from-sequential-building-blocks/),” at *European Conference on Computer
     Systems* (EuroSys), March 2007.
     [doi:10.1145/1272996.1273005](http://dx.doi.org/10.1145/1272996.1273005)
 
@@ -250,8 +258,9 @@ Chapter 10 References
     Supercomputers* (MTAGS), November 2009.
     [doi:10.1145/1646468.1646476](http://dx.doi.org/10.1145/1646468.1646476)
 
-1.  Lawrence Page, Sergey Brin, Rajeev
-    Motwani, and Terry Winograd: “<a href="http://ilpubs.stanford.edu:8090/422/">The <span class="keep-together">PageRank
+1.  Lawrence Page, Sergey Brin, Rajeev Motwani, and Terry Winograd:
+    “[The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/),”
+    Stanford InfoLab Technical Report 422, 1999.
 
 1.  Leslie G. Valiant:
     “[A Bridging Model for Parallel Computation](http://dl.acm.org/citation.cfm?id=79181),”
@@ -288,7 +297,8 @@ Chapter 10 References
     “[Peeking into Apache Flink's Engine Room](http://flink.apache.org/news/2015/03/13/peeking-into-Apache-Flinks-Engine-Room.html),” *flink.apache.org*, March 13, 2015.
 
 1.  Mostafa Mokhtar:
-    “[Hive 0.14 Cost Based Optimizer (CBO) Technical Overview](http://hortonworks.com/blog/hive-0-14-cost-based-optimizer-cbo-technical-overview/),” *hortonworks.com*, March 2, 2015.
+    “[Hive 0.14 Cost Based Optimizer (CBO) Technical Overview](https://web.archive.org/web/20170607112708/http://hortonworks.com/blog/hive-0-14-cost-based-optimizer-cbo-technical-overview/),”
+    *hortonworks.com*, March 2, 2015.
 
 1.  Michael Armbrust, Reynold S Xin, Cheng Lian, et al.:
     “[Spark SQL: Relational Data Processing in Spark](http://people.csail.mit.edu/matei/papers/2015/sigmod_spark_sql.pdf),” at *ACM International Conference on Management of Data* (SIGMOD), June 2015.
@@ -298,5 +308,6 @@ Chapter 10 References
     “[Planting Quadtrees for Apache Flink](http://insightdataengineering.com/blog/flink-knn/),” *insightdataengineering.com*, March 25, 2016.
 
 1.  Tom White:
-    “[Genome Analysis Toolkit: Now Using Apache Spark for Data Processing](http://blog.cloudera.com/blog/2016/04/genome-analysis-toolkit-now-using-apache-spark-for-data-processing/),” *blog.cloudera.com*, April 6, 2016.
+    “[Genome Analysis Toolkit: Now Using Apache Spark for Data Processing](https://web.archive.org/web/20190215132904/http://blog.cloudera.com/blog/2016/04/genome-analysis-toolkit-now-using-apache-spark-for-data-processing/),”
+    *blog.cloudera.com*, April 6, 2016.
 

@@ -54,8 +54,8 @@ Chapter 5 References
 1.  Amit Kapila:
     “[WAL Internals of PostgreSQL](http://www.pgcon.org/2012/schedule/attachments/258_212_Internals%20Of%20PostgreSQL%20Wal.pdf),” at *PostgreSQL Conference* (PGCon), May 2012.
 
-1.  <a href="http://dev.mysql.com/doc/internals/en/index.html">*MySQL
-    Internals Manual*</a>. Oracle, 2014.
+1.  [*MySQL Internals Manual*](http://dev.mysql.com/doc/internals/en/index.html).
+    Oracle, 2014.
 
 1.  Yogeshwer Sharma, Philippe Ajoux, Petchean Ang, et al.:
     “[Wormhole: Reliable Pub-Sub to Support Geo-Replicated Internet Services](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-sharma.pdf),” at *12th USENIX
@@ -76,7 +76,7 @@ Chapter 5 References
     [doi:10.1145/1466443.1466448](http://dx.doi.org/10.1145/1466443.1466448)
 
 1.  Douglas B. Terry:
-    “[Replicated Data Consistency Explained Through Baseball](http://research.microsoft.com/pubs/157411/ConsistencyAndBaseballReport.pdf),” Microsoft Research, Technical Report
+    “[Replicated Data Consistency Explained Through Baseball](https://www.microsoft.com/en-us/research/publication/replicated-data-consistency-explained-through-baseball/),” Microsoft Research, Technical Report
     MSR-TR-2011-137, October 2011.
 
 1.  Douglas B. Terry, Alan J. Demers, Karin Petersen, et al.:
@@ -87,7 +87,7 @@ Chapter 5 References
 1.  Terry Pratchett: *Reaper Man: A Discworld
     Novel*. Victor Gollancz, 1991. ISBN: 978-0-575-04979-6
 
-1.  “[Tungsten Replicator](http://tungsten-replicator.org/),” Continuent, Inc., 2014.
+1.  “[Tungsten Replicator](https://github.com/holys/tungsten-replicator),” *github.com*.
 
 1.  “[BDR 0.10.0 Documentation](http://bdr-project.org/docs/next/index.html),” The PostgreSQL Global Development Group, *bdr-project.org*, 2015.
 
@@ -103,8 +103,8 @@ Chapter 5 References
     “[Etherpad and EasySync Technical Manual](https://github.com/ether/etherpad-lite/blob/e2ce9dc/doc/easysync/easysync-full-description.pdf),” *github.com*, March 26, 2011.
 
 1.  John Day-Richter:
-    “[What’s Different About the New Google Docs: Making Collaboration Fast](http://googledrive.blogspot.com/2010/09/whats-different-about-new-google-docs.html),” *googledrive.blogspot.com*,
-    23 September 2010.
+    “[What’s Different About the New Google Docs: Making Collaboration Fast](https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs.html),”
+    *drive.googleblog.com*, September 23, 2010.
 
 1.  Martin Kleppmann and Alastair R. Beresford:
     “[A Conflict-Free Replicated JSON Datatype](http://arxiv.org/abs/1608.03960),”
@@ -114,11 +114,11 @@ Chapter 5 References
     “[Eventual Consistency – Detecting Conflicts](http://messagepassing.blogspot.co.uk/2011/10/eventual-consistency-detecting.html),” *messagepassing.blogspot.co.uk*, October 20, 2011.
 
 1.  Robert Hodges:
-    “[State of the Art for MySQL Multi-Master Replication](https://www.percona.com/live/mysql-conference-2013/sessions/state-art-mysql-multi-master-replication),” at *Percona Live: MySQL Conference &
+    “[State of the Art for MySQL Multi-Master Replication](https://web.archive.org/web/20161010052017/https://www.percona.com/live/mysql-conference-2013/sites/default/files/slides/mysql-multi-master-state-of-art-2013-04-24_0.pdf),” at *Percona Live: MySQL Conference &
     Expo*, April 2013.
 
 1.  John Daily:
-      “[Clocks Are Bad, or,   Welcome to the Wonderful World of Distributed Systems](http://basho.com/clocks-are-bad-or-welcome-to-distributed-systems/),” *basho.com*, November 12, 2013.
+    “[Clocks Are Bad, or, Welcome to the Wonderful World of Distributed Systems](https://riak.com/clocks-are-bad-or-welcome-to-distributed-systems/),” *riak.com*, November 12, 2013.
 
 1.  Riley Berton:
     “[Is Bi-Directional Replication (BDR) in Postgres Transactional?](http://sdf.org/~riley/blog/2016/01/04/is-bi-directional-replication-bdr-in-postgres-transactional/),” *sdf.org*, January 4, 2016.
@@ -149,7 +149,7 @@ Chapter 5 References
     “[HBASE-7709: Infinite Loop Possible in Master/Master Replication](https://issues.apache.org/jira/browse/HBASE-7709),” *issues.apache.org*, January 29, 2013.
 
 1.  David K. Gifford:
-    “[Weighted Voting for Replicated Data](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.84.7698),”
+    “[Weighted Voting for Replicated Data](https://www.cs.cmu.edu/~15-749/READINGS/required/availability/gifford79.pdf),”
     at *7th ACM Symposium on Operating Systems Principles* (SOSP), December 1979.
     [doi:10.1145/800215.806583](http://dx.doi.org/10.1145/800215.806583)
 
@@ -158,7 +158,7 @@ Chapter 5 References
     *arXiv:1608.06696*, August 24, 2016.
 
 1.  Joseph Blomstedt:
-      “[Re:   Absolute Consistency](http://lists.basho.com/pipermail/riak-users_lists.basho.com/2012-January/007157.html),” email to *riak-users* mailing list, *lists.basho.com*,
+      “[Re: Absolute Consistency](https://web.archive.org/web/20190919171316/http://lists.basho.com:80/pipermail/riak-users_lists.basho.com/2012-January/007157.html),” email to *riak-users* mailing list, *lists.basho.com*,
       January 11, 2012.
 
 1.  Joseph Blomstedt:
@@ -177,16 +177,16 @@ Chapter 5 References
 
 1.  “[Project Voldemort Wiki](https://github.com/voldemort/voldemort/wiki),” *github.com*, 2013.
 
-1.  “[Apache Cassandra 2.0 Documentation](http://www.datastax.com/documentation/cassandra/2.0/index.html),” DataStax, Inc., 2014.
+1.  “[Apache Cassandra Documentation](https://cassandra.apache.org/doc/latest/),” Apache Software Foundation, *cassandra.apache.org*.
 
-1.  “[Riak Enterprise: Multi-Datacenter Replication](http://basho.com/assets/MultiDatacenter_Replication.pdf).” Technical whitepaper, Basho Technologies, Inc.,
-    September 2014.
+1.  “[Riak Enterprise: Multi-Datacenter Replication](https://web.archive.org/web/20150513041837/http://basho.com/assets/MultiDatacenter_Replication.pdf).”
+    Technical whitepaper, Basho Technologies, Inc., September 2014.
 
 1.  Jonathan Ellis:
     “[Why Cassandra Doesn't Need Vector Clocks](http://www.datastax.com/dev/blog/why-cassandra-doesnt-need-vector-clocks),” *datastax.com*, September 2, 2013.
 
 1.  Leslie Lamport:
-    “[Time, Clocks, and the Ordering of Events in a Distributed System](http://research.microsoft.com/en-US/um/people/Lamport/pubs/time-clocks.pdf),” *Communications of the ACM*,
+    “[Time, Clocks, and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/),” *Communications of the ACM*,
     volume 21, number 7, pages 558–565, July 1978.
     [doi:10.1145/359545.359563](http://dx.doi.org/10.1145/359545.359563)
 
@@ -204,11 +204,11 @@ Chapter 5 References
     2010.
 
 1.  Sean Cribbs:
-    “[A Brief History of Time in Riak](https://www.youtube.com/watch?v=HHkKPdOi-ZU),”
+    “[A Brief History of Time in Riak](https://speakerdeck.com/seancribbs/a-brief-history-of-time-in-riak),”
     at *RICON*, October 2014.
 
 1.  Russell Brown:
-    “[Vector Clocks Revisited Part 2: Dotted Version Vectors](http://basho.com/posts/technical/vector-clocks-revisited-part-2-dotted-version-vectors/),” *basho.com*, November 10, 2015.
+    “[Vector Clocks Revisited Part 2: Dotted Version Vectors](https://riak.com/posts/technical/vector-clocks-revisited-part-2-dotted-version-vectors/),” *basho.com*, November 10, 2015.
 
 1.  Carlos Baquero:
     “[Version Vectors Are Not Vector Clocks](https://haslab.wordpress.com/2011/07/08/version-vectors-are-not-vector-clocks/),” *haslab.wordpress.com*, July 8, 2011.

@@ -42,9 +42,8 @@ Chapter 7 References
     *16th ACM Symposium on Operating Systems Principles* (SOSP), October 1997.
 
 1.  Philip A. Bernstein, Vassos Hadzilacos, and Nathan Goodman:
-    <a href="http://research.microsoft.com/en-us/people/philbe/ccontrol.aspx">*Concurrency
-    Control and Recovery in Database Systems*</a>. Addison-Wesley, 1987. ISBN: 978-0-201-10715-9,
-    available online at *research.microsoft.com*.
+    [*Concurrency Control and Recovery in Database Systems*](http://research.microsoft.com/en-us/people/philbe/ccontrol.aspx).
+    Addison-Wesley, 1987. ISBN: 978-0-201-10715-9, available online at *research.microsoft.com*.
 
 1.  Alan Fekete, Dimitrios Liarokapis, Elizabeth O'Neil, et al.:
     “[Making Snapshot Isolation Serializable](https://www.cse.iitb.ac.in/infolab/Data/Courses/CS632/2009/Papers/p492-fekete.pdf),” *ACM Transactions on Database Systems*,
@@ -89,7 +88,7 @@ Chapter 7 References
     “[Call Me Maybe: Cassandra](http://aphyr.com/posts/294-call-me-maybe-cassandra/),”
     *aphyr.com*, September 24, 2013.
 
-1.  “[ACID Support in Aerospike](http://www.aerospike.com/docs/architecture/assets/AerospikeACIDSupport.pdf),” Aerospike, Inc., June 2014.
+1.  “[ACID Support in Aerospike](https://web.archive.org/web/20170305002118/https://www.aerospike.com/docs/architecture/assets/AerospikeACIDSupport.pdf),” Aerospike, Inc., June 2014.
 
 1.  Martin Kleppmann:
     “[Hermitage: Testing the 'I' in ACID](http://martin.kleppmann.com/2014/11/25/hermitage-testing-the-i-in-acid.html),” *martin.kleppmann.com*, November 25, 2014.
@@ -107,10 +106,11 @@ Chapter 7 References
     Very Large Data Bases* (VLDB), September 2007.
 
 1.  Michael Melanson:
-    “[Transactions: The Limits of Isolation](http://www.michaelmelanson.net/2014/03/20/transactions/),” *michaelmelanson.net*, March 20, 2014.
+    “[Transactions: The Limits of Isolation](https://www.michaelmelanson.net/transactions-the-limits-of-isolation/),”
+    *michaelmelanson.net*, November 30, 2014.
 
 1.  Hal Berenson, Philip A. Bernstein, Jim N. Gray, et al.:
-    “[A Critique of ANSI SQL Isolation Levels](http://research.microsoft.com/pubs/69541/tr-95-51.pdf),”
+    “[A Critique of ANSI SQL Isolation Levels](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf),”
     at *ACM International Conference on Management of Data* (SIGMOD), May 1995.
 
 1.  Atul Adya: “[Weak Consistency: A Generalized Theory and Optimistic Implementations for Distributed Transactions](http://pmg.csail.mit.edu/papers/adya-phd.pdf),”
@@ -125,8 +125,8 @@ Chapter 7 References
     July 2014.
 
 1.  Annamalai Gurusami:
-    “[Repeatable Read Isolation Level in InnoDB – How Consistent Read View Works](https://blogs.oracle.com/mysqlinnodb/entry/repeatable_read_isolation_level_in),” *blogs.oracle.com*,
-    January 15, 2013.
+    “[Repeatable Read Isolation Level in InnoDB – How Consistent Read View Works](https://web.archive.org/web/20161225080947/https://blogs.oracle.com/mysqlinnodb/entry/repeatable_read_isolation_level_in),”
+    *blogs.oracle.com*, January 15, 2013.
 
 1.  Nikita Prokopov:
     “[Unofficial Guide to Datomic Internals](http://tonsky.me/blog/unofficial-guide-to-datomic-internals/),” *tonsky.me*, May 6, 2014.
@@ -143,14 +143,15 @@ Chapter 7 References
     *mframes.blogspot.co.uk*, July 4, 2013.
 
 1.  Steve Hilker:
-    “[Cursor Stability (CS) – IBM DB2 Community](http://www.toadworld.com/platforms/ibmdb2/w/wiki/6661.cursor-stability-cs.aspx),” *toadworld.com*, March 14, 2013.
+    “[Cursor Stability (CS) – IBM DB2 Community](https://web.archive.org/web/20150420001721/http://www.toadworld.com/platforms/ibmdb2/w/wiki/6661.cursor-stability-cs.aspx),”
+    *toadworld.com*, March 14, 2013.
 
 1.  Nate Wiger:
-    “[An Atomic Rant](http://www.nateware.com/an-atomic-rant.html),” *nateware.com*,
+    “[An Atomic Rant](https://nateware.com/2010/02/18/an-atomic-rant/),” *nateware.com*,
     February 18, 2010.
 
 1.  Joel Jacobson:
-    “[Riak 2.0: Data Types](http://blog.joeljacobson.com/riak-2-0-data-types/),”
+    “[Riak 2.0: Data Types](https://web.archive.org/web/20161023195905/http://blog.joeljacobson.com/riak-2-0-data-types/),”
     *blog.joeljacobson.com*, March 23, 2014.
 
 1.  Michael J. Cahill, Uwe Röhm, and Alan Fekete:
@@ -178,21 +179,21 @@ Chapter 7 References
     Conference on Very Large Data Bases* (VLDB), September 2007.
 
 1.  John Hugg:
-    “[H-Store/VoltDB Architecture vs. CEP Systems and Newer Streaming Architectures](https://www.youtube.com/watch?v=hD5M4a1UVz8),” at *Data @Scale Boston*,
-    November 2014.
+    “[H-Store/VoltDB Architecture vs. CEP Systems and Newer Streaming Architectures](https://www.youtube.com/watch?v=hD5M4a1UVz8),”
+    at *Data @Scale Boston*, November 2014.
 
 1.  Robert Kallman, Hideaki Kimura, Jonathan Natkins, et al.:
-    “[H-Store: A High-Performance, Distributed Main Memory Transaction Processing System](http://www.vldb.org/pvldb/1/1454211.pdf),” *Proceedings of the VLDB
-    Endowment*, volume 1, number 2, pages 1496–1499, August 2008.
+    “[H-Store: A High-Performance, Distributed Main Memory Transaction Processing System](http://www.vldb.org/pvldb/vol1/1454211.pdf),”
+    *Proceedings of the VLDB Endowment*, volume 1, number 2, pages 1496–1499, August 2008.
 
 1.  Rich Hickey:
     “[The Architecture of Datomic](http://www.infoq.com/articles/Architecture-Datomic),” *infoq.com*, November 2, 2012.
 
 1.  John Hugg:
-    “[Debunking Myths About the VoltDB In-Memory Database](http://voltdb.com/blog/debunking-myths-about-voltdb-memory-database),” *voltdb.com*, May 12, 2014.
+    “[Debunking Myths About the VoltDB In-Memory Database](https://dzone.com/articles/debunking-myths-about-voltdb),” *dzone.com*, May 28, 2014.
 
 1.  Joseph M. Hellerstein, Michael Stonebraker, and James Hamilton:
-    “[Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf),”
+    “[Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf),”
     *Foundations and Trends in Databases*, volume 1, number 2, pages 141–259, November 2007.
     [doi:10.1561/1900000002](http://dx.doi.org/10.1561/1900000002)
 

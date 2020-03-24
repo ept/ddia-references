@@ -16,13 +16,15 @@ Chapter 12 References
     *4th Biennial Conference on Innovative Data Systems Research* (CIDR), January 2009.
 
 1.  Jessica Kerr:
-      “[Provenance   and Causality in Distributed Systems](http://blog.jessitron.com/2016/09/provenance-and-causality-in-distributed.html),” *blog.jessitron.com*, September 25, 2016.
+      “[Provenance   and Causality in Distributed Systems](https://web.archive.org/web/20190425150540/http://blog.jessitron.com/2016/09/provenance-and-causality-in-distributed.html),”
+      *blog.jessitron.com*, September 25, 2016.
 
 1.  Kostas Tzoumas:
     “[Batch Is a Special Case of Streaming](http://data-artisans.com/batch-is-a-special-case-of-streaming/),” *data-artisans.com*, September 15, 2015.
 
 1.  Shinji Kim and Robert Blafford:
-    “[Stream Windowing Performance Analysis: Concord and Spark Streaming](http://concord.io/posts/windowing_performance_analysis_w_spark_streaming),” *concord.io*, July 6, 2016.
+    “[Stream Windowing Performance Analysis: Concord and Spark Streaming](https://web.archive.org/web/20180125074821/http://concord.io/posts/windowing_performance_analysis_w_spark_streaming),”
+    *concord.io*, July 6, 2016.
 
 1.  Jay Kreps:
     “[The Log: What Every Software Engineer Should Know About Real-Time Data's Unifying Abstraction](http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying),”
@@ -32,7 +34,8 @@ Chapter 12 References
     “[Life Beyond Distributed Transactions: An Apostate’s Opinion](http://www-db.cs.wisc.edu/cidr/cidr2007/papers/cidr07p15.pdf),” at *3rd Biennial Conference on Innovative Data
     Systems Research* (CIDR), January 2007.
 
-1.  “[Great Western Railway (1835–1948)](https://www.networkrail.co.uk/VirtualArchive/great-western/),” Network Rail Virtual Archive, *networkrail.co.uk*.
+1.  “[Great Western Railway (1835–1948)](https://web.archive.org/web/20160122155425/https://www.networkrail.co.uk/VirtualArchive/great-western/),”
+    Network Rail Virtual Archive, *networkrail.co.uk*.
 
 1.  Jacqueline Xu:
     “[Online Migrations at Scale](https://stripe.com/blog/online-migrations),”
@@ -42,8 +45,8 @@ Chapter 12 References
     “[Agile Architecture](http://conferences.oreilly.com/software-architecture/sa2015/public/schedule/detail/40388),” at *O'Reilly Software Architecture Conference*, March 2015.
 
 1.  Nathan Marz and James Warren:
-    <a href="https://www.manning.com/books/big-data">*Big Data: Principles and Best Practices of
-    Scalable Real-Time Data Systems*</a>. Manning, 2015. ISBN: 978-1-617-29034-3
+    [*Big Data: Principles and Best Practices of Scalable Real-Time Data Systems*](https://www.manning.com/books/big-data).
+    Manning, 2015. ISBN: 978-1-617-29034-3
 
 1.  Oscar Boykin, Sam Ritchie, Ian O'Connell, and
       Jimmy Lin: “[Summingbird: A Framework for   Integrating Batch and Online MapReduce Computations](http://www.vldb.org/pvldb/vol7/p1441-boykin.pdf),” at *40th International Conference on
@@ -52,12 +55,13 @@ Chapter 12 References
 1.  Jay Kreps:
       “[Questioning the   Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture),” *oreilly.com*, July 2, 2014.
 
-1.  Raul Castro Fernandez, Peter Pietzuch,
-    Jay Kreps, et al.: “[Liquid: Unifying Nearline and Offline Big Data Integration](http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper25u.pdf),” at *7th Biennial Conference on
-    Innovative Data Systems Research* (CIDR), January 2015.
+1.  Raul Castro Fernandez, Peter Pietzuch, Jay Kreps, et al.:
+    “[Liquid: Unifying Nearline and Offline Big Data Integration](http://cidrdb.org/cidr2015/Papers/CIDR15_Paper25u.pdf),”
+    at *7th Biennial Conference on Innovative Data Systems Research* (CIDR), January 2015.
 
 1.  Dennis M. Ritchie and Ken Thompson:
-    “[The UNIX Time-Sharing System](http://www.cs.virginia.edu/~zaher/classes/CS656/p365-ritchie.pdf),” *Communications of the ACM*, volume 17, number 7, pages 365–375, July 1974.
+    “[The UNIX Time-Sharing System](http://web.eecs.utk.edu/~qcao1/cs560/papers/paper-unix.pdf),”
+    *Communications of the ACM*, volume 17, number 7, pages 365–375, July 1974.
     [doi:10.1145/361011.361061](http://dx.doi.org/10.1145/361011.361061)
 
 1.  Eric A. Brewer and Joseph M. Hellerstein:
@@ -92,7 +96,7 @@ Chapter 12 References
     at *6th Biennial Conference on Innovative Data Systems Research* (CIDR), January 2013.
 
 1.  Derek G Murray, Frank McSherry, Rebecca Isaacs, et al.:
-    “[Naiad: A Timely Dataflow System](http://research.microsoft.com/pubs/201100/naiad_sosp2013.pdf),”
+    “[Naiad: A Timely Dataflow System](http://sigops.org/s/conferences/sosp/2013/papers/p439-murray.pdf),”
     at *24th ACM Symposium on Operating Systems Principles* (SOSP), pages 439–455, November 2013.
     [doi:10.1145/2517349.2522738](http://dx.doi.org/10.1145/2517349.2522738)
 
@@ -103,9 +107,8 @@ Chapter 12 References
     “[Turning the Database Inside-out with Apache Samza,](http://martin.kleppmann.com/2015/03/04/turning-the-database-inside-out.html)” at *Strange Loop*, September 2014.
 
 1.  Peter Van Roy and Seif Haridi:
-    <a href="http://www.epsa.org/forms/uploadFiles/3B6300000000.filename.booksingle.pdf">*Concepts,
-    Techniques, and Models of Computer Programming*</a>. MIT Press, 2004.
-    ISBN: 978-0-262-22069-9
+    [*Concepts, Techniques, and Models of Computer Programming*](https://www.info.ucl.ac.be/~pvr/book.html).
+    MIT Press, 2004. ISBN: 978-0-262-22069-9
 
 1.  “[Juttle Documentation](http://juttle.github.io/juttle/),” *juttle.github.io*, 2016.
 
@@ -119,14 +122,12 @@ Chapter 12 References
     “[A Survey on Reactive Programming](http://soft.vub.ac.be/Publications/2012/vub-soft-tr-12-13.pdf),” *ACM Computing Surveys*, volume 45, number 4, pages 1–34, August 2013.
     [doi:10.1145/2501654.2501666](http://dx.doi.org/10.1145/2501654.2501666)
 
-1.  Peter
-    Alvaro, Neil Conway, Joseph M. Hellerstein, and William R. Marczak:
-    “[Consistency Analysis in Bloom: A CALM and Collected Approach](http://www.eecs.berkeley.edu/~palvaro/cidr11.pdf),” at *5th Biennial Conference on Innovative Data Systems Research*
-    (CIDR), January 2011.
+1.  Peter Alvaro, Neil Conway, Joseph M. Hellerstein, and William R. Marczak:
+    “[Consistency Analysis in Bloom: A CALM and Collected Approach](https://dsf.berkeley.edu/cs286/papers/calm-cidr2011.pdf),”
+    at *5th Biennial Conference on Innovative Data Systems Research* (CIDR), January 2011.
 
 1.  Felienne Hermans:
-    “[Spreadsheets Are Code](https://vimeo.com/145492419),” at *Code Mesh*, November
-    2015.
+    “[Spreadsheets Are Code](https://vimeo.com/145492419),” at *Code Mesh*, November 2015.
 
 1.  Dan Bricklin and Bob
     Frankston: “[VisiCalc: Information from Its Creators](http://danbricklin.com/visicalc.htm),” *danbricklin.com*.
@@ -211,9 +212,9 @@ Chapter 12 References
     “[Redirect After Post](http://www.theserverside.com/news/1365146/Redirect-After-Post),”
     *theserverside.com*, August 1, 2004.
 
-1.  Jerome H. Saltzer, David P. Reed, and
-    David D. Clark: “[End-to-End Arguments in System Design](http://www.ece.drexel.edu/courses/ECE-C631-501/SalRee1984.pdf),” *ACM Transactions on Computer Systems*, volume 2, number 4,
-    pages 277–288, November 1984.
+1.  Jerome H. Saltzer, David P. Reed, and David D. Clark:
+    “[End-to-End Arguments in System Design](https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf),”
+    *ACM Transactions on Computer Systems*, volume 2, number 4, pages 277–288, November 1984.
     [doi:10.1145/357401.357402](http://dx.doi.org/10.1145/357401.357402)
 
 1.  Peter Bailis, Alan Fekete, Michael J. Franklin, et al.:
@@ -229,8 +230,8 @@ Chapter 12 References
     [doi:10.1145/224056.224070](http://dx.doi.org/10.1145/224056.224070)
 
 1.  Jim Gray:
-      “[The   Transaction Concept: Virtues and Limitations](http://research.microsoft.com/en-us/um/people/gray/papers/theTransactionConcept.pdf),” at *7th International Conference on
-      Very Large Data Bases* (VLDB), September 1981.
+      “[The Transaction Concept: Virtues and Limitations](http://jimgray.azurewebsites.net/papers/thetransactionconcept.pdf),”
+      at *7th International Conference on Very Large Data Bases* (VLDB), September 1981.
 
 1.  Hector Garcia-Molina and Kenneth Salem:
       “[Sagas](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf),” at
@@ -238,7 +239,8 @@ Chapter 12 References
       [doi:10.1145/38713.38742](http://dx.doi.org/10.1145/38713.38742)
 
 1.  Pat Helland:
-      “[Memories,   Guesses, and Apologies](http://blogs.msdn.com/b/pathelland/archive/2007/05/15/memories-guesses-and-apologies.aspx),” *blogs.msdn.com*, May 15, 2007.
+      “[Memories, Guesses, and Apologies](https://web.archive.org/web/20160304020907/http://blogs.msdn.com/b/pathelland/archive/2007/05/15/memories-guesses-and-apologies.aspx),”
+      *blogs.msdn.com*, May 15, 2007.
 
 1.  Yoongu Kim, Ross Daly, Jeremie Kim, et al.:
     “[Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors](https://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf),” at *41st Annual
@@ -274,7 +276,8 @@ Chapter 12 References
 1.  Sam Stokes:
     “[Move Fast with Confidence](http://blog.samstokes.co.uk/blog/2016/07/11/move-fast-with-confidence/),” *blog.samstokes.co.uk*, July 11, 2016.
 
-1.  “[Sawtooth Lake Documentation](http://intelledger.github.io/introduction.html),” Intel Corporation, *intelledger.github.io*, 2016.
+1.  “[Hyperledger Sawtooth documentation](https://sawtooth.hyperledger.org/docs/core/releases/latest/introduction.html),”
+    Intel Corporation, *sawtooth.hyperledger.org*, 2017.
 
 1.  Richard Gendal Brown:
     “[Introducing R3 Corda™: A Distributed Ledger Designed for Financial Services](https://gendal.me/2016/04/05/introducing-r3-corda-a-distributed-ledger-designed-for-financial-services/),” *gendal.me*, April 5, 2016.
@@ -292,13 +295,15 @@ Chapter 12 References
     [doi:10.1145/2668152.2668154](http://dx.doi.org/10.1145/2668152.2668154)
 
 1.  Mark D. Ryan:
-    “[Enhanced Certificate Transparency and End-to-End Encrypted Mail](http://www.internetsociety.org/doc/enhanced-certificate-transparency-and-end-end-encrypted-mail),” at *Network and Distributed System
-    Security Symposium* (NDSS), February 2014.
+    “[Enhanced Certificate Transparency and End-to-End Encrypted Mail](https://www.ndss-symposium.org/wp-content/uploads/2017/09/12_2_1.pdf),”
+    at *Network and Distributed System Security Symposium* (NDSS), February 2014.
     [doi:10.14722/ndss.2014.23379](http://dx.doi.org/10.14722/ndss.2014.23379)
 
-1.  “<a
-    href="http://www.acm.org/about/se-code">Software Engineering Code of Ethics and Professional
-    Practice</a>,” Association for Computing Machinery, *acm.org*, 1999.
+1.  “[Software Engineering Code of Ethics and Professional Practice](http://www.acm.org/about/se-code),”
+    Association for Computing Machinery, *acm.org*, 1999.
+
+1.  “[ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics),”
+    Association for Computing Machinery, *acm.org*, 2018.
 
 1.  François Chollet:
     “[Software development is starting to involve important ethical choices](https://twitter.com/fchollet/status/792958695722201088),” *twitter.com*, October 30, 2016.
@@ -331,9 +336,8 @@ Chapter 12 References
     *idlewords.com*, June 2016.
 
 1.  Cathy O'Neil:
-    <a href="https://weaponsofmathdestructionbook.com/">*Weapons of Math Destruction: How Big Data
-    Increases Inequality and Threatens Democracy*</a>. Crown Publishing, 2016.
-    ISBN: 978-0-553-41881-1
+    [*Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*](https://weaponsofmathdestructionbook.com/).
+    Crown Publishing, 2016. ISBN: 978-0-553-41881-1
 
 1.  Julia Angwin:
     “[Make Algorithms Accountable](http://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html),” *nytimes.com*, August 1, 2016.
@@ -342,8 +346,8 @@ Chapter 12 References
     “[European Union Regulations on Algorithmic Decision-Making and a ‘Right to Explanation’](https://arxiv.org/abs/1606.08813),” *arXiv:1606.08813*, August 31,
     2016.
 
-1.  “[A Review of the Data Broker Industry: Collection, Use, and Sale of Consumer Data for Marketing Purposes](https://www.commerce.senate.gov/public/index.cfm/reports?ID=57C428EC-8F20-44EE-BFB8-A570E9BE0CCC),” Staff Report, *United States Senate Committee on Commerce, Science, and
-    Transportation*, *commerce.senate.gov*, December 2013.
+1.  “[A Review of the Data Broker Industry: Collection, Use, and Sale of Consumer Data for Marketing Purposes](http://educationnewyork.com/files/rockefeller_databroker.pdf),”
+    Staff Report, *United States Senate Committee on Commerce, Science, and Transportation*, *commerce.senate.gov*, December 2013.
 
 1.  Olivia Solon:
     “[Facebook’s Failure: Did Fake News and Polarized Politics Get Trump Elected?](https://www.theguardian.com/technology/2016/nov/10/facebook-fake-news-election-conspiracy-theories)” *theguardian.com*, November 10,
@@ -362,9 +366,8 @@ Chapter 12 References
     “[‘Internet of Things’ Security Is Hilariously Broken and Getting Worse](http://arstechnica.com/security/2016/01/how-to-search-the-internet-of-things-for-photos-of-sleeping-babies/),” *arstechnica.com*, January 23, 2016.
 
 1.  Bruce Schneier:
-    <a href="https://www.schneier.com/books/data_and_goliath/">*Data and Goliath: The Hidden Battles
-    to Collect Your Data and Control Your World*</a>. W. W. Norton, 2015.
-    ISBN: 978-0-393-35217-7
+    [*Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World*](https://www.schneier.com/books/data_and_goliath/).
+    W. W. Norton, 2015. ISBN: 978-0-393-35217-7
 
 1.  The Grugq:
     “[Nothing to Hide](https://grugq.tumblr.com/post/142799983558/nothing-to-hide),”
