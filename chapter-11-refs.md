@@ -49,7 +49,7 @@ Chapter 11 References
       *grafana.com*, March 3, 2016.
 
 1.  Jeff Lindsay:
-      “[Web Hooks to Revolutionize the Web](http://progrium.com/blog/2007/05/03/web-hooks-to-revolutionize-the-web/),” *progrium.com*, May 3, 2007.
+      “[Web Hooks to Revolutionize the Web](https://web.archive.org/web/20180928201955/http://progrium.com/blog/2007/05/03/web-hooks-to-revolutionize-the-web/),” *progrium.com*, May 3, 2007.
 
 1.  Jim N. Gray:
     “[Queues Are Databases](https://arxiv.org/pdf/cs/0701158.pdf),”
