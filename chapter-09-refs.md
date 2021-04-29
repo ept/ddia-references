@@ -1,7 +1,7 @@
 Designing Data-Intensive Applications
 =====================================
 
-Chapter 9 References
+Chapter 9. Consistency and Consensuss References
 --------------------
 
 1.  Peter Bailis and Ali Ghodsi:

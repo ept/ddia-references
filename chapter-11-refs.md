@@ -1,7 +1,7 @@
 Designing Data-Intensive Applications
 =====================================
 
-Chapter 11 References
+Chapter 11. Stream Processing References
 --------------------
 
 1.  Tyler Akidau, Robert Bradshaw, Craig Chambers, et al.:

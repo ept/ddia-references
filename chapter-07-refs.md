@@ -1,7 +1,7 @@
 Designing Data-Intensive Applications
 =====================================
 
-Chapter 7 References
+Chapter 7. Transactions References
 --------------------
 
 1.  Donald D. Chamberlin, Morton M. Astrahan, Michael W. Blasgen, et al.:

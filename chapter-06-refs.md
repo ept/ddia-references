@@ -1,7 +1,7 @@
 Designing Data-Intensive Applications
 =====================================
 
-Chapter 6 References
+Chapter 6. Partitioning References
 --------------------
 
 1.  David J. DeWitt and Jim N. Gray:

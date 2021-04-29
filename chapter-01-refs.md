@@ -1,7 +1,7 @@
 Designing Data-Intensive Applications
 =====================================
 
-Chapter 1 References
+Chapter 1. Reliable, Scalable, and Maintainable Applications References
 --------------------
 
 1.  Michael Stonebraker and Uğur Çetintemel:

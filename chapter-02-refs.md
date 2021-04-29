@@ -1,7 +1,7 @@
 Designing Data-Intensive Applications
 =====================================
 
-Chapter 2 References
+Chapter 2. Data Models and Query Languages References
 --------------------
 
 1.  Edgar F. Codd:

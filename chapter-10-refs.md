@@ -1,7 +1,7 @@
 Designing Data-Intensive Applications
 =====================================
 
-Chapter 10 References
+Chapter 10. Batch Processing References
 --------------------
 
 1.  Jeffrey Dean and Sanjay Ghemawat:
