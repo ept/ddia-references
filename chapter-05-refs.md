@@ -1,7 +1,7 @@
 Designing Data-Intensive Applications
 =====================================
 
-Chapter 5 References
+Chapter 5. Replication References
 --------------------
 
 1.  Bruce G. Lindsay, Patricia Griffiths Selinger, C. Galtieri, et al.:

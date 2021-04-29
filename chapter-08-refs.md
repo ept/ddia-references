@@ -1,7 +1,7 @@
 Designing Data-Intensive Applications
 =====================================
 
-Chapter 8 References
+Chapter 8. The Trouble with Distributed Systems References
 --------------------
 
 1.  Mark Cavage:

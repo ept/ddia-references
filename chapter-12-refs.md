@@ -1,7 +1,7 @@
 Designing Data-Intensive Applications
 =====================================
 
-Chapter 12 References
+Chapter 12. The Future of Data Systems References
 --------------------
 
 1.  Rachid Belaid:
