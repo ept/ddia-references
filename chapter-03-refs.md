@@ -15,7 +15,7 @@ Chapter 3 References
     “[Bitcask: A Log-Structured Hash Table for Fast Key/Value Data](https://riak.com/assets/bitcask-intro.pdf),” Basho Technologies, April 2010.
 
 1.  Yinan Li, Bingsheng He, Robin Jun Yang, et al.:
-      “[Tree Indexing on Solid State Drives](http://www.vldb.org/pvldb/vldb2010/papers/R106.pdf),”
+      “[Tree Indexing on Solid State Drives](http://pages.cs.wisc.edu/~yinan/paper/fdtree_pvldb.pdf),”
       *Proceedings of the VLDB Endowment*, volume 3, number 1, pages 1195–1206,
       September 2010.
 
