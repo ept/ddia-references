@@ -31,7 +31,7 @@ Chapter 6 References
     [doi:10.1145/258533.258660](http://dx.doi.org/10.1145/258533.258660)
 
 1.  John Lamping and Eric Veach:
-    “[A Fast, Minimal Memory, Consistent Hash Algorithm](http://arxiv.org/pdf/1406.2294v1.pdf),” *arxiv.org*, June 2014.
+    “[A Fast, Minimal Memory, Consistent Hash Algorithm](http://arxiv.org/pdf/1406.2294.pdf),” *arxiv.org*, June 2014.
 
 1.  Eric Redmond:
     “[A Little Riak Book](https://web.archive.org/web/20160807123307/http://www.littleriakbook.com/),” Version 1.4.0,
