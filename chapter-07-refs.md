@@ -198,7 +198,7 @@ Chapter 7 References
     [doi:10.1561/1900000002](http://dx.doi.org/10.1561/1900000002)
 
 1.  Michael J. Cahill:
-    “[Serializable Isolation for Snapshot Databases](http://cahill.net.au/wp-content/uploads/2010/02/cahill-thesis.pdf),” PhD Thesis, University of Sydney, July 2009.
+    “[Serializable Isolation for Snapshot Databases](https://ses.library.usyd.edu.au/bitstream/handle/2123/5353/michael-cahill-2009-thesis.pdf),” PhD Thesis, University of Sydney, July 2009.
 
 1.  D. Z. Badal:
     “[Correctness of Concurrency Control and Implications in Distributed Databases](http://ieeexplore.ieee.org/abstract/document/762563/),” at *3rd International IEEE Computer Software and
