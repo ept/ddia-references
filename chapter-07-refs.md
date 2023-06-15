@@ -106,7 +106,7 @@ Chapter 7 References
     Very Large Data Bases* (VLDB), September 2007.
 
 1.  Michael Melanson:
-    “[Transactions: The Limits of Isolation](https://www.michaelmelanson.net/transactions-the-limits-of-isolation/),”
+    “[Transactions: The Limits of Isolation](https://www.michaelmelanson.net/posts/transactions-the-limits-of-isolation/),”
     *michaelmelanson.net*, November 30, 2014.
 
 1.  Hal Berenson, Philip A. Bernstein, Jim N. Gray, et al.:
