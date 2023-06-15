@@ -5,7 +5,7 @@ Chapter 1 References
 --------------------
 
 1.  Michael Stonebraker and Uğur Çetintemel:
-    “['One Size Fits All': An Idea Whose Time Has Come and Gone](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.68.9136&rep=rep1&type=pdf),” at *21st International Conference
+    “['One Size Fits All': An Idea Whose Time Has Come and Gone](https://cs.brown.edu/~ugur/fits_all.pdf),” at *21st International Conference
     on Data Engineering* (ICDE), April 2005.
 
 1.  Walter L. Heimerdinger and Charles B. Weinstock:
@@ -17,8 +17,8 @@ Chapter 1 References
     and Implementation* (OSDI), October 2014.
 
 1.  Yury Izrailevsky and Ariel Tseitlin:
-    “[The Netflix Simian Army](http://techblog.netflix.com/2011/07/netflix-simian-army.html),”
-    *techblog.netflix.com*, July 19, 2011.
+    “[The Netflix Simian Army](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116),”
+    *netflixtechblog.com*, July 19, 2011.
 
 1.  Daniel Ford, François Labelle, Florentina I. Popovici, et al.:
     “[Availability in Globally Distributed Storage Systems](http://research.google.com/pubs/archive/36737.pdf),”
@@ -77,10 +77,10 @@ Chapter 1 References
     “[Make Data Useful](http://glinden.blogspot.co.uk/2006/12/slides-from-my-talk-at-stanford.html),” slides from presentation at Stanford University Data Mining class (CS345), December 2006.
 
 1.  Tammy Everts:
-    “[The Real Cost of Slow Time vs Downtime](http://www.webperformancetoday.com/2014/11/12/real-cost-slow-time-vs-downtime-slides/),” *webperformancetoday.com*, November 12, 2014.
+    “[The Real Cost of Slow Time vs Downtime](https://www.slideshare.net/Radware/radware-cmg2014-tammyevertsslowtimevsdowntime),” *slideshare.net*, November 5, 2014.
 
 1.  Jake Brutlag:
-    “[Speed Matters for Google Web Search](http://googleresearch.blogspot.co.uk/2009/06/speed-matters.html),” *googleresearch.blogspot.co.uk*, June 22, 2009.
+    “[Speed Matters](https://ai.googleblog.com/2009/06/speed-matters.html),” *ai.googleblog.com*, June 23, 2009.
 
 1.  Tyler Treat:
     “[Everything You Know About Latency Is Wrong](http://bravenewgeek.com/everything-you-know-about-latency-is-wrong/),” *bravenewgeek.com*, December 12, 2015.
@@ -102,7 +102,7 @@ Chapter 1 References
     “[HdrHistogram](http://www.hdrhistogram.org/),” *hdrhistogram.org*.
 
 1.  Baron Schwartz:
-    “[Why Percentiles Don’t Work the Way You Think](https://www.vividcortex.com/blog/why-percentiles-dont-work-the-way-you-think),” *vividcortex.com*, December 7, 2015.
+    “[Why Percentiles Don’t Work the Way You Think](https://orangematter.solarwinds.com/2016/11/18/why-percentiles-dont-work-the-way-you-think/),” *solarwinds.com*, November 18, 2016.
 
 1.  James Hamilton:
     “[On Designing and Deploying Internet-Scale Services](https://www.usenix.org/legacy/events/lisa07/tech/full_papers/hamilton/hamilton.pdf),” at *21st Large Installation

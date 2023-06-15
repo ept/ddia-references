@@ -19,7 +19,7 @@ Chapter 2 References
     978-0-321-82662-6
 
 1.  Eric Evans:
-    “[NoSQL: What's in a Name?](http://blog.sym-link.com/2009/10/30/nosql_whats_in_a_name.html),” *blog.sym-link.com*, October 30, 2009.
+    “[NoSQL: What's in a Name?](https://web.archive.org/web/20190623045155/http://blog.sym-link.com/2009/10/30/nosql_whats_in_a_name.html),” *blog.sym-link.com*, October 30, 2009.
 
 1.  James Phillips:
       “[Surprises in Our NoSQL   Adoption Survey](http://blog.couchbase.com/nosql-adoption-survey-surprises),” *blog.couchbase.com*, February 8, 2012.
@@ -28,7 +28,7 @@ Chapter 2 References
       *SQL/XML:2006 – Evaluierung der Standardkonformität ausgewählter Datenbanksysteme*.
       Diplomica Verlag, Hamburg, 2010. ISBN: 978-3-836-64609-3
 
-1.  “[XML   Data in SQL Server](http://technet.microsoft.com/en-us/library/bb522446.aspx),” SQL Server 2012 documentation, *technet.microsoft.com*, 2013.
+1.  “[XML Data (SQL Server)](https://docs.microsoft.com/en-us/sql/relational-databases/xml/xml-data-sql-server?view=sql-server-ver15),” SQL Server documentation, *docs.microsoft.com*, 2013.
 
 1.  “[PostgreSQL   9.3.1 Documentation](http://www.postgresql.org/docs/9.3/static/index.html),” The PostgreSQL Global Development Group, 2013.
 
@@ -43,7 +43,7 @@ Chapter 2 References
     of Data* (SIGMOD), June 2013.
 
 1.  Rick Long, Mark Harrington, Robert Hain, and Geoff Nicholls:
-    <a href="http://www.redbooks.ibm.com/redbooks/pdfs/sg245352.pdf">*IMS Primer*</a>.
+    [*IMS Primer*](http://www.redbooks.ibm.com/redbooks/pdfs/sg245352.pdf).
     IBM Redbook SG24-5352-00, IBM International Technical Support Organization, January 2000.
 
 1.  Stephen D. Bartlett:
@@ -94,7 +94,7 @@ Chapter 2 References
     “[gh-ost: GitHub's Online Schema Migration Tool for MySQL](http://githubengineering.com/gh-ost-github-s-online-migration-tool-for-mysql/),” *githubengineering.com*, August 1, 2016.
 
 1.  James C. Corbett, Jeffrey Dean, Michael Epstein, et al.:
-    “[Spanner: Google’s Globally-Distributed Database](http://research.google.com/archive/spanner.html),”
+    “[Spanner: Google’s Globally-Distributed Database](https://research.google/pubs/pub39966/),”
     at *10th USENIX Symposium on Operating System Design and Implementation* (OSDI),
     October 2012.
 
@@ -102,7 +102,7 @@ Chapter 2 References
     “[Reduce I/O with Oracle Cluster Tables](http://www.dba-oracle.com/oracle_tip_hash_index_cluster_table.htm),” *dba-oracle.com*.
 
 1.  Fay Chang, Jeffrey Dean, Sanjay Ghemawat, et al.:
-    “[Bigtable: A Distributed Storage System for Structured Data](http://research.google.com/archive/bigtable.html),” at *7th USENIX Symposium on Operating System Design and
+    “[Bigtable: A Distributed Storage System for Structured Data](https://research.google/pubs/pub27898/),” at *7th USENIX Symposium on Operating System Design and
     Implementation* (OSDI), November 2006.
 
 1.  Bobbie J. Cochrane and Kathy A. McKnight:
@@ -118,7 +118,7 @@ Chapter 2 References
     2010.
 
 1.  Jeffrey Dean and Sanjay Ghemawat:
-    “[MapReduce: Simplified Data Processing on Large Clusters](http://research.google.com/archive/mapreduce.html),” at *6th USENIX Symposium on Operating System Design and
+    “[MapReduce: Simplified Data Processing on Large Clusters](https://research.google/pubs/pub62/),” at *6th USENIX Symposium on Operating System Design and
     Implementation* (OSDI), December 2004.
 
 1.  Craig Kerstiens:
@@ -165,19 +165,19 @@ Chapter 2 References
     [doi:10.1109/69.43410](http://dx.doi.org/10.1109/69.43410)
 
 1.  Serge Abiteboul, Richard Hull, and Victor Vianu:
-    <a href="http://webdam.inria.fr/Alice/">*Foundations of Databases*</a>. Addison-Wesley, 1995.
+    [*Foundations of Databases*](http://webdam.inria.fr/Alice/). Addison-Wesley, 1995.
     ISBN: 978-0-201-53771-0, available online at *webdam.inria.fr/Alice*
 
 1.  Nathan Marz:
-    “[Cascalog](http://cascalog.org/)," *cascalog.org*.
+    “[Cascalog](https://github.com/nathanmarz/cascalog)," *github.com*.
 
 1.  Dennis A. Benson,
       Ilene Karsch-Mizrachi, David J. Lipman, et al.:
-      “[GenBank](http://nar.oxfordjournals.org/content/36/suppl_1/D25.full-text-lowres.pdf),”
+      “[GenBank](https://academic.oup.com/nar/article/36/suppl_1/D25/2507746),”
       *Nucleic Acids Research*, volume 36, Database issue, pages D25–D30, December 2007.
       [doi:10.1093/nar/gkm929](http://dx.doi.org/10.1093/nar/gkm929)
 
 1.  Fons Rademakers:
-      “[ROOT   for Big Data Analysis](http://indico.cern.ch/getFile.py/access?contribId=13&resId=0&materialId=slides&confId=246453),” at *Workshop on the Future of Big Data Management*,
+      “[ROOT for Big Data Analysis](https://indico.cern.ch/event/246453/contributions/1566610/attachments/423154/587535/ROOT-BigData-Analysis-London-2013.pdf),” at *Workshop on the Future of Big Data Management*,
       London, UK, June 2013.
 

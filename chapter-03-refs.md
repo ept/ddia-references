@@ -12,10 +12,10 @@ Chapter 3 References
     ISBN: 978-0-262-53305-8
 
 1.  Justin Sheehy and David Smith:
-    “[Bitcask: A Log-Structured Hash Table for Fast Key/Value Data](http://basho.com/wp-content/uploads/2015/05/bitcask-intro.pdf),” Basho Technologies, April 2010.
+    “[Bitcask: A Log-Structured Hash Table for Fast Key/Value Data](https://riak.com/assets/bitcask-intro.pdf),” Basho Technologies, April 2010.
 
 1.  Yinan Li, Bingsheng He, Robin Jun Yang, et al.:
-      “[Tree Indexing on Solid State Drives](http://www.vldb.org/pvldb/vldb2010/papers/R106.pdf),”
+      “[Tree Indexing on Solid State Drives](http://pages.cs.wisc.edu/~yinan/paper/fdtree_pvldb.pdf),”
       *Proceedings of the VLDB Endowment*, volume 3, number 1, pages 1195–1206,
       September 2010.
 
@@ -26,17 +26,17 @@ Chapter 3 References
 
 1.  Jeffrey Dean and Sanjay Ghemawat:
     “[LevelDB Implementation Notes](https://github.com/google/leveldb/blob/master/doc/impl.md),”
-    *leveldb.googlecode.com*.
+    *github.com*.
 
 1.  Dhruba Borthakur:
-    “[The History of RocksDB](http://rocksdb.blogspot.com/),”
+    “[The History of RocksDB](https://rocksdb.blogspot.com/2013/11/the-history-of-rocksdb.html),”
     *rocksdb.blogspot.com*, November 24, 2013.
 
 1.  Matteo Bertozzi:
-    “[Apache HBase I/O – HFile](http://blog.cloudera.com/blog/2012/06/hbase-io-hfile-input-output/),” *blog.cloudera.com*, June, 29 2012.
+    “[Apache HBase I/O – HFile](https://blog.cloudera.com/apache-hbase-i-o-hfile/),” *blog.cloudera.com*, June 29, 2012.
 
 1.  Fay Chang, Jeffrey Dean, Sanjay Ghemawat, et al.:
-    “[Bigtable: A Distributed Storage System for Structured Data](http://research.google.com/archive/bigtable.html),” at *7th USENIX Symposium on Operating System Design and
+    “[Bigtable: A Distributed Storage System for Structured Data](https://research.google/pubs/pub27898/),” at *7th USENIX Symposium on Operating System Design and
     Implementation* (OSDI), November 2006.
 
 1.  Patrick
@@ -54,16 +54,17 @@ Chapter 3 References
     “[What Is in a Lucene Index?](http://www.slideshare.net/lucenerevolution/what-is-inaluceneagrandfinal),” at *Lucene/Solr Revolution*, November 14, 2013.
 
 1.  Deepak Kandepet:
-    “[Hacking Lucene—The Index Format]( http://hackerlabs.github.io/blog/2011/10/01/hacking-lucene-the-index-format/index.html),” *hackerlabs.org*, October 1, 2011.
+    “[Hacking Lucene—The Index Format](https://web.archive.org/web/20160316190830/http://hackerlabs.github.io/blog/2011/10/01/hacking-lucene-the-index-format/index.html),” *hackerlabs.github.io*, October 1, 2011.
 
 1.  Michael McCandless:
     “[Visualizing Lucene's Segment Merges](http://blog.mikemccandless.com/2011/02/visualizing-lucenes-segment-merges.html),” *blog.mikemccandless.com*, February 11, 2011.
 
 1.  Burton H. Bloom:
-    “[Space/Time Trade-offs in Hash Coding with Allowable Errors](http://www.cs.upc.edu/~diaz/p422-bloom.pdf),” *Communications of the ACM*, volume 13, number 7, pages 422–426, July 1970.
+    “[Space/Time Trade-offs in Hash Coding with Allowable Errors](https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/Misc/p422-bloom.pdf),”
+    *Communications of the ACM*, volume 13, number 7, pages 422–426, July 1970.
     [doi:10.1145/362686.362692](http://dx.doi.org/10.1145/362686.362692)
 
-1.  “[Operating Cassandra: Compaction](https://cassandra.apache.org/doc/latest/operating/compaction.html),” Apache Cassandra Documentation v4.0, 2016.
+1.  “[Operating Cassandra: Compaction](https://cassandra.apache.org/doc/latest/operating/compaction/index.html),” Apache Cassandra Documentation v4.0, 2016.
 
 1.  Rudolf Bayer and Edward M. McCreight:
     “[Organization and Maintenance of Large Ordered Indices](http://www.dtic.mil/cgi-bin/GetTRDoc?AD=AD0712079),” Boeing Scientific Research Laboratories, Mathematical and Information Sciences
@@ -86,7 +87,7 @@ Chapter 3 References
       at *Build Stuff '14*, November 2014.
 
 1.  Bradley C. Kuszmaul:
-      “[A   Comparison of Fractal Trees to Log-Structured Merge (LSM) Trees](http://insideanalysis.com/wp-content/uploads/2014/08/Tokutek_lsm-vs-fractal.pdf),” *tokutek.com*,
+      “[A   Comparison of Fractal Trees to Log-Structured Merge (LSM) Trees](http://www.pandademo.com/wp-content/uploads/2017/12/A-Comparison-of-Fractal-Trees-to-Log-Structured-Merge-LSM-Trees.pdf),” *tokutek.com*,
       April 22, 2014.
 
 1.  Manos Athanassoulis, Michael S. Kester,
@@ -105,11 +106,9 @@ Chapter 3 References
     “[The Advantages of an LSM vs a B-Tree](http://smalldatum.blogspot.co.uk/2016/01/summary-of-advantages-of-lsm-vs-b-tree.html),” *smalldatum.blogspot.co.uk*, January 19, 2016.
 
 1.  Mark Callaghan:
-    “[Choosing Between Efficiency and Performance with RocksDB](http://www.codemesh.io/codemesh/mark-callaghan),” at *Code Mesh*, November 4, 2016.
+    “[Choosing Between Efficiency and Performance with RocksDB](https://codemesh.io/codemesh2016/mark-callaghan),” at *Code Mesh*, November 4, 2016.
 
-1.  Michi Mutsuzaki:
-    “[MySQL vs. LevelDB](https://github.com/m1ch1/mapkeeper/wiki/MySQL-vs.-LevelDB),”
-    *github.com*, August 2011.
+1.  Michi Mutsuzaki: “MySQL vs. LevelDB” &#91;URL inactive&#93;, August 2011.
 
 1.  Benjamin Coverston,
     Jonathan Ellis, et al.: “[CASSANDRA-1608: Redesigned Compaction](https://issues.apache.org/jira/browse/CASSANDRA-1608), *issues.apache.org*, July 2011.
@@ -118,11 +117,11 @@ Chapter 3 References
     “[RocksDB Tuning Guide](https://github.com/facebook/rocksdb/wiki/RocksDB-Tuning-Guide),”
     *github.com*, 2016.
 
-1.  <a href="http://dev.mysql.com/doc/refman/5.7/en/index.html">*MySQL
-    5.7 Reference Manual*</a>. Oracle, 2014.
+1.  [*MySQL 5.7 Reference Manual*](http://dev.mysql.com/doc/refman/5.7/en/index.html).
+    Oracle, 2014.
 
-1.  <a href="http://msdn.microsoft.com/en-us/library/ms130214.aspx">*Books
-    Online for SQL Server 2012*</a>. Microsoft, 2012.
+1.  [*Books Online for SQL Server 2012*](http://msdn.microsoft.com/en-us/library/ms130214.aspx).
+    Microsoft, 2012.
 
 1.  Joe Webb:
     “[Using Covering Indexes to Improve Query Performance](https://www.simple-talk.com/sql/learn-sql-server/using-covering-indexes-to-improve-query-performance/),” *simple-talk.com*, 29 September 2008.
@@ -154,14 +153,14 @@ Chapter 3 References
     [doi:10.1007/s10032-002-0082-8](http://dx.doi.org/10.1007/s10032-002-0082-8)
 
 1.  Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schütze:
-    <a href="http://nlp.stanford.edu/IR-book/">*Introduction to Information Retrieval*</a>.
+    [*Introduction to Information Retrieval*](http://nlp.stanford.edu/IR-book/).
     Cambridge University Press, 2008. ISBN: 978-0-521-86571-5, available online at *nlp.stanford.edu/IR-book*
 
 1.  Michael Stonebraker, Samuel Madden, Daniel J. Abadi, et al.:
     “[The End of an Architectural Era (It’s Time for a Complete Rewrite)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.137.3697&rep=rep1&type=pdf),” at
     *33rd International Conference on Very Large Data Bases* (VLDB), September 2007.
 
-1.  “[VoltDB Technical Overview White Paper](https://www.voltdb.com/wptechnicaloverview),” VoltDB, 2014.
+1.  “[VoltDB Technical Overview White Paper](https://www.voltdb.com/files/voltdb-technical-overview/),” VoltDB, 2014.
 
 1.  Stephen M. Rumble, Ankita Kejriwal, and John K. Ousterhout:
     “[Log-Structured Memory for DRAM-Based Storage](https://www.usenix.org/system/files/conference/fast14/fast14-paper_rumble.pdf),” at *12th USENIX Conference on File and Storage
@@ -183,8 +182,8 @@ Chapter 3 References
     [doi:10.1145/2723372.2749441](http://dx.doi.org/10.1145/2723372.2749441)
 
 1.  Edgar F. Codd, S. B. Codd, and C. T. Salley:
-    “[Providing OLAP to User-Analysts: An IT Mandate](http://www.minet.uni-jena.de/dbis/lehre/ss2005/sem_dwh/lit/Cod93.pdf),” E. F. Codd Associates,
-1993.
+    “[Providing OLAP to User-Analysts: An IT Mandate](https://pdfs.semanticscholar.org/a0bd/1491a54a4de428c5eef9b836ef6ee2915fe7.pdf),”
+    E. F. Codd Associates, 1993.
 
 1.  Surajit Chaudhuri and Umeshwar Dayal:
     “[An Overview of Data Warehousing and OLAP Technology](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/sigrecord.pdf),” *ACM SIGMOD Record*, volume 26, number 1, pages 65–74,
@@ -209,7 +208,7 @@ Chapter 3 References
     Research* (CIDR), January 2015.
 
 1.  Sergey Melnik, Andrey Gubarev, Jing Jing Long, et al.:
-    “[Dremel: Interactive Analysis of Web-Scale Datasets](http://research.google.com/pubs/pub36632.html),” at *36th International Conference on Very Large Data Bases* (VLDB), pages
+    “[Dremel: Interactive Analysis of Web-Scale Datasets](https://research.google/pubs/pub36632/),” at *36th International Conference on Very Large Data Bases* (VLDB), pages
     330–339, September 2010.
 
 1.  Ralph Kimball and Margy Ross:
@@ -221,7 +220,7 @@ Chapter 3 References
     *gigaom.com*, March 27, 2013.
 
 1.  Julien Le Dem:
-    “[Dremel Made Simple with Parquet](https://blog.twitter.com/2013/dremel-made-simple-with-parquet),”
+    “[Dremel Made Simple with Parquet](https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet.html),”
     *blog.twitter.com*, September 11, 2013.
 
 1.  Daniel J. Abadi, Peter Boncz, Stavros
@@ -231,7 +230,7 @@ Chapter 3 References
     [doi:10.1561/1900000024](http://dx.doi.org/10.1561/1900000024)
 
 1.  Peter Boncz, Marcin Zukowski, and Niels Nes:
-    “[MonetDB/X100: Hyper-Pipelining Query Execution](http://www.cidrdb.org/cidr2005/papers/P19.pdf),”
+    “[MonetDB/X100: Hyper-Pipelining Query Execution](http://cidrdb.org/cidr2005/papers/P19.pdf),”
     at *2nd Biennial Conference on Innovative Data Systems Research* (CIDR), January 2005.
 
 1.  Jingren Zhou and Kenneth A. Ross:
@@ -240,7 +239,7 @@ Chapter 3 References
     [doi:10.1145/564691.564709](http://dx.doi.org/10.1145/564691.564709)
 
 1.  Michael Stonebraker, Daniel J. Abadi, Adam Batkin, et al.:
-    “[C-Store: A Column-oriented DBMS](http://www.vldb2005.org/program/paper/thu/p553-stonebraker.pdf),”
+    “[C-Store: A Column-oriented DBMS](http://www.cs.umd.edu/~abadi/vldb.pdf),”
     at *31st International Conference on Very Large Data Bases* (VLDB), pages 553–564, September 2005.
 
 1.  Andrew Lamb, Matt Fuller, Ramakrishna Varadarajan, et al.:

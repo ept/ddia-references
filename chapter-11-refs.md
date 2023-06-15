@@ -10,7 +10,7 @@ Chapter 11 References
     [doi:10.14778/2824032.2824076](http://dx.doi.org/10.14778/2824032.2824076)
 
 1.  Harold Abelson, Gerald Jay Sussman, and Julie Sussman:
-    <a href="https://mitpress.mit.edu/sicp/">*Structure and Interpretation of Computer Programs*</a>,
+    [*Structure and Interpretation of Computer Programs*](https://mitpress.mit.edu/sicp/),
     2nd edition. MIT Press, 1996. ISBN: 978-0-262-51087-5, available online at *mitpress.mit.edu*
 
 1.  Patrick Th. Eugster, Pascal A. Felber,
@@ -20,7 +20,7 @@ Chapter 11 References
     [doi:10.1145/857076.857078](http://dx.doi.org/10.1145/857076.857078)
 
 1.  Joseph M. Hellerstein and Michael Stonebraker:
-    <a href="http://redbook.cs.berkeley.edu/">*Readings in Database Systems*</a>, 4th edition.
+    [*Readings in Database Systems*](http://redbook.cs.berkeley.edu/), 4th edition.
     MIT Press, 2005. ISBN: 978-0-262-69314-1, available online at *redbook.cs.berkeley.edu*
 
 1.  Don Carney, Uğur Çetintemel, Mitch Cherniack, et al.:
@@ -38,20 +38,21 @@ Chapter 11 References
       “[MoldUDP64   Protocol Specification V 1.00](http://www.nasdaqtrader.com/content/technicalsupport/specifications/dataproducts/moldudp64.pdf),” *nasdaqtrader.com*, July 2009.
 
 1.  Pieter Hintjens:
-      <a href="http://zguide.zeromq.org/page:all">*ZeroMQ – The Guide*</a>. O'Reilly Media, 2013.
+      [*ZeroMQ – The Guide*](http://zguide.zeromq.org/page:all). O'Reilly Media, 2013.
       ISBN: 978-1-449-33404-8
 
 1.  Ian Malpass:
       “[Measure   Anything, Measure Everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/),” *codeascraft.com*, February 15, 2011.
 
 1.  Dieter Plaetinck:
-      “[25 Graphite, Grafana   and statsd Gotchas](https://blog.raintank.io/25-graphite-grafana-and-statsd-gotchas/),” *blog.raintank.io*, March 3, 2016.
+      “[25 Graphite, Grafana and statsd Gotchas](https://grafana.com/blog/2016/03/03/25-graphite-grafana-and-statsd-gotchas/),”
+      *grafana.com*, March 3, 2016.
 
 1.  Jeff Lindsay:
-      “[Web Hooks to   Revolutionize the Web](http://progrium.com/blog/2007/05/03/web-hooks-to-revolutionize-the-web/),” *progrium.com*, May 3, 2007.
+      “[Web Hooks to Revolutionize the Web](https://web.archive.org/web/20180928201955/http://progrium.com/blog/2007/05/03/web-hooks-to-revolutionize-the-web/),” *progrium.com*, May 3, 2007.
 
 1.  Jim N. Gray:
-    “[Queues Are Databases](http://research.microsoft.com/pubs/69641/tr-95-56.pdf),”
+    “[Queues Are Databases](https://arxiv.org/pdf/cs/0701158.pdf),”
     Microsoft Research Technical Report MSR-TR-95-56, December 1995.
 
 1.  Mark Hapner, Rich Burridge, Rahul Sharma, et al.:
@@ -74,7 +75,8 @@ Chapter 11 References
     “[Building DistributedLog: Twitter’s High-Performance Replicated Log Service](https://blog.twitter.com/2015/building-distributedlog-twitter-s-high-performance-replicated-log-service),” *blog.twitter.com*,
     September 16, 2015.
 
-1.  “[DistributedLog Documentation](http://distributedlog.incubator.apache.org/docs/latest/),” Twitter, Inc., *distributedlog.io*, May 2016.
+1.  “[DistributedLog Documentation](https://bookkeeper.apache.org/distributedlog/docs/latest/),”
+    Apache Software Foundation, *distributedlog.io*.
 
 1.  Jay Kreps:
     “[Benchmarking Apache Kafka: 2 Million Writes Per Second (On Three Cheap Machines)](https://engineering.linkedin.com/kafka/benchmarking-apache-kafka-2-million-writes-second-three-cheap-machines),” *engineering.linkedin.com*,
@@ -103,7 +105,8 @@ Chapter 11 References
     “[Bottled Water: Real-Time Integration of PostgreSQL and Kafka](http://martin.kleppmann.com/2015/04/23/bottled-water-real-time-postgresql-kafka.html),” *martin.kleppmann.com*, April 23, 2015.
 
 1.  Ben Osheroff:
-    “[Introducing Maxwell, a mysql-to-kafka Binlog Processor](https://developer.zendesk.com/blog/introducing-maxwell-a-mysql-to-kafka-binlog-processor),” *developer.zendesk.com*, August 20, 2015.
+    “[Introducing Maxwell, a mysql-to-kafka Binlog Processor](https://web.archive.org/web/20170208100334/https://developer.zendesk.com/blog/introducing-maxwell-a-mysql-to-kafka-binlog-processor),”
+    *developer.zendesk.com*, August 20, 2015.
 
 1.  Randall Hauch:
     “[Debezium 0.2.1 Released](http://debezium.io/blog/2016/06/10/Debezium-0/),” *debezium.io*,
@@ -149,19 +152,18 @@ Chapter 11 References
     December 12, 2005.
 
 1.  Vaughn Vernon:
-    <a href="https://vaughnvernon.co/?page_id=168">*Implementing Domain-Driven Design*</a>.
+    [*Implementing Domain-Driven Design*](https://www.informit.com/store/implementing-domain-driven-design-9780321834577).
     Addison-Wesley Professional, 2013. ISBN: 978-0-321-83457-7
 
 1.  H. V. Jagadish, Inderpal Singh Mumick, and Abraham Silberschatz:
-    “[View Maintenance Issues for the Chronicle Data Model](http://www.mathcs.emory.edu/~cheung/papers/StreamDB/Histogram/1995-Jagadish-Histo.pdf),” at *14th ACM SIGACT-SIGMOD-SIGART Symposium
-    on Principles of Database Systems* (PODS), May 1995.
+    “[View Maintenance Issues for the Chronicle Data Model](https://dl.acm.org/doi/10.1145/212433.220201),”
+    at *14th ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems* (PODS), May 1995.
     [doi:10.1145/212433.220201](http://dx.doi.org/10.1145/212433.220201)
 
 1.  “[Event Store 3.5.0 Documentation](http://docs.geteventstore.com/),” Event Store LLP, *docs.geteventstore.com*, February 2016.
 
 1.  Martin Kleppmann:
-    <a href="http://www.oreilly.com/data/free/stream-processing.csp">*Making Sense of Stream
-    Processing*</a>. Report, O'Reilly Media, May 2016.
+    [*Making Sense of Stream Processing*](http://www.oreilly.com/data/free/stream-processing.csp). Report, O'Reilly Media, May 2016.
 
 1.  Sander Mak:
     “[Event-Sourced Architectures with Akka](http://www.slideshare.net/SanderMak/eventsourced-architectures-with-akka),” at *JavaOne*, September 2014.
@@ -180,8 +182,8 @@ Chapter 11 References
     [doi:10.1145/223784.223849](http://dx.doi.org/10.1145/223784.223849)
 
 1.  Pat Helland:
-    “[Immutability Changes Everything](http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf),” at *7th Biennial Conference on Innovative Data Systems Research* (CIDR),
-    January 2015.
+    “[Immutability Changes Everything](http://cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf),”
+    at *7th Biennial Conference on Innovative Data Systems Research* (CIDR), January 2015.
 
 1.  Martin Kleppmann:
     “[Accounting for Computer Scientists](http://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html),” *martin.kleppmann.com*, March 7, 2011.
@@ -193,7 +195,8 @@ Chapter 11 References
     “[Dogfooding with Druid, Samza, and Kafka: Metametrics at Metamarkets](https://metamarkets.com/2015/dogfooding-with-druid-samza-and-kafka-metametrics-at-metamarkets/),” *metamarkets.com*, June 3, 2015.
 
 1.  Gavin Li, Jianqiu Lv, and Hang Qi:
-    “[Pistachio: Co-Locate the Data and Compute for Fastest Cloud Compute](http://yahoohadoop.tumblr.com/post/116365275781/pistachio-co-locate-the-data-and-compute-for),” *yahoohadoop.tumblr.com*, April 13, 2015.
+    “[Pistachio: Co-Locate the Data and Compute for Fastest Cloud Compute](https://web.archive.org/web/20181214032620/https://yahoohadoop.tumblr.com/post/116365275781/pistachio-co-locate-the-data-and-compute-for),”
+    *yahoohadoop.tumblr.com*, April 13, 2015.
 
 1.  Kartik Paramasivam:
     “[Stream Processing Hard Problems – Part 1: Killing Lambda](https://engineering.linkedin.com/blog/2016/06/stream-processing-hard-problems-part-1-killing-lambda),” *engineering.linkedin.com*, June 27, 2016.
@@ -226,15 +229,16 @@ Chapter 11 References
     “[How Is Stream Processing and Complex Event Processing (CEP) Different?](https://www.quora.com/How-is-stream-processing-and-complex-event-processing-CEP-different),” *quora.com*, December 3, 2015.
 
 1.  Arvind Arasu, Shivnath Babu, and Jennifer Widom:
-    “[The CQL Continuous Query Language: Semantic Foundations and Query Execution](http://research.microsoft.com/pubs/77607/cql.pdf),” *The VLDB Journal*, volume 15, number 2, pages
-121–142, June 2006.
+    “[The CQL Continuous Query Language: Semantic Foundations and Query Execution](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cql.pdf),”
+    *The VLDB Journal*, volume 15, number 2, pages 121–142, June 2006.
     [doi:10.1007/s00778-004-0147-z](http://dx.doi.org/10.1007/s00778-004-0147-z)
 
 1.  Julian Hyde:
     “[Data in Flight: How Streaming SQL Technology Can Help Solve the Web 2.0 Data Crunch](http://queue.acm.org/detail.cfm?id=1667562),” *ACM Queue*, volume 7, number 11, December 2009.
     [doi:10.1145/1661785.1667562](http://dx.doi.org/10.1145/1661785.1667562)
 
-1.  “[Esper Reference, Version 5.4.0](http://www.espertech.com/esper/release-5.4.0/esper-reference/html_single/index.html),” EsperTech, Inc., *espertech.com*, April 2016.
+1.  “[Esper Reference, Version 5.4.0](http://esper.espertech.com/release-5.4.0/esper-reference/html_single/index.html),”
+    EsperTech, Inc., *espertech.com*, April 2016.
 
 1.  Zubair Nabi, Eric Bouillet, Andrew Bainbridge, and Chris Thomas:
     “[Of Streams and Storms](https://developer.ibm.com/streamsdev/wp-content/uploads/sites/15/2014/04/Streams-and-Storm-April-2014-Final.pdf),” IBM technical report, *developer.ibm.com*, April 2014.
@@ -246,14 +250,14 @@ Chapter 11 References
 
 1.  Philippe Flajolet, Éric Fusy, Olivier
     Gandouet, and Frédéric Meunier:
-    “[HyperLo&#x2060;g&#x200b;Log: The Analysis of a Near-Optimal Cardinality Estimation Algorithm](http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf),” at *Conference on Analysis of
-    Algorithms* (AofA), June 2007.
+    “[HyperLogLog: The Analysis of a Near-Optimal Cardinality Estimation Algorithm](http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf),”
+    at *Conference on Analysis of Algorithms* (AofA), June 2007.
 
 1.  Jay Kreps:
     “[Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture),” *oreilly.com*, July 2, 2014.
 
 1.  Ian Hellström:
-    “[An Overview of Apache Streaming Technologies](https://databaseline.wordpress.com/2016/03/12/an-overview-of-apache-streaming-technologies/),” *databaseline.wordpress.com*, March 12, 2016.
+    “[An Overview of Apache Streaming Technologies](https://databaseline.bitbucket.io/an-overview-of-apache-streaming-technologies/),” *databaseline.bitbucket.io*, March 12, 2016.
 
 1.  Jay Kreps:
     “[Why Local State Is a Fundamental Primitive in Stream Processing](https://www.oreilly.com/ideas/why-local-state-is-a-fundamental-primitive-in-stream-processing),” *oreilly.com*, July 31, 2014.
@@ -265,14 +269,14 @@ Chapter 11 References
 1.  Alan Woodward and Martin Kleppmann:
     “[Real-Time Full-Text Search with Luwak and Samza](http://martin.kleppmann.com/2015/04/13/real-time-full-text-search-luwak-samza.html),” *martin.kleppmann.com*, April 13, 2015.
 
-1.  “[Apache Storm 1.0.1 Documentation](https://storm.apache.org/releases/1.0.1/index.html),” *storm.apache.org*, May 2016.
+1.  “[Apache Storm 2.1.0 Documentation](https://storm.apache.org/releases/2.1.0/index.html),” *storm.apache.org*, October 2019.
 
 1.  Tyler Akidau:
     “[The World Beyond Batch: Streaming 102](https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102),” *oreilly.com*, January 20, 2016.
 
 1.  Stephan Ewen:
-    “[Streaming Analytics with Apache Flink](http://www.confluent.io/kafka-summit-2016-systems-advanced-streaming-analytics-with-apache-flink-and-apache-kafka),” at *Kafka Summit*, April
-    2016.
+    “[Streaming Analytics with Apache Flink](https://www.confluent.io/resources/kafka-summit-2016/advanced-streaming-analytics-apache-flink-apache-kafka/),”
+    at *Kafka Summit*, April 2016.
 
 1.  Tyler Akidau, Alex Balikov, Kaya Bekiroğlu, et al.:
     “[MillWheel: Fault-Tolerant Stream Processing at Internet Scale](http://research.google.com/pubs/pub41378.html),” at *39th International Conference on Very Large Data Bases* (VLDB),
@@ -315,14 +319,15 @@ Chapter 11 References
     *4th USENIX Conference in Hot Topics in Cloud Computing* (HotCloud), June 2012.
 
 1.  Kostas Tzoumas, Stephan Ewen, and Robert Metzger:
-    “[High-Throughput, Low-Latency, and Exactly-Once Stream Processing with Apache Flink](http://data-artisans.com/high-throughput-low-latency-and-exactly-once-stream-processing-with-apache-flink/),” *data-artisans.com*, August 5, 2015.
+    “[High-Throughput, Low-Latency, and Exactly-Once Stream Processing with Apache Flink](https://www.ververica.com/blog/high-throughput-low-latency-and-exactly-once-stream-processing-with-apache-flink),”
+    *ververica.com*, August 5, 2015.
 
 1.  Paris Carbone, Gyula Fóra, Stephan Ewen, et al.:
     “[Lightweight Asynchronous Snapshots for Distributed Dataflows](http://arxiv.org/abs/1506.08603),” arXiv:1506.08603 &#91;cs.DC&#93;, June 29, 2015.
 
 1.  Ryan Betts and John Hugg:
-    <a href="http://www.oreilly.com/data/free/fast-data-smart-and-at-scale.csp">*Fast Data: Smart and
-    at Scale*</a>. Report, O'Reilly Media, October 2015.
+    [*Fast Data: Smart and at Scale*](http://www.oreilly.com/data/free/fast-data-smart-and-at-scale.csp).
+    Report, O'Reilly Media, October 2015.
 
 1.  Flavio Junqueira:
     “[Making Sense of Exactly-Once Semantics](http://conferences.oreilly.com/strata/hadoop-big-data-eu/public/schedule/detail/49690),” at *Strata+Hadoop World London*, June 2016.

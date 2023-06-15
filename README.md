@@ -5,7 +5,7 @@ Literature References
 ---------------------
 
 This repository accompanies the book [Designing Data-Intensive Applications](http://dataintensive.net/)
-by [Martin Kleppmann](https://www.google.co.uk/maps), published by
+by [Martin Kleppmann](http://martin.kleppmann.com/), published by
 [O'Reilly Media](http://shop.oreilly.com/product/0636920032175.do).
 
 The book contains a large number of references to further reading material for anyone who wants to
