@@ -299,9 +299,6 @@ Chapter 12 References
     at *Network and Distributed System Security Symposium* (NDSS), February 2014.
     [doi:10.14722/ndss.2014.23379](http://dx.doi.org/10.14722/ndss.2014.23379)
 
-1.  “[Software Engineering Code of Ethics and Professional Practice](http://www.acm.org/about/se-code),”
-    Association for Computing Machinery, *acm.org*, 1999.
-
 1.  “[ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics),”
     Association for Computing Machinery, *acm.org*, 2018.
 
