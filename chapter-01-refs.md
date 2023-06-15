@@ -42,7 +42,7 @@ Chapter 1 References
       “[Summary of the Amazon EC2 and Amazon RDS Service   Disruption in the US East Region](http://aws.amazon.com/message/65648/),” *aws.amazon.com*, April 29, 2011.
 
 1.  Richard I. Cook:
-    “[How Complex Systems Fail](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf),” Cognitive Technologies Laboratory, April 2000.
+    “[How Complex Systems Fail](https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf),” Cognitive Technologies Laboratory, April 2000.
 
 1.  Jay Kreps:
     “[Getting Real About Distributed System Reliability](http://blog.empathybox.com/post/19574936361/getting-real-about-distributed-system-reliability),” *blog.empathybox.com*, March 19, 2012.
