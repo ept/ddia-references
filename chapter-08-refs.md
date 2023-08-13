@@ -339,7 +339,7 @@ Chapter 8 References
       “[How Both TCP and Ethernet   Checksums Fail](http://www.evanjones.ca/tcp-and-ethernet-checksums-fail.html),” *evanjones.ca*, October 5, 2015.
 
 1.  Cynthia Dwork, Nancy Lynch, and Larry Stockmeyer:
-      “[Consensus in the   Presence of Partial Synchrony](http://www.net.t-labs.tu-berlin.de/~petr/ADC-07/papers/DLS88.pdf),” *Journal of the ACM*, volume 35, number 2, pages 288–323,
+      “[Consensus in the   Presence of Partial Synchrony](https://dl.acm.org/doi/10.1145/42282.42283),” *Journal of the ACM*, volume 35, number 2, pages 288–323,
       April 1988. [doi:10.1145/42282.42283](http://dx.doi.org/10.1145/42282.42283)
 
 1.  Peter Bailis and Ali Ghodsi:
