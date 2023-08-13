@@ -352,7 +352,7 @@ Chapter 8 References
     [doi:10.1016/0020-0190(85)90056-0](http://dx.doi.org/10.1016/0020-0190(85)90056-0)
 
 1.  Flavio P. Junqueira:
-    “[Dude, Where’s My Metadata?](http://fpj.me/2015/05/28/dude-wheres-my-metadata/),”
+    “[Dude, Where’s My Metadata?](https://fpj.systems/2015/05/28/dude-wheres-my-metadata/),”
     *fpj.me*, May 28, 2015.
 
 1.  Scott Sanders:
