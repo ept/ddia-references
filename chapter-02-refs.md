@@ -106,7 +106,7 @@ Chapter 2 References
     Implementation* (OSDI), November 2006.
 
 1.  Bobbie J. Cochrane and Kathy A. McKnight:
-    “[DB2 JSON Capabilities, Part 1: Introduction to DB2 JSON](http://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson1/),” IBM developerWorks, June 20, 2013.
+    “[DB2 JSON Capabilities, Part 1: Introduction to DB2 JSON](https://web.archive.org/web/20180516203043/https://www.ibm.com/developerworks/data/library/techarticle/dm-1306nosqlforjson1/),” IBM developerWorks, June 20, 2013.
 
 1.  Herb Sutter:
     “[The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software](http://www.gotw.ca/publications/concurrency-ddj.htm),” *Dr. Dobb's Journal*,
