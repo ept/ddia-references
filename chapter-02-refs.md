@@ -47,7 +47,7 @@ Chapter 2 References
     IBM Redbook SG24-5352-00, IBM International Technical Support Organization, January 2000.
 
 1.  Stephen D. Bartlett:
-    “[IBM’s IMS—Myths, Realities, and Opportunities](ftp://public.dhe.ibm.com/software/data/ims/pdf/TCG2013015LI.pdf),” The Clipper Group Navigator, TCG2013015LI, July 2013.
+    “[IBM’s IMS—Myths, Realities, and Opportunities](https://public.dhe.ibm.com/software/data/ims/pdf/TCG2013015LI.pdf),” The Clipper Group Navigator, TCG2013015LI, July 2013.
 
 1.  Sarah Mei:
     “[Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/),”
