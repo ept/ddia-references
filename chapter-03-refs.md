@@ -216,7 +216,7 @@ Chapter 3 References
     3rd edition. John Wiley & Sons, July 2013. ISBN: 978-1-118-53080-1
 
 1.  Derrick Harris:
-    “[Why Apple, eBay, and Walmart Have Some of the Biggest Data Warehouses You’ve Ever Seen](http://gigaom.com/2013/03/27/why-apple-ebay-and-walmart-have-some-of-the-biggest-data-warehouses-youve-ever-seen/),”
+    “[Why Apple, eBay, and Walmart Have Some of the Biggest Data Warehouses You’ve Ever Seen](https://web.archive.org/web/20221129085658/https://old.gigaom.com/2013/03/27/why-apple-ebay-and-walmart-have-some-of-the-biggest-data-warehouses-youve-ever-seen/),”
     *gigaom.com*, March 27, 2013.
 
 1.  Julien Le Dem:
