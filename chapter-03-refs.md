@@ -67,7 +67,7 @@ Chapter 3 References
 1.  “[Operating Cassandra: Compaction](https://cassandra.apache.org/doc/latest/operating/compaction/index.html),” Apache Cassandra Documentation v4.0, 2016.
 
 1.  Rudolf Bayer and Edward M. McCreight:
-    “[Organization and Maintenance of Large Ordered Indices](http://www.dtic.mil/cgi-bin/GetTRDoc?AD=AD0712079),” Boeing Scientific Research Laboratories, Mathematical and Information Sciences
+    “[Organization and Maintenance of Large Ordered Indices](https://apps.dtic.mil/sti/citations/AD0712079),” Boeing Scientific Research Laboratories, Mathematical and Information Sciences
     Laboratory, report no. 20, July 1970.
 
 1.  Douglas Comer:
