@@ -120,7 +120,7 @@ Chapter 3 References
 1.  [*MySQL 5.7 Reference Manual*](http://dev.mysql.com/doc/refman/5.7/en/index.html).
     Oracle, 2014.
 
-1.  [*Books Online for SQL Server 2012*](http://msdn.microsoft.com/en-us/library/ms130214.aspx).
+1.  [*Books Online for SQL Server 2012*](https://learn.microsoft.com/en-us/previous-versions/sql/sql-server-2012/ms130214(v=sql.110)).
     Microsoft, 2012.
 
 1.  Joe Webb:
