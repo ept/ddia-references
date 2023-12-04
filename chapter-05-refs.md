@@ -61,14 +61,14 @@ Chapter 5 References
     “[Wormhole: Reliable Pub-Sub to Support Geo-Replicated Internet Services](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-sharma.pdf),” at *12th USENIX
     Symposium on Networked Systems Design and Implementation* (NSDI), May 2015.
 
-1.  “[Oracle GoldenGate 12c: Real-Time Access to Real-Time Information](http://www.oracle.com/us/products/middleware/data-integration/oracle-goldengate-realtime-access-2031152.pdf),” Oracle White Paper, October 2013.
+1.  “[Oracle GoldenGate 12c: Real-Time Access to Real-Time Information](https://web.archive.org/web/20200110231516/http://www.oracle.com/us/products/middleware/data-integration/oracle-goldengate-realtime-access-2031152.pdf),” Oracle White Paper, October 2013.
 
 1.  Shirshanka Das, Chavdar Botev, Kapil Surlaker, et al.:
     “[All Aboard the Databus!](http://www.socc2012.org/s18-das.pdf),” at
     *ACM Symposium on Cloud Computing* (SoCC), October 2012.
 
 1.  Greg Sabino Mullane:
-    “[Version 5 of Bucardo Database Replication System](http://blog.endpoint.com/2014/06/bucardo-5-multimaster-postgres-released.html),” *blog.endpoint.com*, June 23, 2014.
+    “[Version 5 of Bucardo Database Replication System](https://www.endpointdev.com/blog/2014/06/bucardo-5-multimaster-postgres-released/),” *blog.endpoint.com*, June 23, 2014.
 
 1.  Werner Vogels:
     “[Eventually Consistent](http://queue.acm.org/detail.cfm?id=1466448),”
@@ -89,7 +89,7 @@ Chapter 5 References
 
 1.  “[Tungsten Replicator](https://github.com/holys/tungsten-replicator),” *github.com*.
 
-1.  “[BDR 0.10.0 Documentation](http://bdr-project.org/docs/next/index.html),” The PostgreSQL Global Development Group, *bdr-project.org*, 2015.
+1.  “[BDR 0.10.0 Documentation](https://web.archive.org/web/20160728020040/http://bdr-project.org/docs/next/index.html),” The PostgreSQL Global Development Group, *bdr-project.org*, 2015.
 
 1.  Robert Hodges:
     “[If You *Must* Deploy Multi-Master Replication, Read This First](http://scale-out-blog.blogspot.co.uk/2012/04/if-you-must-deploy-multi-master.html),” *scale-out-blog.blogspot.co.uk*,
@@ -121,7 +121,7 @@ Chapter 5 References
     “[Clocks Are Bad, or, Welcome to the Wonderful World of Distributed Systems](https://riak.com/clocks-are-bad-or-welcome-to-distributed-systems/),” *riak.com*, November 12, 2013.
 
 1.  Riley Berton:
-    “[Is Bi-Directional Replication (BDR) in Postgres Transactional?](http://sdf.org/~riley/blog/2016/01/04/is-bi-directional-replication-bdr-in-postgres-transactional/),” *sdf.org*, January 4, 2016.
+    “[Is Bi-Directional Replication (BDR) in Postgres Transactional?](https://web.archive.org/web/20211204170610/http://sdf.org/~riley/blog/2016/01/04/is-bi-directional-replication-bdr-in-postgres-transactional/),” *sdf.org*, January 4, 2016.
 
 1.  Giuseppe DeCandia, Deniz Hastorun, Madan Jampani, et al.:
     “[Dynamo: Amazon's Highly Available Key-Value Store](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf),” at *21st ACM Symposium on Operating
@@ -191,11 +191,11 @@ Chapter 5 References
     [doi:10.1145/359545.359563](http://dx.doi.org/10.1145/359545.359563)
 
 1.  Joel Jacobson:
-    “[Riak 2.0: Data Types](http://blog.joeljacobson.com/riak-2-0-data-types/),”
+    “[Riak 2.0: Data Types](https://web.archive.org/web/20160327135816/http://blog.joeljacobson.com/riak-2-0-data-types/),”
     *blog.joeljacobson.com*, March 23, 2014.
 
 1.  D. Stott Parker Jr., Gerald J. Popek, Gerard Rudisin, et al.:
-    “[Detection of Mutual Inconsistency in Distributed Systems](http://zoo.cs.yale.edu/classes/cs426/2013/bib/parker83detection.pdf),” *IEEE Transactions on Software Engineering*,
+    “[Detection of Mutual Inconsistency in Distributed Systems](https://web.archive.org/web/20170808212704/https://zoo.cs.yale.edu/classes/cs426/2013/bib/parker83detection.pdf),” *IEEE Transactions on Software Engineering*,
     volume 9, number 3, pages 240–247, May 1983.
     [doi:10.1109/TSE.1983.236733](http://dx.doi.org/10.1109/TSE.1983.236733)
 
