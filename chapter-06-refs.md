@@ -16,7 +16,7 @@ Chapter 6 References
 1.  “[The Apache HBase Reference Guide](https://hbase.apache.org/book/book.html),” Apache Software Foundation, *hbase.apache.org*, 2014.
 
 1.  MongoDB, Inc.:
-    “[New Hash-Based Sharding Feature in MongoDB 2.4](https://www.mongodb.com/blog/post/new-hash-based-sharding-feature-in-mongodb-24),” *blog.mongodb.org*, April 10, 2013.
+    “[New Hash-Based Sharding Feature in MongoDB 2.4](https://web.archive.org/web/20230610080235/https://www.mongodb.com/blog/post/new-hash-based-sharding-feature-in-mongodb-24),” *blog.mongodb.org*, April 10, 2013.
 
 1.  Ikai Lan:
     “[App Engine Datastore Tip: Monotonically Increasing Values Are Bad](http://ikaisays.com/2011/01/25/app-engine-datastore-tip-monotonically-increasing-values-are-bad/),” *ikaisays.com*,
@@ -26,7 +26,7 @@ Chapter 6 References
     “[Java's hashCode Is Not Safe for Distributed Systems](http://martin.kleppmann.com/2012/06/18/java-hashcode-unsafe-for-distributed-systems.html),” *martin.kleppmann.com*, June 18, 2012.
 
 1.  David Karger, Eric Lehman, Tom Leighton, et al.:
-    “[Consistent Hashing and Random Trees: Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](http://www.akamai.com/dl/technical_publications/ConsistenHashingandRandomTreesDistributedCachingprotocolsforrelievingHotSpotsontheworldwideweb.pdf),”
+    “[Consistent Hashing and Random Trees: Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](https://www.akamai.com/site/en/documents/research-paper/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf),”
     at *29th Annual ACM Symposium on Theory of Computing* (STOC), pages 654–663, 1997.
     [doi:10.1145/258533.258660](http://dx.doi.org/10.1145/258533.258660)
 
@@ -79,7 +79,7 @@ Chapter 6 References
     “[Rethinking Topology in Cassandra](http://www.slideshare.net/jericevans/virtual-nodes-rethinking-topology-in-cassandra),” at *ApacheCon Europe*, November 2012.
 
 1.  Rafał Kuć:
-    “[Reroute API Explained](http://elasticsearchserverbook.com/reroute-api-explained/),”
+    “[Reroute API Explained](https://web.archive.org/web/20190706215750/http://elasticsearchserverbook.com/reroute-api-explained/),”
     *elasticsearchserverbook.com*, September 30, 2013.
 
 1.  “[Project Voldemort Documentation](http://www.project-voldemort.com/voldemort/),” *project-voldemort.com*.
