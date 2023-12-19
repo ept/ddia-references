@@ -5,12 +5,12 @@ Chapter 7 References
 --------------------
 
 1.  Donald D. Chamberlin, Morton M. Astrahan, Michael W. Blasgen, et al.:
-    “[A History and Evaluation of System R](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.348&rep=rep1&type=pdf),” *Communications of the ACM*,
+    “[A History and Evaluation of System R](https://citeseerx.ist.psu.edu/pdf/ebb29a0ca16e04e7eeb6b606b22a9eadb3a9d531),” *Communications of the ACM*,
     volume 24, number 10, pages 632–646, October 1981.
     [doi:10.1145/358769.358784](http://dx.doi.org/10.1145/358769.358784)
 
 1.  Jim N. Gray, Raymond A. Lorie, Gianfranco R. Putzolu, and Irving L. Traiger:
-    “[Granularity of Locks and Degrees of Consistency in a Shared Data Base](http://citeseer.ist.psu.edu/viewdoc/download?doi=10.1.1.92.8248&rep=rep1&type=pdf),” in *Modelling in Data
+    “[Granularity of Locks and Degrees of Consistency in a Shared Data Base](https://citeseerx.ist.psu.edu/pdf/e127f0a6a912bb9150ecfe03c0ebf7fbc289a023),” in *Modelling in Data
     Base Management Systems: Proceedings of the IFIP Working Conference on Modelling in Data Base
     Management Systems*, edited by G. M. Nijssen, pages
     364–394, Elsevier/North Holland Publishing, 1976. Also in *Readings in Database Systems*, 4th edition, edited by Joseph M.
@@ -29,7 +29,7 @@ Chapter 7 References
     “[NoSQL's CAP Theorem Busters: We Don't Drop ACID](http://www.theregister.co.uk/2012/11/22/foundationdb_fear_of_cap_theorem/),” *theregister.co.uk*, November 22, 2012.
 
 1.  Theo Härder and Andreas Reuter:
-    “[Principles of Transaction-Oriented Database Recovery](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.2812&rep=rep1&type=pdf),” *ACM Computing Surveys*,
+    “[Principles of Transaction-Oriented Database Recovery](https://citeseerx.ist.psu.edu/pdf/11ef7c142295aeb1a28a0e714c91fc8d610c3047),” *ACM Computing Surveys*,
     volume 15, number 4, pages 287–317, December 1983.
     [doi:10.1145/289.291](http://dx.doi.org/10.1145/289.291)
 
@@ -38,11 +38,11 @@ Chapter 7 References
     at *14th USENIX Workshop on Hot Topics in Operating Systems* (HotOS), May 2013.
 
 1.  Armando Fox, Steven D. Gribble, Yatin Chawathe, et al.:
-    “[Cluster-Based Scalable Network Services](http://www.cs.berkeley.edu/~brewer/cs262b/TACC.pdf),” at
+    “[Cluster-Based Scalable Network Services](https://people.eecs.berkeley.edu/~brewer/cs262b/TACC.pdf),” at
     *16th ACM Symposium on Operating Systems Principles* (SOSP), October 1997.
 
 1.  Philip A. Bernstein, Vassos Hadzilacos, and Nathan Goodman:
-    [*Concurrency Control and Recovery in Database Systems*](http://research.microsoft.com/en-us/people/philbe/ccontrol.aspx).
+    [*Concurrency Control and Recovery in Database Systems*](https://www.microsoft.com/en-us/research/people/philbe/book/).
     Addison-Wesley, 1987. ISBN: 978-0-201-10715-9, available online at *research.microsoft.com*.
 
 1.  Alan Fekete, Dimitrios Liarokapis, Elizabeth O'Neil, et al.:
@@ -51,7 +51,7 @@ Chapter 7 References
     [doi:10.1145/1071610.1071615](http://dx.doi.org/10.1145/1071610.1071615)
 
 1.  Mai Zheng, Joseph Tucek, Feng Qin, and Mark Lillibridge:
-      “[Understanding   the Robustness of SSDs Under Power Fault](https://www.usenix.org/system/files/conference/fast13/fast13-final80.pdf),” at *11th USENIX Conference on File and
+      “[Understanding the Robustness of SSDs Under Power Fault](https://www.usenix.org/system/files/conference/fast13/fast13-final80.pdf),” at *11th USENIX Conference on File and
       Storage Technologies* (FAST), February 2013.
 
 1.  Laurie Denness:
@@ -59,19 +59,19 @@ Chapter 7 References
       *laur.ie*, June 2, 2015.
 
 1.  Adam Surak:
-      “[When Solid State   Drives Are Not That Solid](https://blog.algolia.com/when-solid-state-drives-are-not-that-solid/),” *blog.algolia.com*, June 15, 2015.
+      “[When Solid State Drives Are Not That Solid](https://blog.algolia.com/when-solid-state-drives-are-not-that-solid/),” *blog.algolia.com*, June 15, 2015.
 
 1.  Thanumalayan Sankaranarayana Pillai, Vijay Chidambaram,
-      Ramnatthan Alagappan, et al.: “[All   File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications](http://research.cs.wisc.edu/wind/Publications/alice-osdi14.pdf),”
+      Ramnatthan Alagappan, et al.: “[All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications](http://research.cs.wisc.edu/wind/Publications/alice-osdi14.pdf),”
       at *11th USENIX Symposium on Operating Systems Design and Implementation* (OSDI),
       October 2014.
 
 1.  Chris Siebenmann:
-      “[Unix's File Durability   Problem](https://utcc.utoronto.ca/~cks/space/blog/unix/FileSyncProblem),” *utcc.utoronto.ca*, April 14, 2016.
+      “[Unix's File Durability Problem](https://utcc.utoronto.ca/~cks/space/blog/unix/FileSyncProblem),” *utcc.utoronto.ca*, April 14, 2016.
 
 1.  Lakshmi N. Bairavasundaram, Garth R.
       Goodson, Bianca Schroeder, et al.:
-      “[An Analysis of Data   Corruption in the Storage Stack](http://research.cs.wisc.edu/adsl/Publications/corruption-fast08.pdf),” at *6th USENIX Conference on File and Storage
+      “[An Analysis of Data Corruption in the Storage Stack](http://research.cs.wisc.edu/adsl/Publications/corruption-fast08.pdf),” at *6th USENIX Conference on File and Storage
       Technologies* (FAST), February 2008.
 
 1.  Bianca Schroeder, Raghav Lagisetty, and Arif Merchant:
@@ -79,7 +79,7 @@ Chapter 7 References
       File and Storage Technologies* (FAST), February 2016.
 
 1.  Don Allison:
-      “[SSD Storage – Ignorance of Technology Is No   Excuse](https://blog.korelogic.com/blog/2015/03/24),” *blog.korelogic.com*, March 24, 2015.
+      “[SSD Storage – Ignorance of Technology Is No Excuse](https://blog.korelogic.com/blog/2015/03/24),” *blog.korelogic.com*, March 24, 2015.
 
 1.  Dave Scherer:
     “[Those Are Not Transactions (Cassandra 2.0)](http://web.archive.org/web/20150526065247/http://blog.foundationdb.com/those-are-not-transactions-cassandra-2-0),” *blog.foundationdb.com*, September 6, 2013.
@@ -132,7 +132,7 @@ Chapter 7 References
     “[Unofficial Guide to Datomic Internals](http://tonsky.me/blog/unofficial-guide-to-datomic-internals/),” *tonsky.me*, May 6, 2014.
 
 1.  Baron Schwartz:
-    “[Immutability, MVCC, and Garbage Collection](http://www.xaprb.com/blog/2013/12/28/immutability-mvcc-and-garbage-collection/),” *xaprb.com*, December 28, 2013.
+    “[Immutability, MVCC, and Garbage Collection](https://web.archive.org/web/20220122020806/https://www.xaprb.com/blog/2013/12/28/immutability-mvcc-and-garbage-collection/),” *xaprb.com*, December 28, 2013.
 
 1.  J. Chris Anderson, Jan Lehnardt, and Noah Slater:
     *CouchDB: The Definitive Guide*. O'Reilly Media, 2010.
@@ -151,11 +151,11 @@ Chapter 7 References
     February 18, 2010.
 
 1.  Joel Jacobson:
-    “[Riak 2.0: Data Types](https://web.archive.org/web/20161023195905/http://blog.joeljacobson.com/riak-2-0-data-types/),”
+    “[Riak 2.0: Data Types](https://web.archive.org/web/20160327135816/http://blog.joeljacobson.com/riak-2-0-data-types/),”
     *blog.joeljacobson.com*, March 23, 2014.
 
 1.  Michael J. Cahill, Uwe Röhm, and Alan Fekete:
-    “[Serializable Isolation for Snapshot Databases](http://www.cs.nyu.edu/courses/fall12/CSCI-GA.2434-001/p729-cahill.pdf),” at *ACM International Conference on
+    “[Serializable Isolation for Snapshot Databases](https://web.archive.org/web/20200709144151/https://cs.nyu.edu/courses/Fall12/CSCI-GA.2434-001/p729-cahill.pdf),” at *ACM International Conference on
     Management of Data* (SIGMOD), June 2008.
     [doi:10.1145/1376616.1376690](http://dx.doi.org/10.1145/1376616.1376690)
 
@@ -164,18 +164,18 @@ Chapter 7 References
     at *38th International Conference on Very Large Databases* (VLDB), August 2012.
 
 1.  Tony Andrews:
-      “[Enforcing   Complex Constraints in Oracle](http://tonyandrews.blogspot.co.uk/2004/10/enforcing-complex-constraints-in.html),” *tonyandrews.blogspot.co.uk*, October 15, 2004.
+      “[Enforcing Complex Constraints in Oracle](http://tonyandrews.blogspot.co.uk/2004/10/enforcing-complex-constraints-in.html),” *tonyandrews.blogspot.co.uk*, October 15, 2004.
 
 1.  Douglas B. Terry, Marvin M. Theimer, Karin Petersen, et al.:
-      “[Managing   Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.141.7889&rep=rep1&type=pdf),” at
+      “[Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](https://citeseerx.ist.psu.edu/pdf/20c450f099b661c5a2dff3f348773a0d1af1b09b),” at
       *15th ACM Symposium on Operating Systems Principles* (SOSP), December 1995.
       [doi:10.1145/224056.224070](http://dx.doi.org/10.1145/224056.224070)
 
 1.  Gary Fredericks:
-      “[Postgres Serializability   Bug](https://github.com/gfredericks/pg-serializability-bug),” *github.com*, September 2015.
+      “[Postgres Serializability Bug](https://github.com/gfredericks/pg-serializability-bug),” *github.com*, September 2015.
 
 1.  Michael Stonebraker, Samuel Madden, Daniel J. Abadi, et al.:
-    “[The End of an Architectural Era (It’s Time for a Complete Rewrite)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.137.3697&rep=rep1&type=pdf),” at *33rd International
+    “[The End of an Architectural Era (It’s Time for a Complete Rewrite)](https://citeseerx.ist.psu.edu/pdf/775d54c66d271028a7d4dadf07cce6f918584cd3),” at *33rd International
     Conference on Very Large Data Bases* (VLDB), September 2007.
 
 1.  John Hugg:
