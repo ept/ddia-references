@@ -48,7 +48,7 @@ Chapter 9 References
       “[Linearizability   Versus Serializability](http://www.bailis.org/blog/linearizability-versus-serializability/),” *bailis.org*, September 24, 2014.
 
 1.  Philip A. Bernstein, Vassos Hadzilacos, and Nathan Goodman:
-    [*Concurrency Control and Recovery in Database Systems*](http://research.microsoft.com/en-us/people/philbe/ccontrol.aspx).
+    [*Concurrency Control and Recovery in Database Systems*](https://www.microsoft.com/en-us/research/people/philbe/book/).
     Addison-Wesley, 1987. ISBN: 978-0-201-10715-9, available online at *research.microsoft.com*.
 
 1.  Mike Burrows:
@@ -75,7 +75,7 @@ Chapter 9 References
     “[Call Me Maybe: etcd and Consul](https://aphyr.com/posts/316-call-me-maybe-etcd-and-consul),” *aphyr.com*, June 9, 2014.
 
 1.  Flavio P. Junqueira, Benjamin C. Reed, and Marco Serafini:
-      “[Zab: High-Performance Broadcast for Primary-Backup Systems](https://marcoserafini.github.io/papers/zab.pdf),”
+      “[Zab: High-Performance Broadcast for Primary-Backup Systems](https://web.archive.org/web/20220419064903/https://marcoserafini.github.io/papers/zab.pdf),”
       at *41st IEEE International Conference on Dependable Systems and Networks* (DSN), June 2011.
       [doi:10.1109/DSN.2011.5958223](http://dx.doi.org/10.1109/DSN.2011.5958223)
 
@@ -99,7 +99,7 @@ Chapter 9 References
     [doi:10.1007/978-3-642-15260-3](http://dx.doi.org/10.1007/978-3-642-15260-3)
 
 1.  Sam Elliott, Mark Allen, and Martin Kleppmann:
-    [personal communication](https://twitter.com/lenary/status/654761711933648896),
+    [personal communication](https://web.archive.org/web/20230620021338/https://twitter.com/lenary/status/654761711933648896),
     thread on *twitter.com*, October 15, 2015.
 
 1.  Niklas Ekström, Mikhail Panchenko, and Jonathan Ellis:
@@ -126,7 +126,7 @@ Chapter 9 References
     [doi:10.1109/MC.2011.389](http://dx.doi.org/10.1109/MC.2011.389)
 
 1.  Eric A. Brewer:
-    “[CAP Twelve Years Later: How the 'Rules' Have Changed](http://cs609.cs.ua.edu/CAP12.pdf),” *IEEE Computer Magazine*, volume 45, number 2, pages 23–29, February 2012.
+    “[CAP Twelve Years Later: How the 'Rules' Have Changed](https://web.archive.org/web/20221222092656/http://cs609.cs.ua.edu/CAP12.pdf),” *IEEE Computer Magazine*, volume 45, number 2, pages 23–29, February 2012.
     [doi:10.1109/MC.2012.37](http://dx.doi.org/10.1109/MC.2012.37)
 
 1.  Susan B. Davidson, Hector Garcia-Molina, and Dale Skeen:
@@ -137,7 +137,7 @@ Chapter 9 References
     “[RFC 677: The Maintenance of Duplicate Databases](https://tools.ietf.org/html/rfc677),” Network Working Group, January 27, 1975.
 
 1.  Bruce G. Lindsay, Patricia Griffiths Selinger, C. Galtieri, et al.:
-    “[Notes on Distributed Databases](http://domino.research.ibm.com/library/cyberdig.nsf/papers/A776EC17FC2FCE73852579F100578964/$File/RJ2571.pdf),” IBM Research, Research Report RJ2571(33471), July 1979.
+    “[Notes on Distributed Databases](https://dominoweb.draco.res.ibm.com/reports/RJ2571.pdf),” IBM Research, Research Report RJ2571(33471), July 1979.
 
 1.  Michael J. Fischer and Alan Michael:
     “[Sacrificing Serializability to Attain High Availability of Data in an Unreliable Network](http://www.cs.ucsb.edu/~agrawal/spring2011/ugrad/p70-fischer.pdf),” at
@@ -218,12 +218,12 @@ Chapter 9 References
 
 1.  Ricardo Gonçalves, Paulo Sérgio Almeida,
     Carlos Baquero, and Victor Fonte:
-    “[Concise Server-Wide Causality Management for Eventually Consistent Data Stores](http://haslab.uminho.pt/tome/files/global_logical_clocks.pdf),” at *15th IFIP International
+    “[Concise Server-Wide Causality Management for Eventually Consistent Data Stores](https://web.archive.org/web/20220810205439/http://haslab.uminho.pt/tome/files/global_logical_clocks.pdf),” at *15th IFIP International
     Conference on Distributed Applications and Interoperable Systems* (DAIS), June 2015.
     [doi:10.1007/978-3-319-19129-4_6](http://dx.doi.org/10.1007/978-3-319-19129-4_6)
 
 1.  Rob Conery:
-      “[A Better ID   Generator for PostgreSQL](http://rob.conery.io/2014/05/29/a-better-id-generator-for-postgresql/),” *rob.conery.io*, May 29, 2014.
+      “[A Better ID Generator for PostgreSQL](https://web.archive.org/web/20220118044729/http://rob.conery.io/2014/05/29/a-better-id-generator-for-postgresql/),” *rob.conery.io*, May 29, 2014.
 
 1.  Leslie Lamport:
     “[Time, Clocks, and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/),”
@@ -296,7 +296,7 @@ Chapter 9 References
     [doi:10.1145/1132863.1132867](http://dx.doi.org/10.1145/1132863.1132867)
 
 1.  Rachid Guerraoui:
-    “[Revisiting the Relationship Between Non-Blocking Atomic Commitment and Consensus](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.27.6456&rep=rep1&type=pdf),”
+    “[Revisiting the Relationship Between Non-Blocking Atomic Commitment and Consensus](https://citeseerx.ist.psu.edu/pdf/5d06489503b6f791aa56d2d7942359c2592e44b0),”
     at *9th International Workshop on Distributed Algorithms* (WDAG), September 1995.
     [doi:10.1007/BFb0022140](http://dx.doi.org/10.1007/BFb0022140)
 
@@ -345,7 +345,7 @@ Chapter 9 References
     [doi:10.1109/MS.2005.52](http://dx.doi.org/10.1109/MS.2005.52)
 
 1.  Pat Helland:
-    “[Life Beyond Distributed Transactions: An Apostate’s Opinion](http://www-db.cs.wisc.edu/cidr/cidr2007/papers/cidr07p15.pdf),” at *3rd Biennial Conference on Innovative Data Systems
+    “[Life Beyond Distributed Transactions: An Apostate’s Opinion](https://web.archive.org/web/20210303104924/http://www-db.cs.wisc.edu/cidr/cidr2007/papers/cidr07p15.pdf),” at *3rd Biennial Conference on Innovative Data Systems
     Research* (CIDR), January 2007.
 
 1.  Jonathan Oliver:
@@ -368,7 +368,7 @@ Chapter 9 References
     *jroller.com*, April 3, 2004.
 
 1.  Ajmer Dhariwal:
-    “[Orphaned MSDTC Transactions (-2 spids)](http://www.eraofdata.com/orphaned-msdtc-transactions-2-spids/),” *eraofdata.com*, December 12, 2008.
+    “[Orphaned MSDTC Transactions (-2 spids)](https://www.eraofdata.com/posts/2008/orphaned-msdtc-transactions-2-spids/),” *eraofdata.com*, December 12, 2008.
 
 1.  Paul Randal:
     “[Real World Story of DBCC PAGE Saving the Day](http://www.sqlskills.com/blogs/paul/real-world-story-of-dbcc-page-saving-the-day/),” *sqlskills.com*, June 19, 2013.
@@ -377,11 +377,11 @@ Chapter 9 References
     2016.
 
 1.  Cynthia Dwork, Nancy Lynch, and Larry Stockmeyer:
-    “[Consensus in the Presence of Partial Synchrony](http://www.net.t-labs.tu-berlin.de/~petr/ADC-07/papers/DLS88.pdf),” *Journal of the ACM*, volume 35, number 2, pages 288–323,
+    “[Consensus in the Presence of Partial Synchrony](https://web.archive.org/web/20210318133551/https://www.net.t-labs.tu-berlin.de/~petr/ADC-07/papers/DLS88.pdf),” *Journal of the ACM*, volume 35, number 2, pages 288–323,
     April 1988. [doi:10.1145/42282.42283](http://dx.doi.org/10.1145/42282.42283)
 
 1.  Miguel Castro and Barbara H. Liskov:
-    “[Practical Byzantine Fault Tolerance and Proactive Recovery](http://zoo.cs.yale.edu/classes/cs426/2012/bib/castro02practical.pdf),” *ACM Transactions on Computer Systems*,
+    “[Practical Byzantine Fault Tolerance and Proactive Recovery](https://web.archive.org/web/20181123142540/http://zoo.cs.yale.edu/classes/cs426/2012/bib/castro02practical.pdf),” *ACM Transactions on Computer Systems*,
     volume 20, number 4, pages 396–461, November 2002.
     [doi:10.1145/571637.571640](http://dx.doi.org/10.1145/571637.571640)
 
@@ -414,7 +414,7 @@ Chapter 9 References
     PhD Thesis, Stanford University, August 2014.
 
 1.  Heidi Howard, Malte Schwarzkopf, Anil Madhavapeddy,
-    and Jon Crowcroft: “[Raft Refloated: Do We Have Consensus?](http://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf),” *ACM SIGOPS Operating Systems Review*, volume 49,
+    and Jon Crowcroft: “[Raft Refloated: Do We Have Consensus?](https://web.archive.org/web/20230319151303/https://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf),” *ACM SIGOPS Operating Systems Review*, volume 49,
     number 1, pages 12–21, January 2015.
     [doi:10.1145/2723872.2723876](http://dx.doi.org/10.1145/2723872.2723876)
 
