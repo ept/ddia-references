@@ -25,7 +25,7 @@ Chapter 10 References
 
 1.  “[The Hollerith Machine](https://www.census.gov/history/www/innovations/technology/the_hollerith_tabulator.html),” United States Census Bureau, *census.gov*.
 
-1.  “[IBM 82, 83, and 84 Sorters Reference Manual](http://www.textfiles.com/bitsavers/pdf/ibm/punchedCard/Sorter/A24-1034-1_82-83-84_sorters.pdf),” Edition A24-1034-1, International Business
+1.  “[IBM 82, 83, and 84 Sorters Reference Manual](https://bitsavers.org/pdf/ibm/punchedCard/Sorter/A24-1034-1_82-83-84_sorters.pdf),” Edition A24-1034-1, International Business
     Machines Corporation, July 1962.
 
 1.  Adam Drake:
@@ -93,7 +93,7 @@ Chapter 10 References
     *hortonworks.com*, July 25, 2012.
 
 1.  Brendan Gregg:
-    “[Manta: Unix Meets Map Reduce](http://dtrace.org/blogs/brendan/2013/06/25/manta-unix-meets-map-reduce/),” *dtrace.org*, June 25, 2013.
+    “[Manta: Unix Meets Map Reduce](https://web.archive.org/web/20220125052545/http://dtrace.org/blogs/brendan/2013/06/25/manta-unix-meets-map-reduce/),” *dtrace.org*, June 25, 2013.
 
 1.  Tom White: *Hadoop: The Definitive Guide*,
     4th edition. O'Reilly Media, 2015. ISBN: 978-1-491-90163-2
@@ -146,7 +146,7 @@ Chapter 10 References
     Apache Pig Documentation, *pig.apache.org*, 2017.
 
 1.  Sriranjan Manjunath:
-    “[Skewed Join](https://wiki.apache.org/pig/PigSkewedJoinSpec),” *wiki.apache.org*,
+    “[Skewed Join](https://web.archive.org/web/20151228114742/https://wiki.apache.org/pig/PigSkewedJoinSpec),” *wiki.apache.org*,
     2009.
 
 1.  David J. DeWitt, Jeffrey F. Naughton, Donovan A.
@@ -188,7 +188,7 @@ Chapter 10 References
       “[How to Beat the CAP   Theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html),” *nathanmarz.com*, October 13, 2011.
 
 1.  Molly Bartlett Dishman and Martin Fowler:
-      “[Agile   Architecture](http://conferences.oreilly.com/software-architecture/sa2015/public/schedule/detail/40388),” at *O'Reilly Software Architecture Conference*, March 2015.
+      “[Agile Architecture](https://web.archive.org/web/20161130034721/http://conferences.oreilly.com/software-architecture/sa2015/public/schedule/detail/40388),” at *O'Reilly Software Architecture Conference*, March 2015.
 
 1.  David J. DeWitt and Jim N. Gray:
     “[Parallel Database Systems: The Future of High Performance Database Systems](http://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/dewittgray92.pdf),”
@@ -209,10 +209,10 @@ Chapter 10 References
     Research* (CIDR), January 2015.
 
 1.  Paige Roberts:
-    “[To Schema on Read or to Schema on Write, That Is the Hadoop Data Lake Question](http://adaptivesystemsinc.com/blog/to-schema-on-read-or-to-schema-on-write-that-is-the-hadoop-data-lake-question/),” *adaptivesystemsinc.com*, July 2, 2015.
+    “[To Schema on Read or to Schema on Write, That Is the Hadoop Data Lake Question](https://web.archive.org/web/20171105001306/http://adaptivesystemsinc.com/blog/to-schema-on-read-or-to-schema-on-write-that-is-the-hadoop-data-lake-question/),” *adaptivesystemsinc.com*, July 2, 2015.
 
 1.  Bobby Johnson and Joseph Adler:
-    “[The Sushi Principle: Raw Data Is Better](https://conferences.oreilly.com/strata/big-data-conference-ca-2015/public/schedule/detail/38737),”
+    “[The Sushi Principle: Raw Data Is Better](https://web.archive.org/web/20161126104941/https://conferences.oreilly.com/strata/big-data-conference-ca-2015/public/schedule/detail/38737),”
     at *Strata+Hadoop World*, February 2015.
 
 1.  Vinod Kumar Vavilapalli, Arun C. Murthy, Chris Douglas, et al.:
@@ -224,7 +224,7 @@ Chapter 10 References
     [doi:10.1145/2741948.2741964](http://dx.doi.org/10.1145/2741948.2741964)
 
 1.  Malte Schwarzkopf:
-    “[The Evolution of Cluster Scheduler Architectures](http://www.firmament.io/blog/scheduler-architectures.html),” *firmament.io*, March 9, 2016.
+    “[The Evolution of Cluster Scheduler Architectures](https://web.archive.org/web/20201109052657/http://www.firmament.io/blog/scheduler-architectures.html),” *firmament.io*, March 9, 2016.
 
 1.  Matei Zaharia, Mosharaf Chowdhury, Tathagata Das, et al.:
     “[Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf),” at *9th
@@ -259,7 +259,7 @@ Chapter 10 References
     [doi:10.1145/1646468.1646476](http://dx.doi.org/10.1145/1646468.1646476)
 
 1.  Lawrence Page, Sergey Brin, Rajeev Motwani, and Terry Winograd:
-    “[The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/),”
+    “[The PageRank Citation Ranking: Bringing Order to the Web](https://web.archive.org/web/20230219170930/http://ilpubs.stanford.edu:8090/422/),”
     Stanford InfoLab Technical Report 422, 1999.
 
 1.  Leslie G. Valiant:
@@ -305,9 +305,8 @@ Chapter 10 References
     [doi:10.1145/2723372.2742797](http://dx.doi.org/10.1145/2723372.2742797)
 
 1.  Daniel Blazevski:
-    “[Planting Quadtrees for Apache Flink](http://insightdataengineering.com/blog/flink-knn/),” *insightdataengineering.com*, March 25, 2016.
+    “[Planting Quadtrees for Apache Flink](https://blog.insightdatascience.com/planting-quadtrees-for-apache-flink-b396ebc80d35),” *insightdataengineering.com*, March 25, 2016.
 
 1.  Tom White:
     “[Genome Analysis Toolkit: Now Using Apache Spark for Data Processing](https://web.archive.org/web/20190215132904/http://blog.cloudera.com/blog/2016/04/genome-analysis-toolkit-now-using-apache-spark-for-data-processing/),”
     *blog.cloudera.com*, April 6, 2016.
-
