@@ -10,7 +10,7 @@ Chapter 11 References
     [doi:10.14778/2824032.2824076](http://dx.doi.org/10.14778/2824032.2824076)
 
 1.  Harold Abelson, Gerald Jay Sussman, and Julie Sussman:
-    [*Structure and Interpretation of Computer Programs*](https://mitpress.mit.edu/sicp/),
+    [*Structure and Interpretation of Computer Programs*](https://web.archive.org/web/20220807043536/https://mitpress.mit.edu/sites/default/files/sicp/index.html),
     2nd edition. MIT Press, 1996. ISBN: 978-0-262-51087-5, available online at *mitpress.mit.edu*
 
 1.  Patrick Th. Eugster, Pascal A. Felber,
@@ -28,7 +28,7 @@ Chapter 11 References
     (VLDB), August 2002.
 
 1.  Matthew Sackman:
-    “[Pushing Back](http://www.lshift.net/blog/2016/05/05/pushing-back/),”
+    “[Pushing Back](https://wellquite.org/posts/lshift/pushing_back/),”
     *lshift.net*, May 5, 2016.
 
 1.  Vicent Martí:
@@ -75,7 +75,7 @@ Chapter 11 References
     “[Building DistributedLog: Twitter’s High-Performance Replicated Log Service](https://blog.twitter.com/2015/building-distributedlog-twitter-s-high-performance-replicated-log-service),” *blog.twitter.com*,
     September 16, 2015.
 
-1.  “[DistributedLog Documentation](https://bookkeeper.apache.org/distributedlog/docs/latest/),”
+1.  “[DistributedLog Documentation](https://web.archive.org/web/20210517201308/https://bookkeeper.apache.org/distributedlog/docs/latest/),”
     Apache Software Foundation, *distributedlog.io*.
 
 1.  Jay Kreps:
@@ -109,7 +109,7 @@ Chapter 11 References
     *developer.zendesk.com*, August 20, 2015.
 
 1.  Randall Hauch:
-    “[Debezium 0.2.1 Released](http://debezium.io/blog/2016/06/10/Debezium-0/),” *debezium.io*,
+    “[Debezium 0.2.1 Released](https://debezium.io/blog/2016/06/10/Debezium-0.2.1-Released/),” *debezium.io*,
     June 10, 2016.
 
 1.  Prem Santosh Udaya Shankar:
@@ -121,7 +121,7 @@ Chapter 11 References
 1.  Dan Harvey:
     “[Change Data Capture with Mongo + Kafka](http://www.slideshare.net/danharvey/change-data-capture-with-mongodb-and-kafka),” at *Hadoop Users Group UK*, August 2015.
 
-1.  “[Oracle GoldenGate 12c: Real-Time Access to Real-Time Information](http://www.oracle.com/us/products/middleware/data-integration/oracle-goldengate-realtime-access-2031152.pdf),” Oracle White Paper, March 2015.
+1.  “[Oracle GoldenGate 12c: Real-Time Access to Real-Time Information](https://web.archive.org/web/20160923105841/http://www.oracle.com/us/products/middleware/data-integration/oracle-goldengate-realtime-access-2031152.pdf),” Oracle White Paper, March 2015.
 
 1.  “[Oracle GoldenGate Fundamentals: How Oracle GoldenGate Works](https://www.youtube.com/watch?v=6H9NibIiPQE),” Oracle Corporation, *youtube.com*, November 2012.
 
@@ -134,7 +134,7 @@ Chapter 11 References
 1.  “[Apache CouchDB 1.6 Documentation](http://docs.couchdb.org/en/latest/),” *docs.couchdb.org*, 2014.
 
 1.  Matt DeBergalis:
-    “[Meteor 0.7.0: Scalable Database Queries Using MongoDB Oplog Instead of Poll-and-Diff](http://info.meteor.com/blog/meteor-070-scalable-database-queries-using-mongodb-oplog-instead-of-poll-and-diff),” *info.meteor.com*,
+    “[Meteor 0.7.0: Scalable Database Queries Using MongoDB Oplog Instead of Poll-and-Diff](https://web.archive.org/web/20160324055429/http://info.meteor.com/blog/meteor-070-scalable-database-queries-using-mongodb-oplog-instead-of-poll-and-diff),” *info.meteor.com*,
     December 17, 2013.
 
 1.  “[Chapter 15. Importing and Exporting Live Data](https://docs.voltdb.com/UsingVoltDB/ChapExport.php),” VoltDB 6.4 User Manual, *docs.voltdb.com*, June 2016.
@@ -189,7 +189,7 @@ Chapter 11 References
     “[Accounting for Computer Scientists](http://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html),” *martin.kleppmann.com*, March 7, 2011.
 
 1.  Pat Helland:
-    “[Accountants Don't Use Erasers](https://blogs.msdn.microsoft.com/pathelland/2007/06/14/accountants-dont-use-erasers/),” *blogs.msdn.com*, June 14, 2007.
+    “[Accountants Don't Use Erasers](https://web.archive.org/web/20200220161036/https://blogs.msdn.microsoft.com/pathelland/2007/06/14/accountants-dont-use-erasers/),” *blogs.msdn.com*, June 14, 2007.
 
 1.  Fangjin Yang:
     “[Dogfooding with Druid, Samza, and Kafka: Metametrics at Metamarkets](https://metamarkets.com/2015/dogfooding-with-druid-samza-and-kafka-metametrics-at-metamarkets/),” *metamarkets.com*, June 3, 2015.
@@ -209,7 +209,7 @@ Chapter 11 References
     *cqrs.files.wordpress.com*, November 2010.
 
 1.  Baron Schwartz:
-    “[Immutability, MVCC, and Garbage Collection](http://www.xaprb.com/blog/2013/12/28/immutability-mvcc-and-garbage-collection/),” *xaprb.com*, December 28, 2013.
+    “[Immutability, MVCC, and Garbage Collection](https://web.archive.org/web/20161110094746/http://www.xaprb.com/blog/2013/12/28/immutability-mvcc-and-garbage-collection/),” *xaprb.com*, December 28, 2013.
 
 1.  Daniel Eloff, Slava Akhmechet, Jay Kreps, et al.:
     ["Re: Turning the Database Inside-out with Apache Samza](https://news.ycombinator.com/item?id=9145197)," Hacker News discussion, *news.ycombinator.com*, March 4, 2015.
@@ -241,7 +241,7 @@ Chapter 11 References
     EsperTech, Inc., *espertech.com*, April 2016.
 
 1.  Zubair Nabi, Eric Bouillet, Andrew Bainbridge, and Chris Thomas:
-    “[Of Streams and Storms](https://developer.ibm.com/streamsdev/wp-content/uploads/sites/15/2014/04/Streams-and-Storm-April-2014-Final.pdf),” IBM technical report, *developer.ibm.com*, April 2014.
+    “[Of Streams and Storms](https://web.archive.org/web/20170711081434/https://developer.ibm.com/streamsdev/wp-content/uploads/sites/15/2014/04/Streams-and-Storm-April-2014-Final.pdf),” IBM technical report, *developer.ibm.com*, April 2014.
 
 1.  Milinda Pathirage, Julian Hyde, Yi Pan, and Beth Plale:
     “[SamzaSQL: Scalable Fast Data Management with Streaming SQL](https://github.com/milinda/samzasql-hpbdc2016/blob/master/samzasql-hpbdc2016.pdf),” at *IEEE International Workshop on
@@ -283,7 +283,7 @@ Chapter 11 References
     August 2013.
 
 1.  Alex Dean:
-    “[Improving Snowplow's Understanding of Time](http://snowplowanalytics.com/blog/2015/09/15/improving-snowplows-understanding-of-time/),” *snowplowanalytics.com*, September 15, 2015.
+    “[Improving Snowplow's Understanding of Time](https://snowplow.io/blog/improving-snowplows-understanding-of-time/),” *snowplowanalytics.com*, September 15, 2015.
 
 1.  “[Windowing (Azure Stream Analytics)](https://msdn.microsoft.com/en-us/library/azure/dn835019.aspx),” Microsoft Azure Reference, *msdn.microsoft.com*, April 2016.
 
@@ -330,12 +330,12 @@ Chapter 11 References
     Report, O'Reilly Media, October 2015.
 
 1.  Flavio Junqueira:
-    “[Making Sense of Exactly-Once Semantics](http://conferences.oreilly.com/strata/hadoop-big-data-eu/public/schedule/detail/49690),” at *Strata+Hadoop World London*, June 2016.
+    “[Making Sense of Exactly-Once Semantics](https://web.archive.org/web/20160812172900/http://conferences.oreilly.com/strata/hadoop-big-data-eu/public/schedule/detail/49690),” at *Strata+Hadoop World London*, June 2016.
 
 1.  Jason Gustafson, Flavio Junqueira, Apurva Mehta, Sriram Subramanian, and Guozhang Wang: “[KIP-98 – Exactly Once Delivery and Transactional Messaging](https://cwiki.apache.org/confluence/display/KAFKA/KIP-98+-+Exactly+Once+Delivery+and+Transactional+Messaging),” *cwiki.apache.org*, November 2016.
 
 1.  Pat Helland:
-    “[Idempotence Is Not a Medical Condition](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.401.1539&rep=rep1&type=pdf),” *Communications of the ACM*, volume 55, number 5, page 56, May 2012.
+    “[Idempotence Is Not a Medical Condition](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4b6dda7fe75b51e1c543a87ca7b3b322fbf55614),” *Communications of the ACM*, volume 55, number 5, page 56, May 2012.
     [doi:10.1145/2160718.2160734](http://dx.doi.org/10.1145/2160718.2160734)
 
 1.  Jay Kreps:
