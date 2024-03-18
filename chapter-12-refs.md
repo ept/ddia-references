@@ -12,7 +12,7 @@ Chapter 12 References
     in Operating Systems* (HotOS), May 2015.
 
 1.  Pat Helland and Dave Campbell:
-    “[Building on Quicksand](https://database.cs.wisc.edu/cidr/cidr2009/Paper_133.pdf),” at
+    “[Building on Quicksand](https://web.archive.org/web/20220606172817/https://database.cs.wisc.edu/cidr/cidr2009/Paper_133.pdf),” at
     *4th Biennial Conference on Innovative Data Systems Research* (CIDR), January 2009.
 
 1.  Jessica Kerr:
@@ -20,7 +20,7 @@ Chapter 12 References
       *blog.jessitron.com*, September 25, 2016.
 
 1.  Kostas Tzoumas:
-    “[Batch Is a Special Case of Streaming](http://data-artisans.com/batch-is-a-special-case-of-streaming/),” *data-artisans.com*, September 15, 2015.
+    “[Batch Is a Special Case of Streaming](http://data-artisans.com/blog/batch-is-a-special-case-of-streaming/),” *data-artisans.com*, September 15, 2015.
 
 1.  Shinji Kim and Robert Blafford:
     “[Stream Windowing Performance Analysis: Concord and Spark Streaming](https://web.archive.org/web/20180125074821/http://concord.io/posts/windowing_performance_analysis_w_spark_streaming),”
@@ -31,7 +31,7 @@ Chapter 12 References
     *engineering.linkedin.com*, December 16, 2013.
 
 1.  Pat Helland:
-    “[Life Beyond Distributed Transactions: An Apostate’s Opinion](http://www-db.cs.wisc.edu/cidr/cidr2007/papers/cidr07p15.pdf),” at *3rd Biennial Conference on Innovative Data
+    “[Life Beyond Distributed Transactions: An Apostate’s Opinion](https://web.archive.org/web/20200730171311/http://www-db.cs.wisc.edu/cidr/cidr2007/papers/cidr07p15.pdf),” at *3rd Biennial Conference on Innovative Data
     Systems Research* (CIDR), January 2007.
 
 1.  “[Great Western Railway (1835–1948)](https://web.archive.org/web/20160122155425/https://www.networkrail.co.uk/VirtualArchive/great-western/),”
@@ -42,7 +42,7 @@ Chapter 12 References
     *stripe.com*, February 2, 2017.
 
 1.  Molly Bartlett Dishman and Martin Fowler:
-    “[Agile Architecture](http://conferences.oreilly.com/software-architecture/sa2015/public/schedule/detail/40388),” at *O'Reilly Software Architecture Conference*, March 2015.
+    “[Agile Architecture](https://web.archive.org/web/20161130034721/http://conferences.oreilly.com/software-architecture/sa2015/public/schedule/detail/40388),” at *O'Reilly Software Architecture Conference*, March 2015.
 
 1.  Nathan Marz and James Warren:
     [*Big Data: Principles and Best Practices of Scalable Real-Time Data Systems*](https://www.manning.com/books/big-data).
@@ -74,7 +74,7 @@ Chapter 12 References
 
 1.  Jennie Duggan,
       Aaron J. Elmore, Michael Stonebraker, et al.:
-      “[The BigDAWG Polystore   System](http://dspace.mit.edu/openaccess-disseminate/1721.1/100936),” *ACM SIGMOD Record*, volume 44, number 2, pages 11–16, June 2015.
+      “[The BigDAWG Polystore   System](https://dspace.mit.edu/handle/1721.1/100936),” *ACM SIGMOD Record*, volume 44, number 2, pages 11–16, June 2015.
       [doi:10.1145/2814710.2814713](http://dx.doi.org/10.1145/2814710.2814713)
 
 1.  Patrycja Dybka:
@@ -163,7 +163,7 @@ Chapter 12 References
     “[Why Microservices Should Be Event Driven: Autonomy vs Authority](http://blog.christianposta.com/microservices/why-microservices-should-be-event-driven-autonomy-vs-authority/),” *blog.christianposta.com*, May 27, 2016.
 
 1.  Alex Feyerke:
-    “[Say Hello to Offline First](http://hood.ie/blog/say-hello-to-offline-first.html),”
+    “[Say Hello to Offline First](https://web.archive.org/web/20210420014747/http://hood.ie/blog/say-hello-to-offline-first.html),”
     *hood.ie*, November 5, 2013.
 
 1.  Sebastian Burckhardt, Daan Leijen, Jonathan
@@ -276,7 +276,7 @@ Chapter 12 References
 1.  Sam Stokes:
     “[Move Fast with Confidence](http://blog.samstokes.co.uk/blog/2016/07/11/move-fast-with-confidence/),” *blog.samstokes.co.uk*, July 11, 2016.
 
-1.  “[Hyperledger Sawtooth documentation](https://sawtooth.hyperledger.org/docs/core/releases/latest/introduction.html),”
+1.  “[Hyperledger Sawtooth documentation](https://web.archive.org/web/20220120211548/https://sawtooth.hyperledger.org/docs/core/releases/latest/introduction.html),”
     Intel Corporation, *sawtooth.hyperledger.org*, 2017.
 
 1.  Richard Gendal Brown:
@@ -333,7 +333,7 @@ Chapter 12 References
     *idlewords.com*, June 2016.
 
 1.  Cathy O'Neil:
-    [*Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*](https://weaponsofmathdestructionbook.com/).
+    [*Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*](https://web.archive.org/web/20210621234447/https://weaponsofmathdestructionbook.com/).
     Crown Publishing, 2016. ISBN: 978-0-553-41881-1
 
 1.  Julia Angwin:
@@ -387,7 +387,7 @@ Chapter 12 References
     “[Data Is a Toxic Asset, So Why Not Throw It Out?](https://www.schneier.com/essays/archives/2016/03/data_is_a_toxic_asse.html),” *schneier.com*, March 1, 2016.
 
 1.  John E. Dunn:
-    “[The UK’s 15 Most Infamous Data Breaches](http://www.techworld.com/security/uks-most-infamous-data-breaches-2016-3604586/),” *techworld.com*, November 18, 2016.
+    “[The UK’s 15 Most Infamous Data Breaches](https://web.archive.org/web/20161120070058/http://www.techworld.com/security/uks-most-infamous-data-breaches-2016-3604586/),” *techworld.com*, November 18, 2016.
 
 1.  Cory Scott:
     “[Data is not toxic - which implies no benefit - but rather hazardous material, where we must balance need vs. want](https://twitter.com/cory_scott/status/706586399483437056),”
