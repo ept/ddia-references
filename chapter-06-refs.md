@@ -50,7 +50,7 @@ Chapter 6 References
 1.  “[Introduction to Cassandra Query Language](https://docs.datastax.com/en/cql-oss/3.1/cql/cql_intro_c.html),” DataStax, Inc., 2014.
 
 1.  Samuel Axon:
-    “[3% of Twitter's Servers Dedicated to Justin Bieber](http://mashable.com/2010/09/07/justin-bieber-twitter/),” *mashable.com*, September 7, 2010.
+    “[3% of Twitter's Servers Dedicated to Justin Bieber](https://web.archive.org/web/20201109041636/https://mashable.com/2010/09/07/justin-bieber-twitter/?europe=true),” *mashable.com*, September 7, 2010.
 
 1.  “[Riak KV Docs](https://docs.riak.com/riak/kv/latest/index.html),” *docs.riak.com*.
 
