@@ -20,7 +20,7 @@ Chapter 3 References
       September 2010.
 
 1.  Goetz Graefe:
-      “[Modern B-Tree Techniques](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.219.7269&rep=rep1&type=pdf),”
+      “[Modern B-Tree Techniques](https://w6113.github.io/files/papers/btreesurvey-graefe.pdf),”
       *Foundations and Trends in Databases*, volume 3, number 4, pages 203–402, August 2011.
       [doi:10.1561/1900000028](http://dx.doi.org/10.1561/1900000028)
 
