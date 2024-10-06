@@ -63,7 +63,7 @@ Chapter 9 References
 
 1.  “[Apache Curator](http://curator.apache.org/),” Apache Software Foundation, *curator.apache.org*, 2015.
 
-1.  Morali Vallath:
+1.  Murali Vallath:
     *Oracle 10g RAC Grid, Services & Clustering*. Elsevier Digital Press, 2006.
     ISBN: 978-1-555-58321-7
 
