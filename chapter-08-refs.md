@@ -45,7 +45,7 @@ Chapter 8 References
       “[Hadoop's Uncomfortable Fit in HPC](http://glennklockwood.blogspot.co.uk/2014/05/hadoops-uncomfortable-fit-in-hpc.html),” *glennklockwood.blogspot.co.uk*, May 16, 2014.
 
 1.  John von Neumann:
-    “[Probabilistic Logics and the Synthesis of Reliable Organisms from Unreliable Components](https://ece.uwaterloo.ca/~ssundara/courses/prob_logics.pdf),” in *Automata Studies (AM-34)*,
+    “[Probabilistic Logics and the Synthesis of Reliable Organisms from Unreliable Components](https://personalpages.manchester.ac.uk/staff/nikolaos.kyparissas/uploads/VonNeumann1956.pdf),” in *Automata Studies (AM-34)*,
     edited by Claude E. Shannon and John McCarthy, Princeton University Press, 1956.
     ISBN: 978-0-691-07916-5
 
