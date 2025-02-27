@@ -17,10 +17,10 @@ Chapter 4 References
       July 30, 2014.
 
 1.  Steve Breen:
-      “[What   Do WebLogic, WebSphere, JBoss, Jenkins, OpenNMS, and Your Application Have in Common? This   Vulnerability](http://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/),” *foxglovesecurity.com*, November 6, 2015.
+      “[What Do WebLogic, WebSphere, JBoss, Jenkins, OpenNMS, and Your Application Have in Common? This Vulnerability](http://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/),” *foxglovesecurity.com*, November 6, 2015.
 
 1.  Patrick McKenzie:
-      “[What   the Rails Security Issue Means for Your Startup](http://www.kalzumeus.com/2013/01/31/what-the-rails-security-issue-means-for-your-startup/),” *kalzumeus.com*, January 31, 2013.
+      “[What the Rails Security Issue Means for Your Startup](http://www.kalzumeus.com/2013/01/31/what-the-rails-security-issue-means-for-your-startup/),” *kalzumeus.com*, January 31, 2013.
 
 1.  Eishay Smith:
       “[jvm-serializers wiki](https://github.com/eishay/jvm-serializers/wiki),”
@@ -69,7 +69,7 @@ Chapter 4 References
     March 2009.
 
 1.  Aditya Auradkar and Tom Quiggle:
-      “[Introducing   Espresso—LinkedIn's Hot New Distributed Document Store](https://engineering.linkedin.com/espresso/introducing-espresso-linkedins-hot-new-distributed-document-store),” *engineering.linkedin.com*, January 21, 2015.
+      “[Introducing Espresso—LinkedIn's Hot New Distributed Document Store](https://engineering.linkedin.com/espresso/introducing-espresso-linkedins-hot-new-distributed-document-store),” *engineering.linkedin.com*, January 21, 2015.
 
 1.  Jay Kreps:
     “[Putting Apache Kafka to Use: A Practical Guide to Building a Stream Data Platform (Part 2)](http://blog.confluent.io/2015/02/25/stream-data-platform-2/),” *blog.confluent.io*,
@@ -150,7 +150,7 @@ Chapter 4 References
 1.  “[gRPC concepts](https://grpc.io/docs/guides/concepts/),” The Linux Foundation, *grpc.io*.
 
 1.  Aditya Narayan and Irina Singh:
-      “[Designing   and Versioning Compatible Web Services](https://web.archive.org/web/20141016000136/http://www.ibm.com/developerworks/websphere/library/techarticles/0705_narayan/0705_narayan.html),” *ibm.com*, March 28, 2007.
+      “[Designing and Versioning Compatible Web Services](https://web.archive.org/web/20141016000136/http://www.ibm.com/developerworks/websphere/library/techarticles/0705_narayan/0705_narayan.html),” *ibm.com*, March 28, 2007.
 
 1.  Troy Hunt:
     “[Your API Versioning Is Wrong, Which Is Why I Decided to Do It 3 Different Wrong Ways](http://www.troyhunt.com/2014/02/your-api-versioning-is-wrong-which-is.html),” *troyhunt.com*,
@@ -159,13 +159,13 @@ Chapter 4 References
 1.  “[API Upgrades](https://stripe.com/docs/upgrades),” Stripe, Inc., April 2015.
 
 1.  Jonas Bonér:
-      “[Upgrade in an   Akka Cluster](http://grokbase.com/t/gg/akka-user/138wd8j9e3/upgrade-in-an-akka-cluster),” email to *akka-user* mailing list, *grokbase.com*, August 28, 2013.
+      “[Upgrade in an Akka Cluster](http://grokbase.com/t/gg/akka-user/138wd8j9e3/upgrade-in-an-akka-cluster),” email to *akka-user* mailing list, *grokbase.com*, August 28, 2013.
 
 1.  Philip A. Bernstein, Sergey Bykov, Alan Geller, et al.:
       “[Orleans: Distributed Virtual Actors for Programmability and Scalability](https://www.microsoft.com/en-us/research/publication/orleans-distributed-virtual-actors-for-programmability-and-scalability/),” Microsoft Research
       Technical Report MSR-TR-2014-41, March 2014.
 
-1.  “[Microsoft Project   Orleans Documentation](http://dotnet.github.io/orleans/),” Microsoft Research, *dotnet.github.io*, 2015.
+1.  “[Microsoft Project Orleans Documentation](http://dotnet.github.io/orleans/),” Microsoft Research, *dotnet.github.io*, 2015.
 
 1.  David Mercer, Sean Hinde, Yinso Chen, and Richard A O'Keefe:
       “[beginner:   Updating Data Structures](http://erlang.org/pipermail/erlang-questions/2007-October/030318.html),” email thread on *erlang-questions* mailing list, *erlang.com*,

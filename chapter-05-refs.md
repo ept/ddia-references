@@ -39,10 +39,10 @@ Chapter 5 References
     “[Windows Azure Storage](https://www.umbrant.com/2016/02/04/windows-azure-storage/),”
     *umbrant.com*, February 4, 2016.
 
-1.  “[Percona    Xtrabackup - Documentation](https://www.percona.com/doc/percona-xtrabackup/2.1/index.html),” Percona LLC, 2014.
+1.  “[Percona Xtrabackup - Documentation](https://www.percona.com/doc/percona-xtrabackup/2.1/index.html),” Percona LLC, 2014.
 
 1.  Jesse Newland:
-      “[GitHub Availability This   Week](https://github.com/blog/1261-github-availability-this-week),” *github.com*, September 14, 2012.
+      “[GitHub Availability This Week](https://github.com/blog/1261-github-availability-this-week),” *github.com*, September 14, 2012.
 
 1.  Mark Imbriaco:
       “[Downtime Last Saturday](https://github.com/blog/1364-downtime-last-saturday),”
@@ -128,21 +128,21 @@ Chapter 5 References
     Systems Principles* (SOSP), October 2007.
 
 1.  Marc Shapiro, Nuno Preguiça, Carlos Baquero,
-      and Marek Zawirski: “[A Comprehensive Study of   Convergent and Commutative Replicated Data Types](http://hal.inria.fr/inria-00555588/),” INRIA Research Report no. 7506,
+      and Marek Zawirski: “[A Comprehensive Study of Convergent and Commutative Replicated Data Types](http://hal.inria.fr/inria-00555588/),” INRIA Research Report no. 7506,
       January 2011.
 
 1.  Sam Elliott:
-      “[CRDTs: An UPDATE (or   Maybe Just a PUT)](https://speakerdeck.com/lenary/crdts-an-update-or-just-a-put),” at *RICON West*, October 2013.
+      “[CRDTs: An UPDATE (or Maybe Just a PUT)](https://speakerdeck.com/lenary/crdts-an-update-or-just-a-put),” at *RICON West*, October 2013.
 
 1.  Russell Brown:
-      “[A Bluffers Guide to CRDTs in   Riak](https://gist.github.com/russelldb/f92f44bdfb619e089a4d),” *gist.github.com*, October 28, 2013.
+      “[A Bluffers Guide to CRDTs in Riak](https://gist.github.com/russelldb/f92f44bdfb619e089a4d),” *gist.github.com*, October 28, 2013.
 
 1.  Benjamin Farinier, Thomas Gazagnaire, and
-      Anil Madhavapeddy: “[Mergeable Persistent Data   Structures](http://gazagnaire.org/pub/FGM15.pdf),” at *26es Journées Francophones des Langages Applicatifs* (JFLA),
+      Anil Madhavapeddy: “[Mergeable Persistent Data Structures](http://gazagnaire.org/pub/FGM15.pdf),” at *26es Journées Francophones des Langages Applicatifs* (JFLA),
       January 2015.
 
 1.  Chengzheng Sun and Clarence Ellis:
-      “[Operational   Transformation in Real-Time Group Editors: Issues, Algorithms, and Achievements](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.933&rep=rep1&type=pdf),” at
+      “[Operational Transformation in Real-Time Group Editors: Issues, Algorithms, and Achievements](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.933&rep=rep1&type=pdf),” at
       *ACM Conference on Computer Supported Cooperative Work* (CSCW), November 1998.
 
 1.  Lars Hofhansl:

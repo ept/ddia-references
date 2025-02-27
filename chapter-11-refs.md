@@ -35,14 +35,14 @@ Chapter 11 References
     “[Brubeck, a statsd-Compatible Metrics Aggregator](http://githubengineering.com/brubeck/),” *githubengineering.com*, June 15, 2015.
 
 1.  Seth Lowenberger:
-      “[MoldUDP64   Protocol Specification V 1.00](http://www.nasdaqtrader.com/content/technicalsupport/specifications/dataproducts/moldudp64.pdf),” *nasdaqtrader.com*, July 2009.
+      “[MoldUDP64 Protocol Specification V 1.00](http://www.nasdaqtrader.com/content/technicalsupport/specifications/dataproducts/moldudp64.pdf),” *nasdaqtrader.com*, July 2009.
 
 1.  Pieter Hintjens:
       [*ZeroMQ – The Guide*](http://zguide.zeromq.org/page:all). O'Reilly Media, 2013.
       ISBN: 978-1-449-33404-8
 
 1.  Ian Malpass:
-      “[Measure   Anything, Measure Everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/),” *codeascraft.com*, February 15, 2011.
+      “[Measure Anything, Measure Everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/),” *codeascraft.com*, February 15, 2011.
 
 1.  Dieter Plaetinck:
       “[25 Graphite, Grafana and statsd Gotchas](https://grafana.com/blog/2016/03/03/25-graphite-grafana-and-statsd-gotchas/),”

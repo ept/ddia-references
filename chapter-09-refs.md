@@ -45,7 +45,7 @@ Chapter 9 References
     “[Computational Techniques in Knossos](https://aphyr.com/posts/314-computational-techniques-in-knossos),” *aphyr.com*, May 17, 2014.
 
 1.  Peter Bailis:
-      “[Linearizability   Versus Serializability](http://www.bailis.org/blog/linearizability-versus-serializability/),” *bailis.org*, September 24, 2014.
+      “[Linearizability Versus Serializability](http://www.bailis.org/blog/linearizability-versus-serializability/),” *bailis.org*, September 24, 2014.
 
 1.  Philip A. Bernstein, Vassos Hadzilacos, and Nathan Goodman:
     [*Concurrency Control and Recovery in Database Systems*](https://www.microsoft.com/en-us/research/people/philbe/book/).
@@ -192,7 +192,7 @@ Chapter 9 References
     [doi:10.1145/176575.176576](http://dx.doi.org/10.1145/176575.176576)
 
 1.  Mustaque Ahamad, Gil Neiger, James E. Burns, et al.:
-      “[Causal   Memory: Definitions, Implementation, and Programming](http://www-i2.informatik.rwth-aachen.de/i2/fileadmin/user_upload/documents/Seminar_MCMM11/Causal_memory_1996.pdf),” *Distributed
+      “[Causal Memory: Definitions, Implementation, and Programming](http://www-i2.informatik.rwth-aachen.de/i2/fileadmin/user_upload/documents/Seminar_MCMM11/Causal_memory_1996.pdf),” *Distributed
       Computing*, volume 9, number 1, pages 37–49, March 1995.
       [doi:10.1007/BF01784241](http://dx.doi.org/10.1007/BF01784241)
 

@@ -16,7 +16,7 @@ Chapter 12 References
     *4th Biennial Conference on Innovative Data Systems Research* (CIDR), January 2009.
 
 1.  Jessica Kerr:
-      “[Provenance   and Causality in Distributed Systems](https://web.archive.org/web/20190425150540/http://blog.jessitron.com/2016/09/provenance-and-causality-in-distributed.html),”
+      “[Provenance and Causality in Distributed Systems](https://web.archive.org/web/20190425150540/http://blog.jessitron.com/2016/09/provenance-and-causality-in-distributed.html),”
       *blog.jessitron.com*, September 25, 2016.
 
 1.  Kostas Tzoumas:
@@ -49,11 +49,11 @@ Chapter 12 References
     Manning, 2015. ISBN: 978-1-617-29034-3
 
 1.  Oscar Boykin, Sam Ritchie, Ian O'Connell, and
-      Jimmy Lin: “[Summingbird: A Framework for   Integrating Batch and Online MapReduce Computations](http://www.vldb.org/pvldb/vol7/p1441-boykin.pdf),” at *40th International Conference on
+      Jimmy Lin: “[Summingbird: A Framework for Integrating Batch and Online MapReduce Computations](http://www.vldb.org/pvldb/vol7/p1441-boykin.pdf),” at *40th International Conference on
       Very Large Data Bases* (VLDB), September 2014.
 
 1.  Jay Kreps:
-      “[Questioning the   Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture),” *oreilly.com*, July 2, 2014.
+      “[Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture),” *oreilly.com*, July 2, 2014.
 
 1.  Raul Castro Fernandez, Peter Pietzuch, Jay Kreps, et al.:
     “[Liquid: Unifying Nearline and Offline Big Data Integration](http://cidrdb.org/cidr2015/Papers/CIDR15_Paper25u.pdf),”
@@ -74,14 +74,14 @@ Chapter 12 References
 
 1.  Jennie Duggan,
       Aaron J. Elmore, Michael Stonebraker, et al.:
-      “[The BigDAWG Polystore   System](https://dspace.mit.edu/handle/1721.1/100936),” *ACM SIGMOD Record*, volume 44, number 2, pages 11–16, June 2015.
+      “[The BigDAWG Polystore System](https://dspace.mit.edu/handle/1721.1/100936),” *ACM SIGMOD Record*, volume 44, number 2, pages 11–16, June 2015.
       [doi:10.1145/2814710.2814713](http://dx.doi.org/10.1145/2814710.2814713)
 
 1.  Patrycja Dybka:
-      “[Foreign   Data Wrappers for PostgreSQL](http://www.vertabelo.com/blog/technical-articles/foreign-data-wrappers-for-postgresql),” *vertabelo.com*, March 24, 2015.
+      “[Foreign Data Wrappers for PostgreSQL](http://www.vertabelo.com/blog/technical-articles/foreign-data-wrappers-for-postgresql),” *vertabelo.com*, March 24, 2015.
 
 1.  David B. Lomet, Alan Fekete, Gerhard Weikum, and Mike Zwilling:
-      “[Unbundling   Transaction Services in the Cloud](https://www.microsoft.com/en-us/research/publication/unbundling-transaction-services-in-the-cloud/),” at *4th Biennial Conference on Innovative Data Systems
+      “[Unbundling Transaction Services in the Cloud](https://www.microsoft.com/en-us/research/publication/unbundling-transaction-services-in-the-cloud/),” at *4th Biennial Conference on Innovative Data Systems
       Research* (CIDR), January 2009.
 
 1.  Martin Kleppmann and Jay Kreps:

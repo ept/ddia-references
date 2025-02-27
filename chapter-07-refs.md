@@ -75,7 +75,7 @@ Chapter 7 References
       Technologies* (FAST), February 2008.
 
 1.  Bianca Schroeder, Raghav Lagisetty, and Arif Merchant:
-      “[Flash   Reliability in Production: The Expected and the Unexpected](https://www.usenix.org/conference/fast16/technical-sessions/presentation/schroeder),” at *14th USENIX Conference on
+      “[Flash Reliability in Production: The Expected and the Unexpected](https://www.usenix.org/conference/fast16/technical-sessions/presentation/schroeder),” at *14th USENIX Conference on
       File and Storage Technologies* (FAST), February 2016.
 
 1.  Don Allison:
