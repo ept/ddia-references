@@ -303,8 +303,7 @@ Chapter 12 References
     “[Software development is starting to involve important ethical choices](https://twitter.com/fchollet/status/792958695722201088),” *twitter.com*, October 30, 2016.
 
 1.  Igor Perisic:
-    “[Making Hard Choices: The Quest for Ethics in Machine Learning](https://engineering.linkedin.com/blog/2016/11/making-hard-choices--the-quest-for-ethics-in-machine-learning),” *engineering.linkedin.com*, November
-    2016.
+    “[Making Hard Choices: The Quest for Ethics in Machine Learning](https://engineering.linkedin.com/blog/2016/11/making-hard-choices--the-quest-for-ethics-in-machine-learning),” *engineering.linkedin.com*, November 2016.
 
 1.  John Naughton:
     “[Algorithm Writers Need a Code of Conduct](https://www.theguardian.com/commentisfree/2015/dec/06/algorithm-writers-should-have-code-of-conduct),” *theguardian.com*, December 6, 2015.

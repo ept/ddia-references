@@ -301,8 +301,7 @@ Chapter 11 References
     “[Doing the Impossible: Exactly-Once Messaging Patterns in Kafka](http://ben.kirw.in/2014/11/28/kafka-patterns/),” *ben.kirw.in*, November 28, 2014.
 
 1.  Pat Helland:
-    “[Data on the Outside Versus Data on the Inside](http://cidrdb.org/cidr2005/papers/P12.pdf),” at *2nd Biennial Conference on Innovative Data Systems Research* (CIDR), January
-    2005.
+    “[Data on the Outside Versus Data on the Inside](http://cidrdb.org/cidr2005/papers/P12.pdf),” at *2nd Biennial Conference on Innovative Data Systems Research* (CIDR), January 2005.
 
 1.  Ralph Kimball and Margy Ross:
     *The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling*,

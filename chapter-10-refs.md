@@ -289,8 +289,7 @@ Chapter 10 References
     Design and Implementation* (OSDI), October 2012.
 
 1.  Andrew Lenharth, Donald Nguyen, and Keshav Pingali:
-    “[Parallel Graph Analytics](http://cacm.acm.org/magazines/2016/5/201591-parallel-graph-analytics/fulltext),” *Communications of the ACM*, volume 59, number 5, pages 78–87, May
-    2016. [doi:10.1145/2901919](http://dx.doi.org/10.1145/2901919)
+    “[Parallel Graph Analytics](http://cacm.acm.org/magazines/2016/5/201591-parallel-graph-analytics/fulltext),” *Communications of the ACM*, volume 59, number 5, pages 78–87, May 2016. [doi:10.1145/2901919](http://dx.doi.org/10.1145/2901919)
 
 1.  Fabian Hüske:
     “[Peeking into Apache Flink's Engine Room](http://flink.apache.org/news/2015/03/13/peeking-into-Apache-Flinks-Engine-Room.html),” *flink.apache.org*, March 13, 2015.

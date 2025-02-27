@@ -12,8 +12,7 @@ Chapter 8 References
     “[Getting Real About Distributed System Reliability](http://blog.empathybox.com/post/19574936361/getting-real-about-distributed-system-reliability),” *blog.empathybox.com*, March 19, 2012.
 
 1.  Sydney Padua: *The Thrilling Adventures of
-    Lovelace and Babbage: The (Mostly) True Story of the First Computer*. Particular Books, April
-    2015.  ISBN: 978-0-141-98151-2
+    Lovelace and Babbage: The (Mostly) True Story of the First Computer*. Particular Books, April 2015.  ISBN: 978-0-141-98151-2
 
 1.  Coda Hale:
     “[You Can’t Sacrifice Partition Tolerance](http://codahale.com/you-cant-sacrifice-partition-tolerance/),” *codahale.com*, October 7, 2010.

@@ -114,8 +114,7 @@ Chapter 2 References
 
 1.  Joseph M. Hellerstein:
     “[The Declarative Imperative: Experiences and Conjectures in Distributed Logic](http://www.eecs.berkeley.edu/Pubs/TechRpts/2010/EECS-2010-90.pdf),” Electrical Engineering and
-    Computer Sciences, University of California at Berkeley, Tech report UCB/EECS-2010-90, June
-    2010.
+    Computer Sciences, University of California at Berkeley, Tech report UCB/EECS-2010-90, June 2010.
 
 1.  Jeffrey Dean and Sanjay Ghemawat:
     “[MapReduce: Simplified Data Processing on Large Clusters](https://research.google/pubs/pub62/),” at *6th USENIX Symposium on Operating System Design and
