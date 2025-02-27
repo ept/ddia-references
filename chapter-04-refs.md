@@ -174,4 +174,3 @@ Chapter 4 References
 1.  Fred Hebert:
       “[Postscript: Maps](http://learnyousomeerlang.com/maps),” *learnyousomeerlang.com*,
       April 9, 2014.
-

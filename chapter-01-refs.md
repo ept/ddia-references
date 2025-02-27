@@ -130,4 +130,3 @@ Chapter 1 References
     at *32nd Annual IEEE International Computer Software and Applications Conference*
     (COMPSAC), July 2008.
     [doi:10.1109/COMPSAC.2008.50](http://dx.doi.org/10.1109/COMPSAC.2008.50)
-

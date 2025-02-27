@@ -350,4 +350,3 @@ Chapter 11 References
 
 1.  Adam Warski:
     “[Kafka Streams – How Does It Fit the Stream Processing Landscape?](https://softwaremill.com/kafka-streams-how-does-it-fit-stream-landscape/),” *softwaremill.com*, June 1, 2016.
-

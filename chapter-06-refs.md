@@ -109,4 +109,3 @@ Chapter 6 References
     “[Massively Parallel Databases and MapReduce Systems](https://www.microsoft.com/en-us/research/wp-content/uploads/2013/11/db-mr-survey-final.pdf),”
     *Foundations and Trends in Databases*, volume 5, number 1, pages 1–104, November 2013.
     [doi:10.1561/1900000036](http://dx.doi.org/10.1561/1900000036)
-

@@ -254,4 +254,3 @@ Chapter 3 References
     “[Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals](http://arxiv.org/pdf/cs/0701155.pdf),” *Data Mining and Knowledge
     Discovery*, volume 1, number 1, pages 29–53, March 2007.
     [doi:10.1023/A:1009726021843](http://dx.doi.org/10.1023/A:1009726021843)
-

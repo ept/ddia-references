@@ -371,4 +371,3 @@ Chapter 8 References
     “[Scalability! But at What COST?](http://www.frankmcsherry.org/assets/COST.pdf),”
     at *15th USENIX Workshop on Hot Topics in Operating Systems* (HotOS),
     May 2015.
-

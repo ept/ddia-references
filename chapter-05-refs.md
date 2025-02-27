@@ -217,4 +217,3 @@ Chapter 5 References
     “[Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail](http://dcg.ethz.ch/lectures/hs08/seminar/papers/mattern4.pdf),” *Distributed
     Computing*, volume 7, number 3, pages 149–174, March 1994.
     [doi:10.1007/BF02277859](http://dx.doi.org/10.1007/BF02277859)
-

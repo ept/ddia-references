@@ -433,4 +433,3 @@ Chapter 12 References
 
 1.  Phillip Rogaway:
     “[The Moral Character of Cryptographic Work](http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf),” Cryptology ePrint 2015/1162, December 2015.
-

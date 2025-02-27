@@ -454,4 +454,3 @@ Chapter 9 References
     “[A History of the Virtual Synchrony Replication Model](https://ptolemy.berkeley.edu/projects/truststc/pubs/713/History%20of%20the%20Virtual%20Synchrony%20Replication%20Model%202010.pdf),”
     in *Replication: Theory and Practice*, Springer LNCS volume 5959, chapter 6, pages 91–120, 2010.
     ISBN: 978-3-642-11293-5, [doi:10.1007/978-3-642-11294-2_6](http://dx.doi.org/10.1007/978-3-642-11294-2_6)
-

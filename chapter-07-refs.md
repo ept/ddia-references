@@ -212,4 +212,3 @@ Chapter 7 References
 1.  Dave Rosenthal:
     “[Databases at 14.4MHz](http://web.archive.org/web/20150427041746/http://blog.foundationdb.com/databases-at-14.4mhz),”
     *blog.foundationdb.com*, December 10, 2014.
-

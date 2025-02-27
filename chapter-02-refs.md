@@ -180,4 +180,3 @@ Chapter 2 References
 1.  Fons Rademakers:
       “[ROOT for Big Data Analysis](https://indico.cern.ch/event/246453/contributions/1566610/attachments/423154/587535/ROOT-BigData-Analysis-London-2013.pdf),” at *Workshop on the Future of Big Data Management*,
       London, UK, June 2013.
-
