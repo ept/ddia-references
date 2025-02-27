@@ -13,7 +13,7 @@ Chapter 4 References
 1.  “[EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo),”
     *github.com*, October 2014.
 
-1.  “[CWE-502:   Deserialization of Untrusted Data](http://cwe.mitre.org/data/definitions/502.html),” Common Weakness Enumeration, *cwe.mitre.org*,
+1.  “[CWE-502: Deserialization of Untrusted Data](http://cwe.mitre.org/data/definitions/502.html),” Common Weakness Enumeration, *cwe.mitre.org*,
     July 30, 2014.
 
 1.  Steve Breen:
@@ -168,7 +168,7 @@ Chapter 4 References
 1.  “[Microsoft Project Orleans Documentation](http://dotnet.github.io/orleans/),” Microsoft Research, *dotnet.github.io*, 2015.
 
 1.  David Mercer, Sean Hinde, Yinso Chen, and Richard A O'Keefe:
-    “[beginner:   Updating Data Structures](http://erlang.org/pipermail/erlang-questions/2007-October/030318.html),” email thread on *erlang-questions* mailing list, *erlang.com*,
+    “[beginner: Updating Data Structures](http://erlang.org/pipermail/erlang-questions/2007-October/030318.html),” email thread on *erlang-questions* mailing list, *erlang.com*,
     October 29, 2007.
 
 1.  Fred Hebert:
