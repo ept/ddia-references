@@ -200,8 +200,7 @@ Chapter 5 References
     [doi:10.1109/TSE.1983.236733](http://dx.doi.org/10.1109/TSE.1983.236733)
 
 1.  Nuno Preguiça, Carlos Baquero, Paulo Sérgio
-    Almeida, et al.: “[Dotted Version Vectors: Logical Clocks for Optimistic Replication](http://arxiv.org/pdf/1011.5808v1.pdf),” arXiv:1011.5808, November 26,
-    2010.
+    Almeida, et al.: “[Dotted Version Vectors: Logical Clocks for Optimistic Replication](http://arxiv.org/pdf/1011.5808v1.pdf),” arXiv:1011.5808, November 26, 2010.
 
 1.  Sean Cribbs:
     “[A Brief History of Time in Riak](https://speakerdeck.com/seancribbs/a-brief-history-of-time-in-riak),”

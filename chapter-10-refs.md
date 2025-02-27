@@ -146,8 +146,7 @@ Chapter 10 References
     Apache Pig Documentation, *pig.apache.org*, 2017.
 
 1.  Sriranjan Manjunath:
-    “[Skewed Join](https://web.archive.org/web/20151228114742/https://wiki.apache.org/pig/PigSkewedJoinSpec),” *wiki.apache.org*,
-    2009.
+    “[Skewed Join](https://web.archive.org/web/20151228114742/https://wiki.apache.org/pig/PigSkewedJoinSpec),” *wiki.apache.org*, 2009.
 
 1.  David J. DeWitt, Jeffrey F. Naughton, Donovan A.
     Schneider, and S. Seshadri: “[Practical Skew Handling in Parallel Joins](http://www.vldb.org/conf/1992/P027.PDF),” at *18th International Conference on Very Large Data Bases* (VLDB), August 1992.

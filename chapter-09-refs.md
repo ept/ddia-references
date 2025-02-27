@@ -373,8 +373,7 @@ Chapter 9 References
 1.  Paul Randal:
     “[Real World Story of DBCC PAGE Saving the Day](http://www.sqlskills.com/blogs/paul/real-world-story-of-dbcc-page-saving-the-day/),” *sqlskills.com*, June 19, 2013.
 
-1.  “[in-doubt xact resolution Server Configuration Option](https://msdn.microsoft.com/en-us/library/ms179586.aspx),” SQL Server 2016 documentation, Microsoft, Inc.,
-    2016.
+1.  “[in-doubt xact resolution Server Configuration Option](https://msdn.microsoft.com/en-us/library/ms179586.aspx),” SQL Server 2016 documentation, Microsoft, Inc., 2016.
 
 1.  Cynthia Dwork, Nancy Lynch, and Larry Stockmeyer:
     “[Consensus in the Presence of Partial Synchrony](https://web.archive.org/web/20210318133551/https://www.net.t-labs.tu-berlin.de/~petr/ADC-07/papers/DLS88.pdf),” *Journal of the ACM*, volume 35, number 2, pages 288–323,

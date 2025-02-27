@@ -219,8 +219,7 @@ Chapter 11 References
 1.  “[Fossil Documentation: Deleting Content from Fossil](http://fossil-scm.org/index.html/doc/trunk/www/shunning.wiki),” *fossil-scm.org*, 2016.
 
 1.  Jay Kreps:
-    “[The irony of distributed systems is that data loss is really easy but deleting data is surprisingly hard,](https://twitter.com/jaykreps/status/582580836425330688)” *twitter.com*, March 30,
-    2015.
+    “[The irony of distributed systems is that data loss is really easy but deleting data is surprisingly hard,](https://twitter.com/jaykreps/status/582580836425330688)” *twitter.com*, March 30, 2015.
 
 1.  David C. Luckham:
     “[What’s the Difference Between ESP and CEP?](http://www.complexevents.com/2006/08/01/what%E2%80%99s-the-difference-between-esp-and-cep/),” *complexevents.com*, August 1, 2006.
@@ -263,8 +262,7 @@ Chapter 11 References
     “[Why Local State Is a Fundamental Primitive in Stream Processing](https://www.oreilly.com/ideas/why-local-state-is-a-fundamental-primitive-in-stream-processing),” *oreilly.com*, July 31, 2014.
 
 1.  Shay Banon:
-    “[Percolator](https://www.elastic.co/blog/percolator),” *elastic.co*, February 8,
-    2011.
+    “[Percolator](https://www.elastic.co/blog/percolator),” *elastic.co*, February 8, 2011.
 
 1.  Alan Woodward and Martin Kleppmann:
     “[Real-Time Full-Text Search with Luwak and Samza](http://martin.kleppmann.com/2015/04/13/real-time-full-text-search-luwak-samza.html),” *martin.kleppmann.com*, April 13, 2015.

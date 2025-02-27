@@ -77,8 +77,7 @@ Chapter 8 References
     *github.com*, December 26, 2012.
 
 1.  Will Oremus:
-    “[The Global Internet Is Being Attacked by Sharks, Google Confirms](http://www.slate.com/blogs/future_tense/2014/08/15/shark_attacks_threaten_google_s_undersea_internet_cables_video.html),” *slate.com*, August 15,
-    2014.
+    “[The Global Internet Is Being Attacked by Sharks, Google Confirms](http://www.slate.com/blogs/future_tense/2014/08/15/shark_attacks_threaten_google_s_undersea_internet_cables_video.html),” *slate.com*, August 15, 2014.
 
 1.  Marc A. Donges:
     “[Re: bnx2 cards Intermittantly Going Offline](http://www.spinics.net/lists/netdev/msg210485.html),” Message to Linux *netdev* mailing list, *spinics.net*, September 13, 2012.
@@ -265,8 +264,7 @@ Chapter 8 References
     “[fsyncers and Curveballs](https://web.archive.org/web/20220107141023/http://shaver.off.net/diary/2008/05/25/fsyncers-and-curveballs/),” *shaver.off.net*, May 25, 2008.
 
 1.  Zhenyun Zhuang and Cuong Tran:
-    “[Eliminating Large JVM GC Pauses Caused by Background IO Traffic](https://engineering.linkedin.com/blog/2016/02/eliminating-large-jvm-gc-pauses-caused-by-background-io-traffic),” *engineering.linkedin.com*, February 10,
-    2016.
+    “[Eliminating Large JVM GC Pauses Caused by Background IO Traffic](https://engineering.linkedin.com/blog/2016/02/eliminating-large-jvm-gc-pauses-caused-by-background-io-traffic),” *engineering.linkedin.com*, February 10, 2016.
 
 1.  David Terei and Amit Levy:
     “[Blade: A Data Center Garbage Collector](http://arxiv.org/pdf/1504.02578.pdf),”

@@ -142,8 +142,7 @@ Chapter 12 References
     [doi:10.1145/2723372.2737784](http://dx.doi.org/10.1145/2723372.2737784)
 
 1.  Guy Steele:
-    “[Re: Need for Macros (Was Re: Icon)](https://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg01134.html),” email to *ll1-discuss* mailing list, *people.csail.mit.edu*, December 24,
-    2001.
+    “[Re: Need for Macros (Was Re: Icon)](https://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg01134.html),” email to *ll1-discuss* mailing list, *people.csail.mit.edu*, December 24, 2001.
 
 1.  David Gelernter:
     “[Generative Communication in Linda](http://cseweb.ucsd.edu/groups/csag/html/teaching/cse291s03/Readings/p80-gelernter.pdf),” *ACM Transactions on Programming Languages and Systems*
@@ -248,8 +247,7 @@ Chapter 12 References
     [doi:10.1145/2678373.2665726](http://dx.doi.org/10.1145/2678373.2665726)
 
 1.  Mark Seaborn and Thomas Dullien:
-    “[Exploiting the DRAM Rowhammer Bug to Gain Kernel Privileges](https://googleprojectzero.blogspot.co.uk/2015/03/exploiting-dram-rowhammer-bug-to-gain.html),” *googleprojectzero.blogspot.co.uk*, March 9,
-    2015.
+    “[Exploiting the DRAM Rowhammer Bug to Gain Kernel Privileges](https://googleprojectzero.blogspot.co.uk/2015/03/exploiting-dram-rowhammer-bug-to-gain.html),” *googleprojectzero.blogspot.co.uk*, March 9, 2015.
 
 1.  Jim N. Gray and Catharine van Ingen:
     “[Empirical Measurements of Disk Failure Rates and Error Rates](https://www.microsoft.com/en-us/research/publication/empirical-measurements-of-disk-failure-rates-and-error-rates/),” Microsoft Research, MSR-TR-2005-166,
@@ -263,8 +261,7 @@ Chapter 12 References
     *github.com*, September 2015.
 
 1.  Xiao Chen:
-    “[HDFS DataNode Scanners and Disk Checker Explained](http://blog.cloudera.com/blog/2016/12/hdfs-datanode-scanners-and-disk-checker-explained/),” *blog.cloudera.com*, December 20,
-    2016.
+    “[HDFS DataNode Scanners and Disk Checker Explained](http://blog.cloudera.com/blog/2016/12/hdfs-datanode-scanners-and-disk-checker-explained/),” *blog.cloudera.com*, December 20, 2016.
 
 1.  Jay Kreps:
     “[Getting Real About Distributed System Reliability](http://blog.empathybox.com/post/19574936361/getting-real-about-distributed-system-reliability),” *blog.empathybox.com*, March 19, 2012.
@@ -340,15 +337,13 @@ Chapter 12 References
     “[Make Algorithms Accountable](http://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html),” *nytimes.com*, August 1, 2016.
 
 1.  Bryce Goodman and Seth Flaxman:
-    “[European Union Regulations on Algorithmic Decision-Making and a ‘Right to Explanation’](https://arxiv.org/abs/1606.08813),” *arXiv:1606.08813*, August 31,
-    2016.
+    “[European Union Regulations on Algorithmic Decision-Making and a ‘Right to Explanation’](https://arxiv.org/abs/1606.08813),” *arXiv:1606.08813*, August 31, 2016.
 
 1.  “[A Review of the Data Broker Industry: Collection, Use, and Sale of Consumer Data for Marketing Purposes](http://educationnewyork.com/files/rockefeller_databroker.pdf),”
     Staff Report, *United States Senate Committee on Commerce, Science, and Transportation*, *commerce.senate.gov*, December 2013.
 
 1.  Olivia Solon:
-    “[Facebook’s Failure: Did Fake News and Polarized Politics Get Trump Elected?](https://www.theguardian.com/technology/2016/nov/10/facebook-fake-news-election-conspiracy-theories)” *theguardian.com*, November 10,
-    2016.
+    “[Facebook’s Failure: Did Fake News and Polarized Politics Get Trump Elected?](https://www.theguardian.com/technology/2016/nov/10/facebook-fake-news-election-conspiracy-theories)” *theguardian.com*, November 10, 2016.
 
 1.  Donella H. Meadows and Diana Wright:
     *Thinking in Systems: A Primer*. Chelsea Green Publishing, 2008. ISBN: 978-1-603-58055-7
@@ -401,8 +396,7 @@ Chapter 12 References
     [doi:10.14763/2016.1.406](http://dx.doi.org/10.14763/2016.1.406)
 
 1.  Ellen P. Goodman and Julia Powles:
-    “[Facebook and Google: Most Powerful and Secretive Empires We've Ever Known](https://www.theguardian.com/technology/2016/sep/28/google-facebook-powerful-secretive-empire-transparency),” *theguardian.com*, September 28,
-    2016.
+    “[Facebook and Google: Most Powerful and Secretive Empires We've Ever Known](https://www.theguardian.com/technology/2016/sep/28/google-facebook-powerful-secretive-empire-transparency),” *theguardian.com*, September 28, 2016.
 
 1.  [Directive 95/46/EC on the protection of individuals with regard to the processing of personal data and on the free movement of such data](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31995L0046), Official Journal of the European Communities No. L 281/31,
     *eur-lex.europa.eu*, November 1995.
@@ -417,8 +411,7 @@ Chapter 12 References
     [doi:10.14763/2016.1.404](http://dx.doi.org/10.14763/2016.1.404)
 
 1.  Jessica Leber:
-    “[Your Data Footprint Is Affecting Your Life in Ways You Can’t Even Imagine](https://www.fastcoexist.com/3057514/your-data-footprint-is-affecting-your-life-in-ways-you-cant-even-imagine),” *fastcoexist.com*, March 15,
-    2016.
+    “[Your Data Footprint Is Affecting Your Life in Ways You Can’t Even Imagine](https://www.fastcoexist.com/3057514/your-data-footprint-is-affecting-your-life-in-ways-you-cant-even-imagine),” *fastcoexist.com*, March 15, 2016.
 
 1.  Maciej Cegłowski:
     “[Haunted by Data](http://idlewords.com/talks/haunted_by_data.htm),” *idlewords.com*,
