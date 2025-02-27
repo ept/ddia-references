@@ -7,7 +7,7 @@ Chapter 6 References
 1.  David J. DeWitt and Jim N. Gray:
     “[Parallel Database Systems: The Future of High Performance Database Systems](http://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/dewittgray92.pdf),”
     *Communications of the ACM*, volume 35, number 6, pages 85–98, June 1992.
-    [doi:10.1145/129888.129894](https://dx.doi.org/10.1145/129888.129894)
+    [doi:10.1145/129888.129894](https://doi.org/10.1145/129888.129894)
 
 1.  Lars George:
     “[HBase vs. BigTable Comparison](http://www.larsgeorge.com/2009/11/hbase-vs-bigtable-comparison.html),”
@@ -28,7 +28,7 @@ Chapter 6 References
 1.  David Karger, Eric Lehman, Tom Leighton, et al.:
     “[Consistent Hashing and Random Trees: Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](https://www.akamai.com/site/en/documents/research-paper/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf),”
     at *29th Annual ACM Symposium on Theory of Computing* (STOC), pages 654–663, 1997.
-    [doi:10.1145/258533.258660](https://dx.doi.org/10.1145/258533.258660)
+    [doi:10.1145/258533.258660](https://doi.org/10.1145/258533.258660)
 
 1.  John Lamping and Eric Veach:
     “[A Fast, Minimal Memory, Consistent Hash Algorithm](http://arxiv.org/pdf/1406.2294.pdf),” *arxiv.org*, June 2014.
@@ -101,11 +101,11 @@ Chapter 6 References
 
 1.  Kishore Gopalakrishna, Shi Lu, Zhen Zhang, et al.:
     “[Untangling Cluster Management with Helix](http://www.socc2012.org/helix_onecol.pdf?attredirects=0),” at *ACM Symposium on Cloud Computing* (SoCC), October 2012.
-    [doi:10.1145/2391229.2391248](https://dx.doi.org/10.1145/2391229.2391248)
+    [doi:10.1145/2391229.2391248](https://doi.org/10.1145/2391229.2391248)
 
 1.  “[Moxi 1.8 Manual](http://docs.couchbase.com/moxi-manual-1.8/),” Couchbase, Inc., 2014.
 
 1.  Shivnath Babu and Herodotos Herodotou:
     “[Massively Parallel Databases and MapReduce Systems](https://www.microsoft.com/en-us/research/wp-content/uploads/2013/11/db-mr-survey-final.pdf),”
     *Foundations and Trends in Databases*, volume 5, number 1, pages 1–104, November 2013.
-    [doi:10.1561/1900000036](https://dx.doi.org/10.1561/1900000036)
+    [doi:10.1561/1900000036](https://doi.org/10.1561/1900000036)

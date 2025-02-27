@@ -127,12 +127,12 @@ Chapter 4 References
 1.  Michi Henning:
     “[The Rise and Fall of CORBA](https://cacm.acm.org/magazines/2008/8/5336-the-rise-and-fall-of-corba/fulltext),”
     *Communications of the ACM*, volume 51, number 8, pages 52–57, August 2008.
-    [doi:10.1145/1378704.1378718](https://dx.doi.org/10.1145/1378704.1378718)
+    [doi:10.1145/1378704.1378718](https://doi.org/10.1145/1378704.1378718)
 
 1.  Andrew D. Birrell and Bruce Jay Nelson:
     “[Implementing Remote Procedure Calls](http://www.cs.princeton.edu/courses/archive/fall03/cs518/papers/rpc.pdf),” *ACM Transactions on Computer Systems* (TOCS),
     volume 2, number 1, pages 39–59, February 1984.
-    [doi:10.1145/2080.357392](https://dx.doi.org/10.1145/2080.357392)
+    [doi:10.1145/2080.357392](https://doi.org/10.1145/2080.357392)
 
 1.  Jim Waldo, Geoff Wyant, Ann Wollrath, and Sam Kendall:
     “[A Note on Distributed Computing](http://m.mirror.facebook.net/kde/devel/smli_tr-94-29.pdf),”
@@ -140,12 +140,12 @@ Chapter 4 References
 
 1.  Steve Vinoski:
     “[Convenience over Correctness](http://steve.vinoski.net/pdf/IEEE-Convenience_Over_Correctness.pdf),” *IEEE Internet Computing*, volume 12, number 4, pages 89–92, July 2008.
-    [doi:10.1109/MIC.2008.75](https://dx.doi.org/10.1109/MIC.2008.75)
+    [doi:10.1109/MIC.2008.75](https://doi.org/10.1109/MIC.2008.75)
 
 1.  Marius Eriksen:
     “[Your Server as a Function](http://monkey.org/~marius/funsrv.pdf),” at
     *7th Workshop on Programming Languages and Operating Systems* (PLOS), November 2013.
-    [doi:10.1145/2525528.2525538](https://dx.doi.org/10.1145/2525528.2525538)
+    [doi:10.1145/2525528.2525538](https://doi.org/10.1145/2525528.2525538)
 
 1.  “[gRPC concepts](https://grpc.io/docs/guides/concepts/),” The Linux Foundation, *grpc.io*.
 

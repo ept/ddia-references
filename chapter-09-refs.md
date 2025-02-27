@@ -6,7 +6,7 @@ Chapter 9 References
 
 1.  Peter Bailis and Ali Ghodsi:
     “[Eventual Consistency Today: Limitations, Extensions, and Beyond](http://queue.acm.org/detail.cfm?id=2462076),” *ACM Queue*, volume 11, number 3, pages 55-63, March 2013.
-    [doi:10.1145/2460276.2462076](https://dx.doi.org/10.1145/2460276.2462076)
+    [doi:10.1145/2460276.2462076](https://doi.org/10.1145/2460276.2462076)
 
 1.  Prince Mahajan, Lorenzo Alvisi, and Mike Dahlin:
     “[Consistency, Availability, and Convergence](http://apps.cs.utexas.edu/tech_reports/reports/tr/TR-2036.pdf),” University of Texas at Austin, Department of Computer
@@ -25,12 +25,12 @@ Chapter 9 References
 1.  Maurice P. Herlihy and Jeannette M. Wing:
     “[Linearizability: A Correctness Condition for Concurrent Objects](http://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf),” *ACM Transactions on Programming
     Languages and Systems* (TOPLAS), volume 12, number 3, pages 463–492, July 1990.
-    [doi:10.1145/78969.78972](https://dx.doi.org/10.1145/78969.78972)
+    [doi:10.1145/78969.78972](https://doi.org/10.1145/78969.78972)
 
 1.  Leslie Lamport:
     “[On interprocess communication](https://www.microsoft.com/en-us/research/publication/interprocess-communication-part-basic-formalism-part-ii-algorithms/),”
     *Distributed Computing*, volume 1, number 2, pages 77–101, June 1986.
-    [doi:10.1007/BF01786228](https://dx.doi.org/10.1007/BF01786228)
+    [doi:10.1007/BF01786228](https://doi.org/10.1007/BF01786228)
 
 1.  David K. Gifford:
     “[Information Storage in a Decentralized Computer System](http://www.mirrorservice.org/sites/www.bitsavers.org/pdf/xerox/parc/techReports/CSL-81-8_Information_Storage_in_a_Decentralized_Computer_System.pdf),” Xerox Palo Alto Research Centers, CSL-81-8, June 1981.
@@ -77,7 +77,7 @@ Chapter 9 References
 1.  Flavio P. Junqueira, Benjamin C. Reed, and Marco Serafini:
       “[Zab: High-Performance Broadcast for Primary-Backup Systems](https://web.archive.org/web/20220419064903/https://marcoserafini.github.io/papers/zab.pdf),”
       at *41st IEEE International Conference on Dependable Systems and Networks* (DSN), June 2011.
-      [doi:10.1109/DSN.2011.5958223](https://dx.doi.org/10.1109/DSN.2011.5958223)
+      [doi:10.1109/DSN.2011.5958223](https://doi.org/10.1109/DSN.2011.5958223)
 
 1.  Diego Ongaro and John K. Ousterhout:
       “[In Search of an Understandable Consensus Algorithm](https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf),”
@@ -86,17 +86,17 @@ Chapter 9 References
 1.  Hagit Attiya, Amotz Bar-Noy, and Danny Dolev:
     “[Sharing Memory Robustly in Message-Passing Systems](http://www.cse.huji.ac.il/course/2004/dist/p124-attiya.pdf),”
     *Journal of the ACM*, volume 42, number 1, pages 124–142, January 1995.
-    [doi:10.1145/200836.200869](https://dx.doi.org/10.1145/200836.200869)
+    [doi:10.1145/200836.200869](https://doi.org/10.1145/200836.200869)
 
 1.  Nancy Lynch and Alex Shvartsman:
     “[Robust Emulation of Shared Memory Using Dynamic Quorum-Acknowledged Broadcasts](http://groups.csail.mit.edu/tds/papers/Lynch/FTCS97.pdf),” at *27th Annual International Symposium on
     Fault-Tolerant Computing* (FTCS), June 1997.
-    [doi:10.1109/FTCS.1997.614100](https://dx.doi.org/10.1109/FTCS.1997.614100)
+    [doi:10.1109/FTCS.1997.614100](https://doi.org/10.1109/FTCS.1997.614100)
 
 1.  Christian Cachin, Rachid Guerraoui, and Luís Rodrigues:
     [*Introduction to Reliable and Secure Distributed Programming*](http://www.distributedprogramming.net/),
     2nd edition. Springer, 2011. ISBN: 978-3-642-15259-7,
-    [doi:10.1007/978-3-642-15260-3](https://dx.doi.org/10.1007/978-3-642-15260-3)
+    [doi:10.1007/978-3-642-15260-3](https://doi.org/10.1007/978-3-642-15260-3)
 
 1.  Sam Elliott, Mark Allen, and Martin Kleppmann:
     [personal communication](https://web.archive.org/web/20230620021338/https://twitter.com/lenary/status/654761711933648896),
@@ -109,29 +109,29 @@ Chapter 9 References
     “[Wait-Free Synchronization](https://cs.brown.edu/~mph/Herlihy91/p124-herlihy.pdf),”
     *ACM Transactions on Programming Languages and Systems* (TOPLAS), volume 13, number 1,
     pages 124–149, January 1991.
-    [doi:10.1145/114005.102808](https://dx.doi.org/10.1145/114005.102808)
+    [doi:10.1145/114005.102808](https://doi.org/10.1145/114005.102808)
 
 1.  Armando Fox and Eric A. Brewer:
     “[Harvest, Yield, and Scalable Tolerant Systems](http://radlab.cs.berkeley.edu/people/fox/static/pubs/pdf/c18.pdf),” at *7th Workshop on Hot Topics in Operating
     Systems* (HotOS), March 1999.
-    [doi:10.1109/HOTOS.1999.798396](https://dx.doi.org/10.1109/HOTOS.1999.798396)
+    [doi:10.1109/HOTOS.1999.798396](https://doi.org/10.1109/HOTOS.1999.798396)
 
 1.  Seth Gilbert and Nancy Lynch:
     “[Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services](http://www.comp.nus.edu.sg/~gilbert/pubs/BrewersConjecture-SigAct.pdf),”
     *ACM SIGACT News*, volume 33, number 2, pages 51–59, June 2002.
-    [doi:10.1145/564585.564601](https://dx.doi.org/10.1145/564585.564601)
+    [doi:10.1145/564585.564601](https://doi.org/10.1145/564585.564601)
 
 1.  Seth Gilbert and Nancy Lynch:
     “[Perspectives on the CAP Theorem](http://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf),” *IEEE Computer Magazine*, volume 45, number 2, pages 30–36, February 2012.
-    [doi:10.1109/MC.2011.389](https://dx.doi.org/10.1109/MC.2011.389)
+    [doi:10.1109/MC.2011.389](https://doi.org/10.1109/MC.2011.389)
 
 1.  Eric A. Brewer:
     “[CAP Twelve Years Later: How the 'Rules' Have Changed](https://web.archive.org/web/20221222092656/http://cs609.cs.ua.edu/CAP12.pdf),” *IEEE Computer Magazine*, volume 45, number 2, pages 23–29, February 2012.
-    [doi:10.1109/MC.2012.37](https://dx.doi.org/10.1109/MC.2012.37)
+    [doi:10.1109/MC.2012.37](https://doi.org/10.1109/MC.2012.37)
 
 1.  Susan B. Davidson, Hector Garcia-Molina, and Dale Skeen:
     “[Consistency in Partitioned Networks](http://delab.csd.auth.gr/~dimitris/courses/mpc_fall05/papers/invalidation/acm_csur85_partitioned_network_consistency.pdf),” *ACM Computing Surveys*, volume 17, number 3, pages 341–370, September 1985.
-    [doi:10.1145/5505.5508](https://dx.doi.org/10.1145/5505.5508)
+    [doi:10.1145/5505.5508](https://doi.org/10.1145/5505.5508)
 
 1.  Paul R. Johnson and Robert H. Thomas:
     “[RFC 677: The Maintenance of Duplicate Databases](https://tools.ietf.org/html/rfc677),” Network Working Group, January 27, 1975.
@@ -142,7 +142,7 @@ Chapter 9 References
 1.  Michael J. Fischer and Alan Michael:
     “[Sacrificing Serializability to Attain High Availability of Data in an Unreliable Network](http://www.cs.ucsb.edu/~agrawal/spring2011/ugrad/p70-fischer.pdf),” at
     *1st ACM Symposium on Principles of Database Systems* (PODS), March 1982.
-    [doi:10.1145/588111.588124](https://dx.doi.org/10.1145/588111.588124)
+    [doi:10.1145/588111.588124](https://doi.org/10.1145/588111.588124)
 
 1.  Eric A. Brewer:
     “[NoSQL: Past, Present, Future](http://www.infoq.com/presentations/NoSQL-History),”
@@ -162,18 +162,18 @@ Chapter 9 References
 1.  Nancy A. Lynch:
     “[A Hundred Impossibility Proofs for Distributed Computing](http://groups.csail.mit.edu/tds/papers/Lynch/podc89.pdf),” at *8th ACM Symposium on Principles of Distributed
     Computing* (PODC), August 1989.
-    [doi:10.1145/72981.72982](https://dx.doi.org/10.1145/72981.72982)
+    [doi:10.1145/72981.72982](https://doi.org/10.1145/72981.72982)
 
 1.  Hagit Attiya, Faith Ellen, and Adam Morrison:
     “[Limitations of Highly-Available Eventually-Consistent Data Stores](https://www.cs.tau.ac.il/~mad/publications/podc2015-replds.pdf),”
     at *ACM Symposium on Principles of Distributed Computing* (PODC), July 2015.
-    [doi:10.1145/2767386.2767419](https://dx.doi.org/10.1145/2767386.2767419)
+    [doi:10.1145/2767386.2767419](https://doi.org/10.1145/2767386.2767419)
 
 1.  Peter Sewell, Susmit Sarkar,
     Scott Owens, et al.:
     “[x86-TSO: A Rigorous and Usable Programmer's Model for x86 Multiprocessors](http://www.cl.cam.ac.uk/~pes20/weakmemory/cacm.pdf),” *Communications of the ACM*,
     volume 53, number 7, pages 89–97, July 2010.
-    [doi:10.1145/1785414.1785443](https://dx.doi.org/10.1145/1785414.1785443)
+    [doi:10.1145/1785414.1785443](https://doi.org/10.1145/1785414.1785443)
 
 1.  Martin Thompson:
     “[Memory Barriers/Fences](http://mechanical-sympathy.blogspot.co.uk/2011/07/memory-barriersfences.html),” *mechanical-sympathy.blogspot.co.uk*, July 24, 2011.
@@ -184,17 +184,17 @@ Chapter 9 References
 1.  Daniel J. Abadi:
     “[Consistency Tradeoffs in Modern Distributed Database System Design](http://cs-www.cs.yale.edu/homes/dna/papers/abadi-pacelc.pdf),” *IEEE Computer Magazine*,
     volume 45, number 2, pages 37–42, February 2012.
-    [doi:10.1109/MC.2012.33](https://dx.doi.org/10.1109/MC.2012.33)
+    [doi:10.1109/MC.2012.33](https://doi.org/10.1109/MC.2012.33)
 
 1.  Hagit Attiya and Jennifer L. Welch:
     “[Sequential Consistency Versus Linearizability](http://courses.csail.mit.edu/6.852/01/papers/p91-attiya.pdf),” *ACM Transactions on Computer Systems* (TOCS),
     volume 12, number 2, pages 91–122, May 1994.
-    [doi:10.1145/176575.176576](https://dx.doi.org/10.1145/176575.176576)
+    [doi:10.1145/176575.176576](https://doi.org/10.1145/176575.176576)
 
 1.  Mustaque Ahamad, Gil Neiger, James E. Burns, et al.:
       “[Causal   Memory: Definitions, Implementation, and Programming](http://www-i2.informatik.rwth-aachen.de/i2/fileadmin/user_upload/documents/Seminar_MCMM11/Causal_memory_1996.pdf),” *Distributed
       Computing*, volume 9, number 1, pages 37–49, March 1995.
-      [doi:10.1007/BF01784241](https://dx.doi.org/10.1007/BF01784241)
+      [doi:10.1007/BF01784241](https://doi.org/10.1007/BF01784241)
 
 1.  Wyatt Lloyd, Michael J. Freedman,
     Michael Kaminsky, and David G. Andersen:
@@ -220,7 +220,7 @@ Chapter 9 References
     Carlos Baquero, and Victor Fonte:
     “[Concise Server-Wide Causality Management for Eventually Consistent Data Stores](https://web.archive.org/web/20220810205439/http://haslab.uminho.pt/tome/files/global_logical_clocks.pdf),” at *15th IFIP International
     Conference on Distributed Applications and Interoperable Systems* (DAIS), June 2015.
-    [doi:10.1007/978-3-319-19129-4_6](https://dx.doi.org/10.1007/978-3-319-19129-4_6)
+    [doi:10.1007/978-3-319-19129-4_6](https://doi.org/10.1007/978-3-319-19129-4_6)
 
 1.  Rob Conery:
       “[A Better ID Generator for PostgreSQL](https://web.archive.org/web/20220118044729/http://rob.conery.io/2014/05/29/a-better-id-generator-for-postgresql/),” *rob.conery.io*, May 29, 2014.
@@ -228,17 +228,17 @@ Chapter 9 References
 1.  Leslie Lamport:
     “[Time, Clocks, and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/),”
     *Communications of the ACM*, volume 21, number 7, pages 558–565, July 1978.
-    [doi:10.1145/359545.359563](https://dx.doi.org/10.1145/359545.359563)
+    [doi:10.1145/359545.359563](https://doi.org/10.1145/359545.359563)
 
 1.  Xavier Défago, André Schiper, and Péter Urbán:
     “[Total Order Broadcast and Multicast Algorithms: Taxonomy and Survey](https://dspace.jaist.ac.jp/dspace/bitstream/10119/4883/1/defago_et_al.pdf),” *ACM Computing
     Surveys*, volume 36, number 4, pages 372–421, December 2004.
-    [doi:10.1145/1041680.1041682](https://dx.doi.org/10.1145/1041680.1041682)
+    [doi:10.1145/1041680.1041682](https://doi.org/10.1145/1041680.1041682)
 
 1.  Hagit Attiya and Jennifer Welch: *Distributed
     Computing: Fundamentals, Simulations and Advanced Topics*, 2nd edition.
     John Wiley & Sons, 2004. ISBN: 978-0-471-45324-6,
-    [doi:10.1002/0471478210](https://dx.doi.org/10.1002/0471478210)
+    [doi:10.1002/0471478210](https://doi.org/10.1002/0471478210)
 
 1.  Mahesh
     Balakrishnan, Dahlia Malkhi, Vijayan Prabhakaran, et al.:
@@ -256,7 +256,7 @@ Chapter 9 References
 1.  Mahesh Balakrishnan, Dahlia Malkhi, Ted Wobber, et al.:
     “[Tango: Distributed Data Structures over a Shared Log](https://www.microsoft.com/en-us/research/publication/tango-distributed-data-structures-over-a-shared-log/),”
     at *24th ACM Symposium on Operating Systems Principles* (SOSP), November 2013.
-    [doi:10.1145/2517349.2522732](https://dx.doi.org/10.1145/2517349.2522732)
+    [doi:10.1145/2517349.2522732](https://doi.org/10.1145/2517349.2522732)
 
 1.  Robbert van Renesse and Fred B. Schneider:
     “[Chain Replication for Supporting High Throughput and Availability](http://static.usenix.org/legacy/events/osdi04/tech/full_papers/renesse/renesse.pdf),” at *6th USENIX
@@ -265,7 +265,7 @@ Chapter 9 References
 1.  Leslie Lamport:
     “[How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs](https://lamport.azurewebsites.net/pubs/multi.pdf),”
     *IEEE Transactions on Computers*, volume 28, number 9, pages 690–691, September 1979.
-    [doi:10.1109/TC.1979.1675439](https://dx.doi.org/10.1109/TC.1979.1675439)
+    [doi:10.1109/TC.1979.1675439](https://doi.org/10.1109/TC.1979.1675439)
 
 1.  Enis Söztutar, Devaraj Das, and Carter Shanklin:
     “[Apache HBase High Availability at the Next Level](https://web.archive.org/web/20160405122821/http://hortonworks.com/blog/apache-hbase-high-availability-next-level/),”
@@ -274,16 +274,16 @@ Chapter 9 References
 1.  Brian F Cooper, Raghu Ramakrishnan, Utkarsh Srivastava, et al.:
     “[PNUTS: Yahoo!’s Hosted Data Serving Platform](http://www.mpi-sws.org/~druschel/courses/ds/papers/cooper-pnuts.pdf),” at *34th International Conference on Very Large Data
     Bases* (VLDB), August 2008.
-    [doi:10.14778/1454159.1454167](https://dx.doi.org/10.14778/1454159.1454167)
+    [doi:10.14778/1454159.1454167](https://doi.org/10.14778/1454159.1454167)
 
 1.  Tushar Deepak Chandra and Sam Toueg:
     “[Unreliable Failure Detectors for Reliable Distributed Systems](http://courses.csail.mit.edu/6.852/08/papers/CT96-JACM.pdf),” *Journal of the ACM*,
     volume 43, number 2, pages 225–267, March 1996.
-    [doi:10.1145/226643.226647](https://dx.doi.org/10.1145/226643.226647)
+    [doi:10.1145/226643.226647](https://doi.org/10.1145/226643.226647)
 
 1.  Michael J. Fischer, Nancy Lynch, and Michael S. Paterson:
     “[Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf),” *Journal of the ACM*, volume 32, number 2, pages 374–382, April 1985.
-    [doi:10.1145/3149.214121](https://dx.doi.org/10.1145/3149.214121)
+    [doi:10.1145/3149.214121](https://doi.org/10.1145/3149.214121)
 
 1.  Michael Ben-Or: “Another Advantage of Free
     Choice: Completely Asynchronous Agreement Protocols,” at *2nd ACM Symposium on Principles of
@@ -293,12 +293,12 @@ Chapter 9 References
 1.  Jim N. Gray and Leslie Lamport:
     “[Consensus on Transaction Commit](http://db.cs.berkeley.edu/cs286/papers/paxoscommit-tods2006.pdf),” *ACM Transactions on Database Systems* (TODS), volume 31,
     number 1, pages 133–160, March 2006.
-    [doi:10.1145/1132863.1132867](https://dx.doi.org/10.1145/1132863.1132867)
+    [doi:10.1145/1132863.1132867](https://doi.org/10.1145/1132863.1132867)
 
 1.  Rachid Guerraoui:
     “[Revisiting the Relationship Between Non-Blocking Atomic Commitment and Consensus](https://citeseerx.ist.psu.edu/pdf/5d06489503b6f791aa56d2d7942359c2592e44b0),”
     at *9th International Workshop on Distributed Algorithms* (WDAG), September 1995.
-    [doi:10.1007/BFb0022140](https://dx.doi.org/10.1007/BFb0022140)
+    [doi:10.1007/BFb0022140](https://doi.org/10.1007/BFb0022140)
 
 1.  Thanumalayan Sankaranarayana Pillai, Vijay Chidambaram,
     Ramnatthan Alagappan, et al.: “[All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications](http://research.cs.wisc.edu/wind/Publications/alice-osdi14.pdf),”
@@ -312,12 +312,12 @@ Chapter 9 References
 1.  Hector Garcia-Molina and Kenneth Salem:
     “[Sagas](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf),” at
     *ACM International Conference on Management of Data* (SIGMOD), May 1987.
-    [doi:10.1145/38713.38742](https://dx.doi.org/10.1145/38713.38742)
+    [doi:10.1145/38713.38742](https://doi.org/10.1145/38713.38742)
 
 1.  C. Mohan, Bruce G. Lindsay, and Ron Obermarck:
     “[Transaction Management in the R* Distributed Database Management System](https://cs.brown.edu/courses/csci2270/archives/2012/papers/dtxn/p378-mohan.pdf),”
     *ACM Transactions on Database Systems*, volume 11, number 4, pages 378–396, December 1986.
-    [doi:10.1145/7239.7266](https://dx.doi.org/10.1145/7239.7266)
+    [doi:10.1145/7239.7266](https://doi.org/10.1145/7239.7266)
 
 1.  “[Distributed Transaction Processing: The XA Specification](http://pubs.opengroup.org/onlinepubs/009680699/toc.pdf),” X/Open Company Ltd., Technical Standard
     XO/CAE/91/300, December 1991. ISBN: 978-1-872-63024-3
@@ -329,20 +329,20 @@ Chapter 9 References
 1.  Ivan Silva Neto and Francisco Reverbel:
     “[Lessons Learned from Implementing WS-Coordination and WS-AtomicTransaction](http://www.ime.usp.br/~reverbel/papers/icis2008.pdf),” at *7th IEEE/ACIS International Conference on
     Computer and Information Science* (ICIS), May 2008.
-    [doi:10.1109/ICIS.2008.75](https://dx.doi.org/10.1109/ICIS.2008.75)
+    [doi:10.1109/ICIS.2008.75](https://doi.org/10.1109/ICIS.2008.75)
 
 1.  James E. Johnson, David E. Langworthy, Leslie Lamport, and Friedrich H. Vogt:
     “[Formal Specification of a Web Services Protocol](https://www.microsoft.com/en-us/research/publication/formal-specification-of-a-web-services-protocol/),”
     at *1st International Workshop on Web Services and Formal Methods* (WS-FM), February 2004.
-    [doi:10.1016/j.entcs.2004.02.022](https://dx.doi.org/10.1016/j.entcs.2004.02.022)
+    [doi:10.1016/j.entcs.2004.02.022](https://doi.org/10.1016/j.entcs.2004.02.022)
 
 1.  Dale Skeen:
     “[Nonblocking Commit Protocols](http://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/Ske81.pdf),” at *ACM International Conference on Management of Data* (SIGMOD), April 1981.
-    [doi:10.1145/582318.582339](https://dx.doi.org/10.1145/582318.582339)
+    [doi:10.1145/582318.582339](https://doi.org/10.1145/582318.582339)
 
 1.  Gregor Hohpe:
     “[Your Coffee Shop Doesn’t Use Two-Phase Commit](http://www.martinfowler.com/ieeeSoftware/coffeeShop.pdf),” *IEEE Software*, volume 22, number 2, pages 64–66, March 2005.
-    [doi:10.1109/MS.2005.52](https://dx.doi.org/10.1109/MS.2005.52)
+    [doi:10.1109/MS.2005.52](https://doi.org/10.1109/MS.2005.52)
 
 1.  Pat Helland:
     “[Life Beyond Distributed Transactions: An Apostate’s Opinion](https://web.archive.org/web/20210303104924/http://www-db.cs.wisc.edu/cidr/cidr2007/papers/cidr07p15.pdf),” at *3rd Biennial Conference on Innovative Data Systems
@@ -378,17 +378,17 @@ Chapter 9 References
 
 1.  Cynthia Dwork, Nancy Lynch, and Larry Stockmeyer:
     “[Consensus in the Presence of Partial Synchrony](https://web.archive.org/web/20210318133551/https://www.net.t-labs.tu-berlin.de/~petr/ADC-07/papers/DLS88.pdf),” *Journal of the ACM*, volume 35, number 2, pages 288–323,
-    April 1988. [doi:10.1145/42282.42283](https://dx.doi.org/10.1145/42282.42283)
+    April 1988. [doi:10.1145/42282.42283](https://doi.org/10.1145/42282.42283)
 
 1.  Miguel Castro and Barbara H. Liskov:
     “[Practical Byzantine Fault Tolerance and Proactive Recovery](https://web.archive.org/web/20181123142540/http://zoo.cs.yale.edu/classes/cs426/2012/bib/castro02practical.pdf),” *ACM Transactions on Computer Systems*,
     volume 20, number 4, pages 396–461, November 2002.
-    [doi:10.1145/571637.571640](https://dx.doi.org/10.1145/571637.571640)
+    [doi:10.1145/571637.571640](https://doi.org/10.1145/571637.571640)
 
 1.  Brian M. Oki and Barbara H. Liskov:
     “[Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems](http://www.cs.princeton.edu/courses/archive/fall11/cos518/papers/viewstamped.pdf),” at
     *7th ACM Symposium on Principles of Distributed Computing* (PODC), August 1988.
-    [doi:10.1145/62546.62549](https://dx.doi.org/10.1145/62546.62549)
+    [doi:10.1145/62546.62549](https://doi.org/10.1145/62546.62549)
 
 1.  Barbara H. Liskov and James Cowling:
     “[Viewstamped Replication Revisited](http://pmg.csail.mit.edu/papers/vr-revisited.pdf),”
@@ -397,7 +397,7 @@ Chapter 9 References
 1.  Leslie Lamport:
     “[The Part-Time Parliament](https://www.microsoft.com/en-us/research/publication/part-time-parliament/),”
     *ACM Transactions on Computer Systems*, volume 16, number 2, pages 133–169, May 1998.
-    [doi:10.1145/279227.279229](https://dx.doi.org/10.1145/279227.279229)
+    [doi:10.1145/279227.279229](https://doi.org/10.1145/279227.279229)
 
 1.  Leslie Lamport:
     “[Paxos Made Simple](https://www.microsoft.com/en-us/research/publication/paxos-made-simple/),” *ACM SIGACT News*, volume 32, number 4, pages 51–58, December 2001.
@@ -416,7 +416,7 @@ Chapter 9 References
 1.  Heidi Howard, Malte Schwarzkopf, Anil Madhavapeddy,
     and Jon Crowcroft: “[Raft Refloated: Do We Have Consensus?](https://web.archive.org/web/20230319151303/https://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf),” *ACM SIGOPS Operating Systems Review*, volume 49,
     number 1, pages 12–21, January 2015.
-    [doi:10.1145/2723872.2723876](https://dx.doi.org/10.1145/2723872.2723876)
+    [doi:10.1145/2723872.2723876](https://doi.org/10.1145/2723872.2723876)
 
 1.  André Medeiros:
     “[ZooKeeper’s Atomic Broadcast Protocol: Theory and Practice](http://www.tcs.hut.fi/Studies/T-79.5001/reports/2012-deSouzaMedeiros.pdf),” Aalto University School of Science, March 20, 2012.
@@ -424,7 +424,7 @@ Chapter 9 References
 1.  Robbert van Renesse, Nicolas Schiper, and
     Fred B. Schneider: “[Vive La Différence: Paxos vs. Viewstamped Replication vs. Zab](http://arxiv.org/abs/1309.5671),” *IEEE Transactions on Dependable and Secure Computing*,
     volume 12, number 4, pages 472–484, September 2014.
-    [doi:10.1109/TDSC.2014.2355848](https://dx.doi.org/10.1109/TDSC.2014.2355848)
+    [doi:10.1109/TDSC.2014.2355848](https://doi.org/10.1109/TDSC.2014.2355848)
 
 1.  Will
     Portnoy: “[Lessons Learned from Implementing Paxos](http://blog.willportnoy.com/2012/06/lessons-learned-from-paxos.html),” *blog.willportnoy.com*, June 14, 2012.
@@ -432,12 +432,12 @@ Chapter 9 References
 1.  Heidi Howard, Dahlia Malkhi, and Alexander Spiegelman:
     “[Flexible Paxos: Quorum Intersection Revisited](https://drops.dagstuhl.de/opus/volltexte/2017/7094/pdf/LIPIcs-OPODIS-2016-25.pdf),”
     at *20th International Conference on Principles of Distributed Systems* (OPODIS), December 2016.
-    [doi:10.4230/LIPIcs.OPODIS.2016.25](https://dx.doi.org/10.4230/LIPIcs.OPODIS.2016.25)
+    [doi:10.4230/LIPIcs.OPODIS.2016.25](https://doi.org/10.4230/LIPIcs.OPODIS.2016.25)
 
 1.  Heidi Howard and Jon Crowcroft:
     “[Coracle: Evaluating Consensus at the Internet Edge](http://www.sigcomm.org/sites/default/files/ccr/papers/2015/August/2829988-2790010.pdf),”
     at *Annual Conference of the ACM Special Interest Group on Data Communication* (SIGCOMM), August 2015.
-    [doi:10.1145/2829988.2790010](https://dx.doi.org/10.1145/2829988.2790010)
+    [doi:10.1145/2829988.2790010](https://doi.org/10.1145/2829988.2790010)
 
 1.  Kyle Kingsbury:
     “[Call Me Maybe: Elasticsearch 1.5.0](https://aphyr.com/posts/323-call-me-maybe-elasticsearch-1-5-0),” *aphyr.com*, April 27, 2015.
@@ -453,4 +453,4 @@ Chapter 9 References
 1.  Kenneth P. Birman:
     “[A History of the Virtual Synchrony Replication Model](https://ptolemy.berkeley.edu/projects/truststc/pubs/713/History%20of%20the%20Virtual%20Synchrony%20Replication%20Model%202010.pdf),”
     in *Replication: Theory and Practice*, Springer LNCS volume 5959, chapter 6, pages 91–120, 2010.
-    ISBN: 978-3-642-11293-5, [doi:10.1007/978-3-642-11294-2_6](https://dx.doi.org/10.1007/978-3-642-11294-2_6)
+    ISBN: 978-3-642-11293-5, [doi:10.1007/978-3-642-11294-2_6](https://doi.org/10.1007/978-3-642-11294-2_6)

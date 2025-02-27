@@ -73,7 +73,7 @@ Chapter 5 References
 1.  Werner Vogels:
     “[Eventually Consistent](http://queue.acm.org/detail.cfm?id=1466448),”
     *ACM Queue*, volume 6, number 6, pages 14–19, October 2008.
-    [doi:10.1145/1466443.1466448](https://dx.doi.org/10.1145/1466443.1466448)
+    [doi:10.1145/1466443.1466448](https://doi.org/10.1145/1466443.1466448)
 
 1.  Douglas B. Terry:
     “[Replicated Data Consistency Explained Through Baseball](https://www.microsoft.com/en-us/research/publication/replicated-data-consistency-explained-through-baseball/),” Microsoft Research, Technical Report
@@ -82,7 +82,7 @@ Chapter 5 References
 1.  Douglas B. Terry, Alan J. Demers, Karin Petersen, et al.:
     “[Session Guarantees for Weakly Consistent Replicated Data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.71.2269&rep=rep1&type=pdf),” at *3rd International Conference
     on Parallel and Distributed Information Systems* (PDIS), September 1994.
-    [doi:10.1109/PDIS.1994.331722](https://dx.doi.org/10.1109/PDIS.1994.331722)
+    [doi:10.1109/PDIS.1994.331722](https://doi.org/10.1109/PDIS.1994.331722)
 
 1.  Terry Pratchett: *Reaper Man: A Discworld
     Novel*. Victor Gollancz, 1991. ISBN: 978-0-575-04979-6
@@ -151,7 +151,7 @@ Chapter 5 References
 1.  David K. Gifford:
     “[Weighted Voting for Replicated Data](https://www.cs.cmu.edu/~15-749/READINGS/required/availability/gifford79.pdf),”
     at *7th ACM Symposium on Operating Systems Principles* (SOSP), December 1979.
-    [doi:10.1145/800215.806583](https://dx.doi.org/10.1145/800215.806583)
+    [doi:10.1145/800215.806583](https://doi.org/10.1145/800215.806583)
 
 1.  Heidi Howard, Dahlia Malkhi, and Alexander Spiegelman:
     “[Flexible Paxos: Quorum Intersection Revisited](https://arxiv.org/abs/1608.06696),”
@@ -169,7 +169,7 @@ Chapter 5 References
     Michael J. Franklin, et al.:
     “[Quantifying Eventual Consistency with PBS](http://www.bailis.org/papers/pbs-cacm2014.pdf),”
     *Communications of the ACM*, volume 57, number 8, pages 93–102, August 2014.
-    [doi:10.1145/2632792](https://dx.doi.org/10.1145/2632792)
+    [doi:10.1145/2632792](https://doi.org/10.1145/2632792)
 
 1.  Jonathan Ellis:
     “[Modern Hinted Handoff](http://www.datastax.com/dev/blog/modern-hinted-handoff),”
@@ -188,7 +188,7 @@ Chapter 5 References
 1.  Leslie Lamport:
     “[Time, Clocks, and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/),” *Communications of the ACM*,
     volume 21, number 7, pages 558–565, July 1978.
-    [doi:10.1145/359545.359563](https://dx.doi.org/10.1145/359545.359563)
+    [doi:10.1145/359545.359563](https://doi.org/10.1145/359545.359563)
 
 1.  Joel Jacobson:
     “[Riak 2.0: Data Types](https://web.archive.org/web/20160327135816/http://blog.joeljacobson.com/riak-2-0-data-types/),”
@@ -197,7 +197,7 @@ Chapter 5 References
 1.  D. Stott Parker Jr., Gerald J. Popek, Gerard Rudisin, et al.:
     “[Detection of Mutual Inconsistency in Distributed Systems](https://web.archive.org/web/20170808212704/https://zoo.cs.yale.edu/classes/cs426/2013/bib/parker83detection.pdf),” *IEEE Transactions on Software Engineering*,
     volume 9, number 3, pages 240–247, May 1983.
-    [doi:10.1109/TSE.1983.236733](https://dx.doi.org/10.1109/TSE.1983.236733)
+    [doi:10.1109/TSE.1983.236733](https://doi.org/10.1109/TSE.1983.236733)
 
 1.  Nuno Preguiça, Carlos Baquero, Paulo Sérgio
     Almeida, et al.: “[Dotted Version Vectors: Logical Clocks for Optimistic Replication](http://arxiv.org/pdf/1011.5808v1.pdf),” arXiv:1011.5808, November 26,
@@ -216,4 +216,4 @@ Chapter 5 References
 1.  Reinhard Schwarz and Friedemann Mattern:
     “[Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail](http://dcg.ethz.ch/lectures/hs08/seminar/papers/mattern4.pdf),” *Distributed
     Computing*, volume 7, number 3, pages 149–174, March 1994.
-    [doi:10.1007/BF02277859](https://dx.doi.org/10.1007/BF02277859)
+    [doi:10.1007/BF02277859](https://doi.org/10.1007/BF02277859)

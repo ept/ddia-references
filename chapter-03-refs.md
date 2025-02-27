@@ -22,7 +22,7 @@ Chapter 3 References
 1.  Goetz Graefe:
       “[Modern B-Tree Techniques](https://w6113.github.io/files/papers/btreesurvey-graefe.pdf),”
       *Foundations and Trends in Databases*, volume 3, number 4, pages 203–402, August 2011.
-      [doi:10.1561/1900000028](https://dx.doi.org/10.1561/1900000028)
+      [doi:10.1561/1900000028](https://doi.org/10.1561/1900000028)
 
 1.  Jeffrey Dean and Sanjay Ghemawat:
     “[LevelDB Implementation Notes](https://github.com/google/leveldb/blob/master/doc/impl.md),”
@@ -43,12 +43,12 @@ Chapter 3 References
     O'Neil, Edward Cheng, Dieter Gawlick, and Elizabeth O'Neil:
     “[The Log-Structured Merge-Tree (LSM-Tree)](http://www.cs.umb.edu/~poneil/lsmtree.pdf),”
     *Acta Informatica*, volume 33, number 4, pages 351–385, June 1996.
-    [doi:10.1007/s002360050048](https://dx.doi.org/10.1007/s002360050048)
+    [doi:10.1007/s002360050048](https://doi.org/10.1007/s002360050048)
 
 1.  Mendel Rosenblum and John K. Ousterhout:
     “[The Design and Implementation of a Log-Structured File System](http://research.cs.wisc.edu/areas/os/Qual/papers/lfs.pdf),”
     *ACM Transactions on Computer Systems*, volume 10, number 1, pages 26–52, February 1992.
-    [doi:10.1145/146941.146943](https://dx.doi.org/10.1145/146941.146943)
+    [doi:10.1145/146941.146943](https://doi.org/10.1145/146941.146943)
 
 1.  Adrien Grand:
     “[What Is in a Lucene Index?](http://www.slideshare.net/lucenerevolution/what-is-inaluceneagrandfinal),” at *Lucene/Solr Revolution*, November 14, 2013.
@@ -62,7 +62,7 @@ Chapter 3 References
 1.  Burton H. Bloom:
     “[Space/Time Trade-offs in Hash Coding with Allowable Errors](https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/Misc/p422-bloom.pdf),”
     *Communications of the ACM*, volume 13, number 7, pages 422–426, July 1970.
-    [doi:10.1145/362686.362692](https://dx.doi.org/10.1145/362686.362692)
+    [doi:10.1145/362686.362692](https://doi.org/10.1145/362686.362692)
 
 1.  “[Operating Cassandra: Compaction](https://cassandra.apache.org/doc/latest/operating/compaction/index.html),” Apache Cassandra Documentation v4.0, 2016.
 
@@ -72,7 +72,7 @@ Chapter 3 References
 
 1.  Douglas Comer:
     “[The Ubiquitous B-Tree](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.96.6637&rep=rep1&type=pdf),” *ACM Computing Surveys*, volume 11, number 2, pages 121–137, June 1979.
-    [doi:10.1145/356770.356776](https://dx.doi.org/10.1145/356770.356776)
+    [doi:10.1145/356770.356776](https://doi.org/10.1145/356770.356776)
 
 1.  Emmanuel Goossaert:
     “[Coding for SSDs](http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/),” *codecapsule.com*, February 12, 2014.
@@ -80,7 +80,7 @@ Chapter 3 References
 1.  C. Mohan and Frank Levine:
     “[ARIES/IM: An Efficient and High Concurrency Index Management Method Using Write-Ahead Logging](http://www.ics.uci.edu/~cs223/papers/p371-mohan.pdf),” at *ACM
     International Conference on Management of Data* (SIGMOD), June 1992.
-    [doi:10.1145/130283.130338](https://dx.doi.org/10.1145/130283.130338)
+    [doi:10.1145/130283.130338](https://doi.org/10.1145/130283.130338)
 
 1.  Howard Chu:
       “[LDAP at Lightning Speed]( https://buildstuff14.sched.com/event/08a1a368e272eb599a52e08b4c3c779d),”
@@ -93,7 +93,7 @@ Chapter 3 References
 1.  Manos Athanassoulis, Michael S. Kester,
     Lukas M. Maas, et al.: “[Designing Access Methods: The RUM Conjecture](http://openproceedings.org/2016/conf/edbt/paper-12.pdf),” at *19th International Conference on Extending Database
     Technology* (EDBT), March 2016.
-    [doi:10.5441/002/edbt.2016.42](https://dx.doi.org/10.5441/002/edbt.2016.42)
+    [doi:10.5441/002/edbt.2016.42](https://doi.org/10.5441/002/edbt.2016.42)
 
 1.  Peter Zaitsev:
     “[Innodb Double Write](https://www.percona.com/blog/2006/08/04/innodb-double-write/),”
@@ -136,7 +136,7 @@ Chapter 3 References
 
 1.  Robert Escriva, Bernard Wong, and Emin Gün Sirer:
     “[HyperDex: A Distributed, Searchable Key-Value Store](http://www.cs.princeton.edu/courses/archive/fall13/cos518/papers/hyperdex.pdf),” at *ACM SIGCOMM Conference*, August 2012.
-    [doi:10.1145/2377677.2377681](https://dx.doi.org/10.1145/2377677.2377681)
+    [doi:10.1145/2377677.2377681](https://doi.org/10.1145/2377677.2377681)
 
 1.  Michael McCandless:
     “[Lucene's FuzzyQuery Is 100 Times Faster in 4.0](http://blog.mikemccandless.com/2011/03/lucenes-fuzzyquery-is-100-times-faster.html),” *blog.mikemccandless.com*, March 24, 2011.
@@ -144,13 +144,13 @@ Chapter 3 References
 1.  Steffen Heinz, Justin Zobel, and Hugh E. Williams:
     “[Burst Tries: A Fast, Efficient Data Structure for String Keys](http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.18.3499),”
     *ACM Transactions on Information Systems*, volume 20, number 2, pages 192–223, April 2002.
-    [doi:10.1145/506309.506312](https://dx.doi.org/10.1145/506309.506312)
+    [doi:10.1145/506309.506312](https://doi.org/10.1145/506309.506312)
 
 1.  Klaus U. Schulz and Stoyan Mihov:
     “[Fast String Correction with Levenshtein Automata](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.16.652),”
     *International Journal on Document Analysis and Recognition*,
     volume 5, number 1, pages 67–85, November 2002.
-    [doi:10.1007/s10032-002-0082-8](https://dx.doi.org/10.1007/s10032-002-0082-8)
+    [doi:10.1007/s10032-002-0082-8](https://doi.org/10.1007/s10032-002-0082-8)
 
 1.  Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schütze:
     [*Introduction to Information Retrieval*](http://nlp.stanford.edu/IR-book/).
@@ -170,7 +170,7 @@ Chapter 3 References
     Samuel Madden, and Michael Stonebraker:
     “[OLTP Through the Looking Glass, and What We Found There](http://hstore.cs.brown.edu/papers/hstore-lookingglass.pdf),” at *ACM International Conference on Management of Data*
     (SIGMOD), June 2008.
-    [doi:10.1145/1376616.1376713](https://dx.doi.org/10.1145/1376616.1376713)
+    [doi:10.1145/1376616.1376713](https://doi.org/10.1145/1376616.1376713)
 
 1.  Justin DeBrabant, Andrew Pavlo, Stephen Tu, et al.:
     “[Anti-Caching: A New Approach to Database Management System Architecture](http://www.vldb.org/pvldb/vol6/p1942-debrabant.pdf),” *Proceedings of the VLDB Endowment*, volume 6,
@@ -179,7 +179,7 @@ Chapter 3 References
 1.  Joy Arulraj, Andrew Pavlo, and Subramanya R. Dulloor:
     “[Let's Talk About Storage & Recovery Methods for Non-Volatile Memory Database Systems](http://www.pdl.cmu.edu/PDL-FTP/NVM/storage.pdf),” at *ACM International Conference on
     Management of Data* (SIGMOD), June 2015.
-    [doi:10.1145/2723372.2749441](https://dx.doi.org/10.1145/2723372.2749441)
+    [doi:10.1145/2723372.2749441](https://doi.org/10.1145/2723372.2749441)
 
 1.  Edgar F. Codd, S. B. Codd, and C. T. Salley:
     “[Providing OLAP to User-Analysts: An IT Mandate](https://pdfs.semanticscholar.org/a0bd/1491a54a4de428c5eef9b836ef6ee2915fe7.pdf),”
@@ -187,7 +187,7 @@ Chapter 3 References
 
 1.  Surajit Chaudhuri and Umeshwar Dayal:
     “[An Overview of Data Warehousing and OLAP Technology](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/sigrecord.pdf),” *ACM SIGMOD Record*, volume 26, number 1, pages 65–74,
-    March 1997. [doi:10.1145/248603.248616](https://dx.doi.org/10.1145/248603.248616)
+    March 1997. [doi:10.1145/248603.248616](https://doi.org/10.1145/248603.248616)
 
 1.  Per-Åke Larson, Cipri Clinciu, Campbell Fraser, et al.:
     “[Enhancements to SQL Server Column Stores](http://research.microsoft.com/pubs/193599/Apollo3%20-%20Sigmod%202013%20-%20final.pdf),” at *ACM International Conference on Management of Data*
@@ -227,7 +227,7 @@ Chapter 3 References
     Harizopoulos, et al.:
     “[The Design and Implementation of Modern Column-Oriented Database Systems](http://cs-www.cs.yale.edu/homes/dna/papers/abadi-column-stores.pdf),” *Foundations and Trends in
     Databases*, volume 5, number 3, pages 197–280, December 2013.
-    [doi:10.1561/1900000024](https://dx.doi.org/10.1561/1900000024)
+    [doi:10.1561/1900000024](https://doi.org/10.1561/1900000024)
 
 1.  Peter Boncz, Marcin Zukowski, and Niels Nes:
     “[MonetDB/X100: Hyper-Pipelining Query Execution](http://cidrdb.org/cidr2005/papers/P19.pdf),”
@@ -236,7 +236,7 @@ Chapter 3 References
 1.  Jingren Zhou and Kenneth A. Ross:
     “[Implementing Database Operations Using SIMD Instructions](http://www1.cs.columbia.edu/~kar/pubsk/simd.pdf),”
     at *ACM International Conference on Management of Data* (SIGMOD), pages 145–156, June 2002.
-    [doi:10.1145/564691.564709](https://dx.doi.org/10.1145/564691.564709)
+    [doi:10.1145/564691.564709](https://doi.org/10.1145/564691.564709)
 
 1.  Michael Stonebraker, Daniel J. Abadi, Adam Batkin, et al.:
     “[C-Store: A Column-oriented DBMS](http://www.cs.umd.edu/~abadi/vldb.pdf),”
@@ -253,4 +253,4 @@ Chapter 3 References
 1.  Jim Gray, Surajit Chaudhuri, Adam Bosworth, et al.:
     “[Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals](http://arxiv.org/pdf/cs/0701155.pdf),” *Data Mining and Knowledge
     Discovery*, volume 1, number 1, pages 29–53, March 2007.
-    [doi:10.1023/A:1009726021843](https://dx.doi.org/10.1023/A:1009726021843)
+    [doi:10.1023/A:1009726021843](https://doi.org/10.1023/A:1009726021843)

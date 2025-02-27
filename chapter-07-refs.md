@@ -7,7 +7,7 @@ Chapter 7 References
 1.  Donald D. Chamberlin, Morton M. Astrahan, Michael W. Blasgen, et al.:
     “[A History and Evaluation of System R](https://citeseerx.ist.psu.edu/pdf/ebb29a0ca16e04e7eeb6b606b22a9eadb3a9d531),” *Communications of the ACM*,
     volume 24, number 10, pages 632–646, October 1981.
-    [doi:10.1145/358769.358784](https://dx.doi.org/10.1145/358769.358784)
+    [doi:10.1145/358769.358784](https://doi.org/10.1145/358769.358784)
 
 1.  Jim N. Gray, Raymond A. Lorie, Gianfranco R. Putzolu, and Irving L. Traiger:
     “[Granularity of Locks and Degrees of Consistency in a Shared Data Base](https://citeseerx.ist.psu.edu/pdf/e127f0a6a912bb9150ecfe03c0ebf7fbc289a023),” in *Modelling in Data
@@ -31,7 +31,7 @@ Chapter 7 References
 1.  Theo Härder and Andreas Reuter:
     “[Principles of Transaction-Oriented Database Recovery](https://citeseerx.ist.psu.edu/pdf/11ef7c142295aeb1a28a0e714c91fc8d610c3047),” *ACM Computing Surveys*,
     volume 15, number 4, pages 287–317, December 1983.
-    [doi:10.1145/289.291](https://dx.doi.org/10.1145/289.291)
+    [doi:10.1145/289.291](https://doi.org/10.1145/289.291)
 
 1.  Peter Bailis, Alan Fekete, Ali Ghodsi, et al.:
     “[HAT, not CAP: Towards Highly Available Transactions](http://www.bailis.org/papers/hat-hotos2013.pdf),”
@@ -48,7 +48,7 @@ Chapter 7 References
 1.  Alan Fekete, Dimitrios Liarokapis, Elizabeth O'Neil, et al.:
     “[Making Snapshot Isolation Serializable](https://www.cse.iitb.ac.in/infolab/Data/Courses/CS632/2009/Papers/p492-fekete.pdf),” *ACM Transactions on Database Systems*,
     volume 30, number 2, pages 492–528, June 2005.
-    [doi:10.1145/1071610.1071615](https://dx.doi.org/10.1145/1071610.1071615)
+    [doi:10.1145/1071610.1071615](https://doi.org/10.1145/1071610.1071615)
 
 1.  Mai Zheng, Joseph Tucek, Feng Qin, and Mark Lillibridge:
       “[Understanding the Robustness of SSDs Under Power Fault](https://www.usenix.org/system/files/conference/fast13/fast13-final80.pdf),” at *11th USENIX Conference on File and
@@ -157,7 +157,7 @@ Chapter 7 References
 1.  Michael J. Cahill, Uwe Röhm, and Alan Fekete:
     “[Serializable Isolation for Snapshot Databases](https://web.archive.org/web/20200709144151/https://cs.nyu.edu/courses/Fall12/CSCI-GA.2434-001/p729-cahill.pdf),” at *ACM International Conference on
     Management of Data* (SIGMOD), June 2008.
-    [doi:10.1145/1376616.1376690](https://dx.doi.org/10.1145/1376616.1376690)
+    [doi:10.1145/1376616.1376690](https://doi.org/10.1145/1376616.1376690)
 
 1.  Dan R. K. Ports and Kevin Grittner:
     “[Serializable Snapshot Isolation in PostgreSQL](http://drkp.net/papers/ssi-vldb12.pdf),”
@@ -169,7 +169,7 @@ Chapter 7 References
 1.  Douglas B. Terry, Marvin M. Theimer, Karin Petersen, et al.:
       “[Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](https://citeseerx.ist.psu.edu/pdf/20c450f099b661c5a2dff3f348773a0d1af1b09b),” at
       *15th ACM Symposium on Operating Systems Principles* (SOSP), December 1995.
-      [doi:10.1145/224056.224070](https://dx.doi.org/10.1145/224056.224070)
+      [doi:10.1145/224056.224070](https://doi.org/10.1145/224056.224070)
 
 1.  Gary Fredericks:
       “[Postgres Serializability Bug](https://github.com/gfredericks/pg-serializability-bug),” *github.com*, September 2015.
@@ -195,7 +195,7 @@ Chapter 7 References
 1.  Joseph M. Hellerstein, Michael Stonebraker, and James Hamilton:
     “[Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf),”
     *Foundations and Trends in Databases*, volume 1, number 2, pages 141–259, November 2007.
-    [doi:10.1561/1900000002](https://dx.doi.org/10.1561/1900000002)
+    [doi:10.1561/1900000002](https://doi.org/10.1561/1900000002)
 
 1.  Michael J. Cahill:
     “[Serializable Isolation for Snapshot Databases](https://ses.library.usyd.edu.au/bitstream/handle/2123/5353/michael-cahill-2009-thesis.pdf),” PhD Thesis, University of Sydney, July 2009.
@@ -207,7 +207,7 @@ Chapter 7 References
 1.  Rakesh Agrawal, Michael J. Carey, and Miron Livny:
     “[Concurrency Control Performance Modeling: Alternatives and Implications](http://www.eecs.berkeley.edu/~brewer/cs262/ConcControl.pdf),” *ACM Transactions on Database
     Systems* (TODS), volume 12, number 4, pages 609–654, December 1987.
-    [doi:10.1145/32204.32220](https://dx.doi.org/10.1145/32204.32220)
+    [doi:10.1145/32204.32220](https://doi.org/10.1145/32204.32220)
 
 1.  Dave Rosenthal:
     “[Databases at 14.4MHz](http://web.archive.org/web/20150427041746/http://blog.foundationdb.com/databases-at-14.4mhz),”

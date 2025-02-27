@@ -7,7 +7,7 @@ Chapter 11 References
 1.  Tyler Akidau, Robert Bradshaw, Craig Chambers, et al.:
     “[The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing](http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf),”
     *Proceedings of the VLDB Endowment*, volume 8, number 12, pages 1792–1803, August 2015.
-    [doi:10.14778/2824032.2824076](https://dx.doi.org/10.14778/2824032.2824076)
+    [doi:10.14778/2824032.2824076](https://doi.org/10.14778/2824032.2824076)
 
 1.  Harold Abelson, Gerald Jay Sussman, and Julie Sussman:
     [*Structure and Interpretation of Computer Programs*](https://web.archive.org/web/20220807043536/https://mitpress.mit.edu/sites/default/files/sicp/index.html),
@@ -17,7 +17,7 @@ Chapter 11 References
     Rachid Guerraoui, and Anne-Marie Kermarrec:
     “[The Many Faces of Publish/Subscribe](http://www.cs.ru.nl/~pieter/oss/manyfaces.pdf),”
     *ACM Computing Surveys*, volume 35, number 2, pages 114–131, June 2003.
-    [doi:10.1145/857076.857078](https://dx.doi.org/10.1145/857076.857078)
+    [doi:10.1145/857076.857078](https://doi.org/10.1145/857076.857078)
 
 1.  Joseph M. Hellerstein and Michael Stonebraker:
     [*Readings in Database Systems*](http://redbook.cs.berkeley.edu/), 4th edition.
@@ -158,7 +158,7 @@ Chapter 11 References
 1.  H. V. Jagadish, Inderpal Singh Mumick, and Abraham Silberschatz:
     “[View Maintenance Issues for the Chronicle Data Model](https://dl.acm.org/doi/10.1145/212433.220201),”
     at *14th ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems* (PODS), May 1995.
-    [doi:10.1145/212433.220201](https://dx.doi.org/10.1145/212433.220201)
+    [doi:10.1145/212433.220201](https://doi.org/10.1145/212433.220201)
 
 1.  “[Event Store 3.5.0 Documentation](http://docs.geteventstore.com/),” Event Store LLP, *docs.geteventstore.com*, February 2016.
 
@@ -179,7 +179,7 @@ Chapter 11 References
 1.  Timothy Griffin and Leonid Libkin:
     “[Incremental Maintenance of Views with Duplicates](http://homepages.inf.ed.ac.uk/libkin/papers/sigmod95.pdf),” at *ACM International Conference on Management of
     Data* (SIGMOD), May 1995.
-    [doi:10.1145/223784.223849](https://dx.doi.org/10.1145/223784.223849)
+    [doi:10.1145/223784.223849](https://doi.org/10.1145/223784.223849)
 
 1.  Pat Helland:
     “[Immutability Changes Everything](http://cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf),”
@@ -231,11 +231,11 @@ Chapter 11 References
 1.  Arvind Arasu, Shivnath Babu, and Jennifer Widom:
     “[The CQL Continuous Query Language: Semantic Foundations and Query Execution](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cql.pdf),”
     *The VLDB Journal*, volume 15, number 2, pages 121–142, June 2006.
-    [doi:10.1007/s00778-004-0147-z](https://dx.doi.org/10.1007/s00778-004-0147-z)
+    [doi:10.1007/s00778-004-0147-z](https://doi.org/10.1007/s00778-004-0147-z)
 
 1.  Julian Hyde:
     “[Data in Flight: How Streaming SQL Technology Can Help Solve the Web 2.0 Data Crunch](http://queue.acm.org/detail.cfm?id=1667562),” *ACM Queue*, volume 7, number 11, December 2009.
-    [doi:10.1145/1661785.1667562](https://dx.doi.org/10.1145/1661785.1667562)
+    [doi:10.1145/1661785.1667562](https://doi.org/10.1145/1661785.1667562)
 
 1.  “[Esper Reference, Version 5.4.0](http://esper.espertech.com/release-5.4.0/esper-reference/html_single/index.html),”
     EsperTech, Inc., *espertech.com*, April 2016.
@@ -246,7 +246,7 @@ Chapter 11 References
 1.  Milinda Pathirage, Julian Hyde, Yi Pan, and Beth Plale:
     “[SamzaSQL: Scalable Fast Data Management with Streaming SQL](https://github.com/milinda/samzasql-hpbdc2016/blob/master/samzasql-hpbdc2016.pdf),” at *IEEE International Workshop on
     High-Performance Big Data Computing* (HPBDC), May 2016.
-    [doi:10.1109/IPDPSW.2016.141](https://dx.doi.org/10.1109/IPDPSW.2016.141)
+    [doi:10.1109/IPDPSW.2016.141](https://doi.org/10.1109/IPDPSW.2016.141)
 
 1.  Philippe Flajolet, Éric Fusy, Olivier
     Gandouet, and Frédéric Meunier:
@@ -293,7 +293,7 @@ Chapter 11 References
     Venkatesh Basker, Sumit Das, et al.:
     “[Photon: Fault-Tolerant and Scalable Joining of Continuous Data Streams](http://research.google.com/pubs/pub41318.html),” at *ACM International Conference on Management of
     Data* (SIGMOD), June 2013.
-    [doi:10.1145/2463676.2465272](https://dx.doi.org/10.1145/2463676.2465272)
+    [doi:10.1145/2463676.2465272](https://doi.org/10.1145/2463676.2465272)
 
 1.  Martin Kleppmann:
     “[Samza Newsfeed Demo](https://github.com/ept/newsfeed),” *github.com*,
@@ -336,7 +336,7 @@ Chapter 11 References
 
 1.  Pat Helland:
     “[Idempotence Is Not a Medical Condition](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4b6dda7fe75b51e1c543a87ca7b3b322fbf55614),” *Communications of the ACM*, volume 55, number 5, page 56, May 2012.
-    [doi:10.1145/2160718.2160734](https://dx.doi.org/10.1145/2160718.2160734)
+    [doi:10.1145/2160718.2160734](https://doi.org/10.1145/2160718.2160734)
 
 1.  Jay Kreps:
     “[Re: Trying to Achieve Deterministic Behavior on Recovery/Rewind](http://mail-archives.apache.org/mod_mbox/samza-dev/201409.mbox/%3CCAOeJiJg%2Bc7Ei%3DgzCuOz30DD3G5Hm9yFY%3DUJ6SafdNUFbvRgorg%40mail.gmail.com%3E),” email to *samza-dev* mailing list,
@@ -346,7 +346,7 @@ Chapter 11 References
     Lorenzo Alvisi, Yi-Min Wang, and David B. Johnson:
     “[A Survey of Rollback-Recovery Protocols in Message-Passing Systems](http://www.cs.utexas.edu/~lorenzo/papers/SurveyFinal.pdf),” *ACM Computing Surveys*, volume 34, number 3,
     pages 375–408, September 2002.
-    [doi:10.1145/568522.568525](https://dx.doi.org/10.1145/568522.568525)
+    [doi:10.1145/568522.568525](https://doi.org/10.1145/568522.568525)
 
 1.  Adam Warski:
     “[Kafka Streams – How Does It Fit the Stream Processing Landscape?](https://softwaremill.com/kafka-streams-how-does-it-fit-stream-landscape/),” *softwaremill.com*, June 1, 2016.
