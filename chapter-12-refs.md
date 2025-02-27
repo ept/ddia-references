@@ -95,7 +95,7 @@ Chapter 12 References
     “[Differential Dataflow](http://cidrdb.org/cidr2013/Papers/CIDR13_Paper111.pdf),”
     at *6th Biennial Conference on Innovative Data Systems Research* (CIDR), January 2013.
 
-1.  Derek G Murray, Frank McSherry, Rebecca Isaacs, et al.:
+1.  Derek G. Murray, Frank McSherry, Rebecca Isaacs, et al.:
     “[Naiad: A Timely Dataflow System](http://sigops.org/s/conferences/sosp/2013/papers/p439-murray.pdf),”
     at *24th ACM Symposium on Operating Systems Principles* (SOSP), pages 439–455, November 2013.
     [doi:10.1145/2517349.2522738](http://dx.doi.org/10.1145/2517349.2522738)
@@ -135,7 +135,7 @@ Chapter 12 References
     “[Machine Learning: The High-Interest Credit Card of Technical Debt](http://research.google.com/pubs/pub43146.html),” at *NIPS Workshop on Software Engineering for Machine Learning*
     (SE4ML), December 2014.
 
-1.  Peter Bailis, Alan Fekete, Michael J Franklin, et al.:
+1.  Peter Bailis, Alan Fekete, Michael J. Franklin, et al.:
     “[Feral Concurrency Control: An Empirical Investigation of Modern Application Integrity](http://www.bailis.org/papers/feral-sigmod2015.pdf),”
     at *ACM International Conference on Management of Data* (SIGMOD), June 2015.
     [doi:10.1145/2723372.2737784](http://dx.doi.org/10.1145/2723372.2737784)
@@ -218,7 +218,7 @@ Chapter 12 References
 1.  Alex Yarmula:
     “[Strong Consistency in Manhattan](https://blog.twitter.com/2016/strong-consistency-in-manhattan),” *blog.twitter.com*, March 17, 2016.
 
-1.  Douglas B Terry, Marvin M Theimer, Karin Petersen, et al.:
+1.  Douglas B. Terry, Marvin M. Theimer, Karin Petersen, et al.:
     “[Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](http://css.csail.mit.edu/6.824/2014/papers/bayou-conflicts.pdf),” at *15th ACM Symposium on Operating
     Systems Principles* (SOSP), pages 172–182, December 1995.
     [doi:10.1145/224056.224070](http://dx.doi.org/10.1145/224056.224070)

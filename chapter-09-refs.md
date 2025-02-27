@@ -67,7 +67,7 @@ Chapter 9 References
     *Oracle 10g RAC Grid, Services & Clustering*. Elsevier Digital Press, 2006.
     ISBN: 978-1-555-58321-7
 
-1.  Peter Bailis, Alan Fekete, Michael J Franklin, et al.:
+1.  Peter Bailis, Alan Fekete, Michael J. Franklin, et al.:
     “[Coordination-Avoiding Database Systems](http://arxiv.org/pdf/1402.2237.pdf),”
     *Proceedings of the VLDB Endowment*, volume 8, number 3, pages 185–196, November 2014.
 
@@ -204,7 +204,7 @@ Chapter 9 References
 1.  Marek Zawirski, Annette Bieniusa, Valter Balegas, et al.:
     “[SwiftCloud: Fault-Tolerant Geo-Replication Integrated All the Way to the Client Machine](http://arxiv.org/abs/1310.3107),” INRIA Research Report 8347, August 2013.
 
-1.  Peter Bailis, Ali Ghodsi, Joseph M Hellerstein, and Ion Stoica:
+1.  Peter Bailis, Ali Ghodsi, Joseph M. Hellerstein, and Ion Stoica:
     “[Bolt-on Causal Consistency](http://db.cs.berkeley.edu/papers/sigmod13-bolton.pdf),” at
     *ACM International Conference on Management of Data* (SIGMOD), June 2013.
 
@@ -269,7 +269,7 @@ Chapter 9 References
     “[Apache HBase High Availability at the Next Level](https://web.archive.org/web/20160405122821/http://hortonworks.com/blog/apache-hbase-high-availability-next-level/),”
     *hortonworks.com*, January 22, 2015.
 
-1.  Brian F Cooper, Raghu Ramakrishnan, Utkarsh Srivastava, et al.:
+1.  Brian F. Cooper, Raghu Ramakrishnan, Utkarsh Srivastava, et al.:
     “[PNUTS: Yahoo!’s Hosted Data Serving Platform](http://www.mpi-sws.org/~druschel/courses/ds/papers/cooper-pnuts.pdf),” at *34th International Conference on Very Large Data
     Bases* (VLDB), August 2008.
     [doi:10.14778/1454159.1454167](http://dx.doi.org/10.14778/1454159.1454167)

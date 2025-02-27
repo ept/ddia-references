@@ -297,7 +297,7 @@ Chapter 10 References
     “[Hive 0.14 Cost Based Optimizer (CBO) Technical Overview](https://web.archive.org/web/20170607112708/http://hortonworks.com/blog/hive-0-14-cost-based-optimizer-cbo-technical-overview/),”
     *hortonworks.com*, March 2, 2015.
 
-1.  Michael Armbrust, Reynold S Xin, Cheng Lian, et al.:
+1.  Michael Armbrust, Reynold S. Xin, Cheng Lian, et al.:
     “[Spark SQL: Relational Data Processing in Spark](http://people.csail.mit.edu/matei/papers/2015/sigmod_spark_sql.pdf),” at *ACM International Conference on Management of Data* (SIGMOD), June 2015.
     [doi:10.1145/2723372.2742797](http://dx.doi.org/10.1145/2723372.2742797)
 

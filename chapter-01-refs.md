@@ -113,7 +113,7 @@ Chapter 1 References
     *4th Conference on Pattern Languages of Programs* (PLoP),
     September 1997.
 
-1.  Frederick P Brooks: “No Silver Bullet – Essence and
+1.  Frederick P. Brooks: “No Silver Bullet – Essence and
     Accident in Software Engineering,” in *The Mythical Man-Month*, Anniversary
     edition, Addison-Wesley, 1995. ISBN: 978-0-201-83595-3
 
