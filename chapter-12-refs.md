@@ -113,12 +113,11 @@ Chapter 12 References
 1.  “[Juttle Documentation](http://juttle.github.io/juttle/),” *juttle.github.io*, 2016.
 
 1.  Evan Czaplicki and Stephen Chong:
-    “[Asynchronous Functional Reactive Programming for GUIs](http://people.seas.harvard.edu/~chong/pubs/pldi13-elm.pdf),” at *34th ACM SIGPLAN Conference on Programming Language
-    Design and Implementation* (PLDI), June 2013.
+    “[Asynchronous Functional Reactive Programming for GUIs](http://people.seas.harvard.edu/~chong/pubs/pldi13-elm.pdf),”
+    at *34th ACM SIGPLAN Conference on Programming Language Design and Implementation* (PLDI), June 2013.
     [doi:10.1145/2491956.2462161](http://dx.doi.org/10.1145/2491956.2462161)
 
-1.  Engineer Bainomugisha, Andoni Lombide Carreton,
-    Tom van Cutsem, Stijn Mostinckx, and Wolfgang de Meuter:
+1.  Engineer Bainomugisha, Andoni Lombide Carreton, Tom van Cutsem, Stijn Mostinckx, and Wolfgang de Meuter:
     “[A Survey on Reactive Programming](http://soft.vub.ac.be/Publications/2012/vub-soft-tr-12-13.pdf),” *ACM Computing Surveys*, volume 45, number 4, pages 1–34, August 2013.
     [doi:10.1145/2501654.2501666](http://dx.doi.org/10.1145/2501654.2501666)
 
@@ -136,21 +135,20 @@ Chapter 12 References
     “[Machine Learning: The High-Interest Credit Card of Technical Debt](http://research.google.com/pubs/pub43146.html),” at *NIPS Workshop on Software Engineering for Machine Learning*
     (SE4ML), December 2014.
 
-1.  Peter Bailis, Alan Fekete, Michael J Franklin,
-    et al.: “[Feral Concurrency Control: An Empirical Investigation of Modern Application Integrity](http://www.bailis.org/papers/feral-sigmod2015.pdf),” at *ACM International Conference on
-    Management of Data* (SIGMOD), June 2015.
+1.  Peter Bailis, Alan Fekete, Michael J Franklin, et al.:
+    “[Feral Concurrency Control: An Empirical Investigation of Modern Application Integrity](http://www.bailis.org/papers/feral-sigmod2015.pdf),”
+    at *ACM International Conference on Management of Data* (SIGMOD), June 2015.
     [doi:10.1145/2723372.2737784](http://dx.doi.org/10.1145/2723372.2737784)
 
 1.  Guy Steele:
     “[Re: Need for Macros (Was Re: Icon)](https://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg01134.html),” email to *ll1-discuss* mailing list, *people.csail.mit.edu*, December 24, 2001.
 
 1.  David Gelernter:
-    “[Generative Communication in Linda](http://cseweb.ucsd.edu/groups/csag/html/teaching/cse291s03/Readings/p80-gelernter.pdf),” *ACM Transactions on Programming Languages and Systems*
-    (TOPLAS), volume 7, number 1, pages 80–112, January 1985.
+    “[Generative Communication in Linda](http://cseweb.ucsd.edu/groups/csag/html/teaching/cse291s03/Readings/p80-gelernter.pdf),”
+    *ACM Transactions on Programming Languages and Systems* (TOPLAS), volume 7, number 1, pages 80–112, January 1985.
     [doi:10.1145/2363.2433](http://dx.doi.org/10.1145/2363.2433)
 
-1.  Patrick Th. Eugster, Pascal A. Felber,
-    Rachid Guerraoui, and Anne-Marie Kermarrec:
+1.  Patrick Th. Eugster, Pascal A. Felber, Rachid Guerraoui, and Anne-Marie Kermarrec:
     “[The Many Faces of Publish/Subscribe](http://www.cs.ru.nl/~pieter/oss/manyfaces.pdf),”
     *ACM Computing Surveys*, volume 35, number 2, pages 114–131, June 2003.
     [doi:10.1145/857076.857078](http://dx.doi.org/10.1145/857076.857078)
@@ -165,10 +163,9 @@ Chapter 12 References
     “[Say Hello to Offline First](https://web.archive.org/web/20210420014747/http://hood.ie/blog/say-hello-to-offline-first.html),”
     *hood.ie*, November 5, 2013.
 
-1.  Sebastian Burckhardt, Daan Leijen, Jonathan
-    Protzenko, and Manuel Fähndrich:
-    “[Global Sequence Protocol: A Robust Abstraction for Replicated Shared State](http://drops.dagstuhl.de/opus/volltexte/2015/5238/),” at *29th European Conference on Object-Oriented
-    Programming* (ECOOP), July 2015.
+1.  Sebastian Burckhardt, Daan Leijen, Jonathan Protzenko, and Manuel Fähndrich:
+    “[Global Sequence Protocol: A Robust Abstraction for Replicated Shared State](http://drops.dagstuhl.de/opus/volltexte/2015/5238/),”
+    at *29th European Conference on Object-Oriented Programming* (ECOOP), July 2015.
     [doi:10.4230/LIPIcs.ECOOP.2015.568](http://dx.doi.org/10.4230/LIPIcs.ECOOP.2015.568)
 
 1.  Mark Soper:
@@ -181,15 +178,13 @@ Chapter 12 References
     “[Dataflow as Database](https://github.com/frankmcsherry/blog/blob/master/posts/2016-07-17.md),” *github.com*, July 17, 2016.
 
 1.  Peter Alvaro:
-    “[I See What You Mean](https://www.youtube.com/watch?v=R2Aa4PivG0g),” at *Strange
-    Loop*, September 2015.
+    “[I See What You Mean](https://www.youtube.com/watch?v=R2Aa4PivG0g),” at *Strange Loop*, September 2015.
 
 1.  Nathan Marz:
     “[Trident: A High-Level Abstraction for Realtime Computation](https://blog.twitter.com/2012/trident-a-high-level-abstraction-for-realtime-computation),” *blog.twitter.com*, August 2, 2012.
 
 1.  Edi Bice:
-    “[Low Latency Web Scale Fraud Prevention with Apache Samza, Kafka and Friends](http://www.slideshare.net/edibice/extremely-low-latency-web-scale-fraud-prevention-with-apache-samza-kafka-and-friends),” at *Merchant Risk
-    Council MRC Vegas Conference*, March 2016.
+    “[Low Latency Web Scale Fraud Prevention with Apache Samza, Kafka and Friends](http://www.slideshare.net/edibice/extremely-low-latency-web-scale-fraud-prevention-with-apache-samza-kafka-and-friends),” at *Merchant Risk Council MRC Vegas Conference*, March 2016.
 
 1.  Charity Majors:
     “[The Accidental DBA](https://charity.wtf/2016/10/02/the-accidental-dba/),” *charity.wtf*,
@@ -287,8 +282,8 @@ Chapter 12 References
     [doi:10.1007/3-540-48184-2_32](http://dx.doi.org/10.1007/3-540-48184-2_32)
 
 1.  Ben Laurie:
-    “[Certificate Transparency](http://queue.acm.org/detail.cfm?id=2668154),” *ACM
-    Queue*, volume 12, number 8, pages 10-19, August 2014.
+    “[Certificate Transparency](http://queue.acm.org/detail.cfm?id=2668154),”
+    *ACM Queue*, volume 12, number 8, pages 10-19, August 2014.
     [doi:10.1145/2668152.2668154](http://dx.doi.org/10.1145/2668152.2668154)
 
 1.  Mark D. Ryan:
@@ -309,8 +304,9 @@ Chapter 12 References
     “[Algorithm Writers Need a Code of Conduct](https://www.theguardian.com/commentisfree/2015/dec/06/algorithm-writers-should-have-code-of-conduct),” *theguardian.com*, December 6, 2015.
 
 1.  Logan Kugler:
-    “[What Happens When Big Data Blunders?](http://cacm.acm.org/magazines/2016/6/202655-what-happens-when-big-data-blunders/fulltext),” *Communications of the ACM*, volume 59, number 6, pages
-15–16, June 2016. [doi:10.1145/2911975](http://dx.doi.org/10.1145/2911975)
+    “[What Happens When Big Data Blunders?](http://cacm.acm.org/magazines/2016/6/202655-what-happens-when-big-data-blunders/fulltext),”
+    *Communications of the ACM*, volume 59, number 6, pages 15–16, June 2016.
+    [doi:10.1145/2911975](http://dx.doi.org/10.1145/2911975)
 
 1.  Bill Davidow:
     “[Welcome to Algorithmic Prison](http://www.theatlantic.com/technology/archive/2014/02/welcome-to-algorithmic-prison/283985/),” *theatlantic.com*, February 20, 2014.
@@ -405,8 +401,7 @@ Chapter 12 References
     Thesis, KU Leuven Centre for IT and IP Law, August 2016.
 
 1.  Michiel Rhoen:
-    “[Beyond Consent: Improving Data Protection Through Consumer Protection Law](http://policyreview.info/articles/analysis/beyond-consent-improving-data-protection-through-consumer-protection-law),” *Internet Policy
-    Review*, volume 5, number 1, March 2016.
+    “[Beyond Consent: Improving Data Protection Through Consumer Protection Law](http://policyreview.info/articles/analysis/beyond-consent-improving-data-protection-through-consumer-protection-law),” *Internet Policy Review*, volume 5, number 1, March 2016.
     [doi:10.14763/2016.1.404](http://dx.doi.org/10.14763/2016.1.404)
 
 1.  Jessica Leber:

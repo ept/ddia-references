@@ -328,8 +328,8 @@ Chapter 8 References
     “[The Discovery of Apache ZooKeeper’s Poison Packet](http://www.pagerduty.com/blog/the-discovery-of-apache-zookeepers-poison-packet/),” *pagerduty.com*, May 7, 2015.
 
 1.  Jonathan Stone and Craig Partridge:
-    “[When the CRC and TCP Checksum Disagree](https://web.archive.org/web/20220818235232/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.27.7611&rep=rep1&type=pdf),” at *ACM Conference on Applications,
-    Technologies, Architectures, and Protocols for Computer Communication* (SIGCOMM), August 2000.
+    “[When the CRC and TCP Checksum Disagree](https://web.archive.org/web/20220818235232/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.27.7611&rep=rep1&type=pdf),”
+    at *ACM Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication* (SIGCOMM), August 2000.
     [doi:10.1145/347059.347561](http://dx.doi.org/10.1145/347059.347561)
 
 1.  Evan Jones:

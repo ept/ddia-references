@@ -39,8 +39,7 @@ Chapter 3 References
     “[Bigtable: A Distributed Storage System for Structured Data](https://research.google/pubs/pub27898/),” at *7th USENIX Symposium on Operating System Design and
     Implementation* (OSDI), November 2006.
 
-1.  Patrick
-    O'Neil, Edward Cheng, Dieter Gawlick, and Elizabeth O'Neil:
+1.  Patrick O'Neil, Edward Cheng, Dieter Gawlick, and Elizabeth O'Neil:
     “[The Log-Structured Merge-Tree (LSM-Tree)](http://www.cs.umb.edu/~poneil/lsmtree.pdf),”
     *Acta Informatica*, volume 33, number 4, pages 351–385, June 1996.
     [doi:10.1007/s002360050048](http://dx.doi.org/10.1007/s002360050048)
@@ -90,8 +89,8 @@ Chapter 3 References
     “[A Comparison of Fractal Trees to Log-Structured Merge (LSM) Trees](http://www.pandademo.com/wp-content/uploads/2017/12/A-Comparison-of-Fractal-Trees-to-Log-Structured-Merge-LSM-Trees.pdf),” *tokutek.com*,
     April 22, 2014.
 
-1.  Manos Athanassoulis, Michael S. Kester,
-    Lukas M. Maas, et al.: “[Designing Access Methods: The RUM Conjecture](http://openproceedings.org/2016/conf/edbt/paper-12.pdf),” at *19th International Conference on Extending Database
+1.  Manos Athanassoulis, Michael S. Kester, Lukas M. Maas, et al.:
+    “[Designing Access Methods: The RUM Conjecture](http://openproceedings.org/2016/conf/edbt/paper-12.pdf),” at *19th International Conference on Extending Database
     Technology* (EDBT), March 2016.
     [doi:10.5441/002/edbt.2016.42](http://dx.doi.org/10.5441/002/edbt.2016.42)
 

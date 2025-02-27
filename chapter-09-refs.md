@@ -208,8 +208,7 @@ Chapter 9 References
     “[Bolt-on Causal Consistency](http://db.cs.berkeley.edu/papers/sigmod13-bolton.pdf),” at
     *ACM International Conference on Management of Data* (SIGMOD), June 2013.
 
-1.  Philippe Ajoux, Nathan Bronson, Sanjeev
-    Kumar, et al.:
+1.  Philippe Ajoux, Nathan Bronson, Sanjeev Kumar, et al.:
     “[Challenges to Adopting Stronger Consistency at Scale](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-ajoux.pdf),” at *15th USENIX Workshop on Hot Topics in
     Operating Systems* (HotOS), May 2015.
 
@@ -240,8 +239,7 @@ Chapter 9 References
     John Wiley & Sons, 2004. ISBN: 978-0-471-45324-6,
     [doi:10.1002/0471478210](http://dx.doi.org/10.1002/0471478210)
 
-1.  Mahesh
-    Balakrishnan, Dahlia Malkhi, Vijayan Prabhakaran, et al.:
+1.  Mahesh Balakrishnan, Dahlia Malkhi, Vijayan Prabhakaran, et al.:
     “[CORFU: A Shared Log Design for Flash Clusters](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final30.pdf),” at *9th USENIX Symposium on Networked
     Systems Design and Implementation* (NSDI), April 2012.
 
@@ -285,9 +283,9 @@ Chapter 9 References
     “[Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf),” *Journal of the ACM*, volume 32, number 2, pages 374–382, April 1985.
     [doi:10.1145/3149.214121](http://dx.doi.org/10.1145/3149.214121)
 
-1.  Michael Ben-Or: “Another Advantage of Free
-    Choice: Completely Asynchronous Agreement Protocols,” at *2nd ACM Symposium on Principles of
-    Distributed Computing* (PODC), August 1983.
+1.  Michael Ben-Or:
+    “Another Advantage of Free Choice: Completely Asynchronous Agreement Protocols,”
+    at *2nd ACM Symposium on Principles of Distributed Computing* (PODC), August 1983.
     [doi:10.1145/800221.806707](http://dl.acm.org/citation.cfm?id=806707)
 
 1.  Jim N. Gray and Leslie Lamport:
@@ -300,8 +298,8 @@ Chapter 9 References
     at *9th International Workshop on Distributed Algorithms* (WDAG), September 1995.
     [doi:10.1007/BFb0022140](http://dx.doi.org/10.1007/BFb0022140)
 
-1.  Thanumalayan Sankaranarayana Pillai, Vijay Chidambaram,
-    Ramnatthan Alagappan, et al.: “[All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications](http://research.cs.wisc.edu/wind/Publications/alice-osdi14.pdf),”
+1.  Thanumalayan Sankaranarayana Pillai, Vijay Chidambaram, Ramnatthan Alagappan, et al.:
+    “[All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications](http://research.cs.wisc.edu/wind/Publications/alice-osdi14.pdf),”
     at *11th USENIX Symposium on Operating Systems Design and Implementation* (OSDI),
     October 2014.
 
@@ -425,8 +423,8 @@ Chapter 9 References
     volume 12, number 4, pages 472–484, September 2014.
     [doi:10.1109/TDSC.2014.2355848](http://dx.doi.org/10.1109/TDSC.2014.2355848)
 
-1.  Will
-    Portnoy: “[Lessons Learned from Implementing Paxos](http://blog.willportnoy.com/2012/06/lessons-learned-from-paxos.html),” *blog.willportnoy.com*, June 14, 2012.
+1.  Will Portnoy:
+    “[Lessons Learned from Implementing Paxos](http://blog.willportnoy.com/2012/06/lessons-learned-from-paxos.html),” *blog.willportnoy.com*, June 14, 2012.
 
 1.  Heidi Howard, Dahlia Malkhi, and Alexander Spiegelman:
     “[Flexible Paxos: Quorum Intersection Revisited](https://drops.dagstuhl.de/opus/volltexte/2017/7094/pdf/LIPIcs-OPODIS-2016-25.pdf),”

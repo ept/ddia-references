@@ -69,8 +69,7 @@ Chapter 7 References
 1.  Chris Siebenmann:
     “[Unix's File Durability Problem](https://utcc.utoronto.ca/~cks/space/blog/unix/FileSyncProblem),” *utcc.utoronto.ca*, April 14, 2016.
 
-1.  Lakshmi N. Bairavasundaram, Garth R.
-    Goodson, Bianca Schroeder, et al.:
+1.  Lakshmi N. Bairavasundaram, Garth R. Goodson, Bianca Schroeder, et al.:
     “[An Analysis of Data Corruption in the Storage Stack](http://research.cs.wisc.edu/adsl/Publications/corruption-fast08.pdf),” at *6th USENIX Conference on File and Storage
     Technologies* (FAST), February 2008.
 

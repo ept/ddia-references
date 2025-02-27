@@ -247,8 +247,7 @@ Chapter 11 References
     High-Performance Big Data Computing* (HPBDC), May 2016.
     [doi:10.1109/IPDPSW.2016.141](http://dx.doi.org/10.1109/IPDPSW.2016.141)
 
-1.  Philippe Flajolet, Éric Fusy, Olivier
-    Gandouet, and Frédéric Meunier:
+1.  Philippe Flajolet, Éric Fusy, Olivier Gandouet, and Frédéric Meunier:
     “[HyperLogLog: The Analysis of a Near-Optimal Cardinality Estimation Algorithm](http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf),”
     at *Conference on Analysis of Algorithms* (AofA), June 2007.
 
@@ -287,8 +286,7 @@ Chapter 11 References
 
 1.  “[State Management](http://samza.apache.org/learn/documentation/0.10/container/state-management.html),” Apache Samza 0.10 Documentation, *samza.apache.org*, December 2015.
 
-1.  Rajagopal Ananthanarayanan,
-    Venkatesh Basker, Sumit Das, et al.:
+1.  Rajagopal Ananthanarayanan, Venkatesh Basker, Sumit Das, et al.:
     “[Photon: Fault-Tolerant and Scalable Joining of Continuous Data Streams](http://research.google.com/pubs/pub41318.html),” at *ACM International Conference on Management of
     Data* (SIGMOD), June 2013.
     [doi:10.1145/2463676.2465272](http://dx.doi.org/10.1145/2463676.2465272)
@@ -339,10 +337,9 @@ Chapter 11 References
     “[Re: Trying to Achieve Deterministic Behavior on Recovery/Rewind](http://mail-archives.apache.org/mod_mbox/samza-dev/201409.mbox/%3CCAOeJiJg%2Bc7Ei%3DgzCuOz30DD3G5Hm9yFY%3DUJ6SafdNUFbvRgorg%40mail.gmail.com%3E),” email to *samza-dev* mailing list,
     September 9, 2014.
 
-1.  E. N. (Mootaz) Elnozahy,
-    Lorenzo Alvisi, Yi-Min Wang, and David B. Johnson:
-    “[A Survey of Rollback-Recovery Protocols in Message-Passing Systems](http://www.cs.utexas.edu/~lorenzo/papers/SurveyFinal.pdf),” *ACM Computing Surveys*, volume 34, number 3,
-    pages 375–408, September 2002.
+1.  E. N. (Mootaz) Elnozahy, Lorenzo Alvisi, Yi-Min Wang, and David B. Johnson:
+    “[A Survey of Rollback-Recovery Protocols in Message-Passing Systems](http://www.cs.utexas.edu/~lorenzo/papers/SurveyFinal.pdf),”
+    *ACM Computing Surveys*, volume 34, number 3, pages 375–408, September 2002.
     [doi:10.1145/568522.568525](http://dx.doi.org/10.1145/568522.568525)
 
 1.  Adam Warski:

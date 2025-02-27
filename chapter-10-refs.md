@@ -66,8 +66,7 @@ Chapter 10 References
     “[Two File Descriptors for Sockets](http://cr.yp.to/tcpip/twofd.html),” *cr.yp.to*.
 
 1.  Rob Pike and Dennis M. Ritchie:
-    “[The Styx Architecture for Distributed Systems](http://doc.cat-v.org/inferno/4th_edition/styx),” *Bell Labs Technical Journal*, volume 4, number 2, pages
-146–152, April 1999.
+    “[The Styx Architecture for Distributed Systems](http://doc.cat-v.org/inferno/4th_edition/styx),” *Bell Labs Technical Journal*, volume 4, number 2, pages 146–152, April 1999.
 
 1.  Sanjay Ghemawat, Howard Gobioff, and Shun-Tak
     Leung: “[The Google File System](http://research.google.com/archive/gfs-sosp2003.pdf),”
