@@ -22,7 +22,7 @@ Chapter 8 References
     “[Notes on Distributed Systems for Young Bloods](https://web.archive.org/web/20200218095605/https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/),” *somethingsimilar.com*, January 14, 2013.
 
 1.  Antonio Regalado:
-      “[Who Coined 'Cloud Computing'?](https://www.technologyreview.com/2011/10/31/257406/who-coined-cloud-computing/),” *technologyreview.com*, October 31, 2011.
+    “[Who Coined 'Cloud Computing'?](https://www.technologyreview.com/2011/10/31/257406/who-coined-cloud-computing/),” *technologyreview.com*, October 31, 2011.
 
 1.  Luiz André Barroso, Jimmy Clidaras, and Urs Hölzle:
     “[The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines, Second Edition](https://web.archive.org/web/20140404113735/http://www.morganclaypool.com/doi/abs/10.2200/S00516ED2V01Y201306CAC024),”
@@ -37,12 +37,12 @@ Chapter 8 References
     Analysis* (SC12), November 2012.
 
 1.  Arjun Singh, Joon Ong, Amit Agarwal, et al.:
-      “[Jupiter Rising: A Decade of Clos Topologies and Centralized Control in Google’s Datacenter Network](http://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p183.pdf),” at
-      *Annual Conference of the ACM Special Interest Group on Data Communication* (SIGCOMM), August 2015.
-      [doi:10.1145/2785956.2787508](http://dx.doi.org/10.1145/2785956.2787508)
+    “[Jupiter Rising: A Decade of Clos Topologies and Centralized Control in Google’s Datacenter Network](http://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p183.pdf),” at
+    *Annual Conference of the ACM Special Interest Group on Data Communication* (SIGCOMM), August 2015.
+    [doi:10.1145/2785956.2787508](http://dx.doi.org/10.1145/2785956.2787508)
 
 1.  Glenn K. Lockwood:
-      “[Hadoop's Uncomfortable Fit in HPC](http://glennklockwood.blogspot.co.uk/2014/05/hadoops-uncomfortable-fit-in-hpc.html),” *glennklockwood.blogspot.co.uk*, May 16, 2014.
+    “[Hadoop's Uncomfortable Fit in HPC](http://glennklockwood.blogspot.co.uk/2014/05/hadoops-uncomfortable-fit-in-hpc.html),” *glennklockwood.blogspot.co.uk*, May 16, 2014.
 
 1.  John von Neumann:
     “[Probabilistic Logics and the Synthesis of Reliable Organisms from Unreliable Components](https://personalpages.manchester.ac.uk/staff/nikolaos.kyparissas/uploads/VonNeumann1956.pdf),” in *Automata Studies (AM-34)*,
@@ -50,8 +50,8 @@ Chapter 8 References
     ISBN: 978-0-691-07916-5
 
 1.  Richard W. Hamming:
-      *The Art of Doing Science and Engineering*. Taylor & Francis, 1997.
-      ISBN: 978-9-056-99500-3
+    *The Art of Doing Science and Engineering*. Taylor & Francis, 1997.
+    ISBN: 978-9-056-99500-3
 
 1.  Claude E. Shannon:
     “[A Mathematical Theory of Communication](http://cs.brynmawr.edu/Courses/cs380/fall2012/shannon1948.pdf),” *The Bell System Technical Journal*, volume 27, number 3,
@@ -90,11 +90,11 @@ Chapter 8 References
     “[A Few Arguments About Redis Sentinel Properties and Fail Scenarios](http://antirez.com/news/80),” *antirez.com*, October 21, 2014.
 
 1.  Bert Hubert:
-      “[The Ultimate SO_LINGER Page, or: Why Is My TCP Not Reliable](http://blog.netherlabs.nl/articles/2009/01/18/the-ultimate-so_linger-page-or-why-is-my-tcp-not-reliable),” *blog.netherlabs.nl*, January 18, 2009.
+    “[The Ultimate SO_LINGER Page, or: Why Is My TCP Not Reliable](http://blog.netherlabs.nl/articles/2009/01/18/the-ultimate-so_linger-page-or-why-is-my-tcp-not-reliable),” *blog.netherlabs.nl*, January 18, 2009.
 
 1.  Nicolas Liochon:
-      “[CAP:   If All You Have Is a Timeout, Everything Looks Like a Partition](http://blog.thislongrun.com/2015/05/CAP-theorem-partition-timeout-zookeeper.html),” *blog.thislongrun.com*,
-      May 25, 2015.
+    “[CAP:   If All You Have Is a Timeout, Everything Looks Like a Partition](http://blog.thislongrun.com/2015/05/CAP-theorem-partition-timeout-zookeeper.html),” *blog.thislongrun.com*,
+    May 25, 2015.
 
 1.  Jerome H. Saltzer, David P. Reed, and David D. Clark:
     “[End-To-End Arguments in System Design](https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf),”
@@ -106,14 +106,14 @@ Chapter 8 References
     Systems Design and Implementation* (NSDI), May 2015.
 
 1.  Guohui Wang and T. S. Eugene Ng:
-      “[The Impact of Virtualization on Network Performance of Amazon EC2 Data Center](http://www.cs.rice.edu/~eugeneng/papers/INFOCOM10-ec2.pdf),” at *29th IEEE
-      International Conference on Computer Communications* (INFOCOM), March 2010.
-      [doi:10.1109/INFCOM.2010.5461931](http://dx.doi.org/10.1109/INFCOM.2010.5461931)
+    “[The Impact of Virtualization on Network Performance of Amazon EC2 Data Center](http://www.cs.rice.edu/~eugeneng/papers/INFOCOM10-ec2.pdf),” at *29th IEEE
+    International Conference on Computer Communications* (INFOCOM), March 2010.
+    [doi:10.1109/INFCOM.2010.5461931](http://dx.doi.org/10.1109/INFCOM.2010.5461931)
 
 1.  Van Jacobson:
-      “[Congestion Avoidance and Control](http://www.cs.usask.ca/ftp/pub/discus/seminars2002-2003/p314-jacobson.pdf),” at *ACM Symposium on Communications Architectures and
-      Protocols* (SIGCOMM), August 1988.
-      [doi:10.1145/52324.52356](http://dx.doi.org/10.1145/52324.52356)
+    “[Congestion Avoidance and Control](http://www.cs.usask.ca/ftp/pub/discus/seminars2002-2003/p314-jacobson.pdf),” at *ACM Symposium on Communications Architectures and
+    Protocols* (SIGCOMM), August 1988.
+    [doi:10.1145/52324.52356](http://dx.doi.org/10.1145/52324.52356)
 
 1.  Brandon Philips:
     “[etcd: Distributed Locking and Service Discovery](https://www.youtube.com/watch?v=HJIjTTHWYnE),” at *Strange Loop*, September 2014.
@@ -161,38 +161,38 @@ Chapter 8 References
     “[Time on Multi-Core, Multi-Socket Servers](http://steveloughran.blogspot.co.uk/2015/09/time-on-multi-core-multi-socket-servers.html),” *steveloughran.blogspot.co.uk*, September 17, 2015.
 
 1.  James C. Corbett, Jeffrey Dean, Michael Epstein, et al.:
-      “[Spanner: Google’s Globally-Distributed Database](https://research.google/pubs/pub39966/),” at *10th USENIX Symposium on Operating System Design and
-      Implementation* (OSDI), October 2012.
+    “[Spanner: Google’s Globally-Distributed Database](https://research.google/pubs/pub39966/),” at *10th USENIX Symposium on Operating System Design and
+    Implementation* (OSDI), October 2012.
 
 1.  M. Caporaloni and R. Ambrosini:
-      “[How Closely Can a Personal Computer Clock Track the UTC Timescale Via the Internet?](https://iopscience.iop.org/0143-0807/23/4/103/),” *European Journal of
-      Physics*, volume 23, number 4, pages L17–L21, June 2012.
-      [doi:10.1088/0143-0807/23/4/103](http://dx.doi.org/10.1088/0143-0807/23/4/103)
+    “[How Closely Can a Personal Computer Clock Track the UTC Timescale Via the Internet?](https://iopscience.iop.org/0143-0807/23/4/103/),” *European Journal of
+    Physics*, volume 23, number 4, pages L17–L21, June 2012.
+    [doi:10.1088/0143-0807/23/4/103](http://dx.doi.org/10.1088/0143-0807/23/4/103)
 
 1.  Nelson Minar:
-      “[A Survey of the NTP Network](http://alumni.media.mit.edu/~nelson/research/ntp-survey99/),”
-      *alumni.media.mit.edu*, December 1999.
+    “[A Survey of the NTP Network](http://alumni.media.mit.edu/~nelson/research/ntp-survey99/),”
+    *alumni.media.mit.edu*, December 1999.
 
 1.  Viliam Holub:
-      “[Synchronizing Clocks in a Cassandra Cluster Pt. 1 – The Problem](https://blog.rapid7.com/2014/03/14/synchronizing-clocks-in-a-cassandra-cluster-pt-1-the-problem/),” *blog.rapid7.com*, March 14, 2014.
+    “[Synchronizing Clocks in a Cassandra Cluster Pt. 1 – The Problem](https://blog.rapid7.com/2014/03/14/synchronizing-clocks-in-a-cassandra-cluster-pt-1-the-problem/),” *blog.rapid7.com*, March 14, 2014.
 
 1.  Poul-Henning Kamp:
-      “[The One-Second War (What Time Will You Die?)](http://queue.acm.org/detail.cfm?id=1967009),” *ACM Queue*, volume 9, number 4, pages 44–48, April 2011.
-      [doi:10.1145/1966989.1967009](http://dx.doi.org/10.1145/1966989.1967009)
+    “[The One-Second War (What Time Will You Die?)](http://queue.acm.org/detail.cfm?id=1967009),” *ACM Queue*, volume 9, number 4, pages 44–48, April 2011.
+    [doi:10.1145/1966989.1967009](http://dx.doi.org/10.1145/1966989.1967009)
 
 1.  Nelson Minar:
-      “[Leap Second Crashes Half the Internet](http://www.somebits.com/weblog/tech/bad/leap-second-2012.html),” *somebits.com*, July 3, 2012.
+    “[Leap Second Crashes Half the Internet](http://www.somebits.com/weblog/tech/bad/leap-second-2012.html),” *somebits.com*, July 3, 2012.
 
 1.  Christopher Pascoe:
-      “[Time,   Technology and Leaping Seconds](http://googleblog.blogspot.co.uk/2011/09/time-technology-and-leaping-seconds.html),” *googleblog.blogspot.co.uk*, September 15, 2011.
+    “[Time,   Technology and Leaping Seconds](http://googleblog.blogspot.co.uk/2011/09/time-technology-and-leaping-seconds.html),” *googleblog.blogspot.co.uk*, September 15, 2011.
 
 1.  Mingxue Zhao and Jeff Barr:
-      “[Look Before You Leap – The Coming Leap Second and AWS](https://aws.amazon.com/blogs/aws/look-before-you-leap-the-coming-leap-second-and-aws/),” *aws.amazon.com*, May 18, 2015.
+    “[Look Before You Leap – The Coming Leap Second and AWS](https://aws.amazon.com/blogs/aws/look-before-you-leap-the-coming-leap-second-and-aws/),” *aws.amazon.com*, May 18, 2015.
 
 1.  Darryl Veitch and Kanthaiah Vijayalayan:
-      “[Network Timing and the 2015 Leap Second](https://tklab.feit.uts.edu.au/~darryl/Publications/LeapSecond_camera.pdf),” at *17th International Conference on Passive and Active
-      Measurement* (PAM), April 2016.
-      [doi:10.1007/978-3-319-30505-9_29](http://dx.doi.org/10.1007/978-3-319-30505-9_29)
+    “[Network Timing and the 2015 Leap Second](https://tklab.feit.uts.edu.au/~darryl/Publications/LeapSecond_camera.pdf),” at *17th International Conference on Passive and Active
+    Measurement* (PAM), April 2016.
+    [doi:10.1007/978-3-319-30505-9_29](http://dx.doi.org/10.1007/978-3-319-30505-9_29)
 
 1.  “[Timekeeping in VMware Virtual Machines](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/techpaper/Timekeeping-In-VirtualMachines.pdf),”
     Information Guide, VMware, Inc., December 2011.
@@ -212,7 +212,7 @@ Chapter 8 References
     *riak.com*, November 12, 2013.
 
 1.  Kyle Kingsbury:
-      “[The Trouble with Timestamps](https://aphyr.com/posts/299-the-trouble-with-timestamps),” *aphyr.com*, October 12, 2013.
+    “[The Trouble with Timestamps](https://aphyr.com/posts/299-the-trouble-with-timestamps),” *aphyr.com*, October 12, 2013.
 
 1.  Leslie Lamport:
     “[Time, Clocks, and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/),”
@@ -247,26 +247,26 @@ Chapter 8 References
     [doi:10.1145/74850.74870](http://dx.doi.org/10.1145/74850.74870)
 
 1.  Todd Lipcon:
-      “[Avoiding Full GCs in Apache HBase with MemStore-Local Allocation Buffers: Part 1](https://web.archive.org/web/20121101040711/http://blog.cloudera.com/blog/2011/02/avoiding-full-gcs-in-hbase-with-memstore-local-allocation-buffers-part-1/),”
-      *blog.cloudera.com*, February 24, 2011.
+    “[Avoiding Full GCs in Apache HBase with MemStore-Local Allocation Buffers: Part 1](https://web.archive.org/web/20121101040711/http://blog.cloudera.com/blog/2011/02/avoiding-full-gcs-in-hbase-with-memstore-local-allocation-buffers-part-1/),”
+    *blog.cloudera.com*, February 24, 2011.
 
 1.  Martin Thompson:
-      “[Java Garbage Collection Distilled](http://mechanical-sympathy.blogspot.co.uk/2013/07/java-garbage-collection-distilled.html),” *mechanical-sympathy.blogspot.co.uk*, July 16, 2013.
+    “[Java Garbage Collection Distilled](http://mechanical-sympathy.blogspot.co.uk/2013/07/java-garbage-collection-distilled.html),” *mechanical-sympathy.blogspot.co.uk*, July 16, 2013.
 
 1.  Alexey Ragozin:
-      “[How to Tame Java GC Pauses? Surviving 16GiB Heap and Greater](https://dzone.com/articles/how-tame-java-gc-pauses),”
-      *dzone.com*, June 28, 2011.
+    “[How to Tame Java GC Pauses? Surviving 16GiB Heap and Greater](https://dzone.com/articles/how-tame-java-gc-pauses),”
+    *dzone.com*, June 28, 2011.
 
 1.  Christopher Clark, Keir Fraser, Steven Hand, et al.:
-      “[Live Migration of Virtual Machines](http://www.cl.cam.ac.uk/research/srg/netos/papers/2005-nsdi-migration.pdf),” at *2nd USENIX Symposium on Symposium on
-      Networked Systems Design & Implementation* (NSDI), May 2005.
+    “[Live Migration of Virtual Machines](http://www.cl.cam.ac.uk/research/srg/netos/papers/2005-nsdi-migration.pdf),” at *2nd USENIX Symposium on Symposium on
+    Networked Systems Design & Implementation* (NSDI), May 2005.
 
 1.  Mike Shaver:
-      “[fsyncers and Curveballs](https://web.archive.org/web/20220107141023/http://shaver.off.net/diary/2008/05/25/fsyncers-and-curveballs/),” *shaver.off.net*, May 25, 2008.
+    “[fsyncers and Curveballs](https://web.archive.org/web/20220107141023/http://shaver.off.net/diary/2008/05/25/fsyncers-and-curveballs/),” *shaver.off.net*, May 25, 2008.
 
 1.  Zhenyun Zhuang and Cuong Tran:
-      “[Eliminating Large JVM GC Pauses Caused by Background IO Traffic](https://engineering.linkedin.com/blog/2016/02/eliminating-large-jvm-gc-pauses-caused-by-background-io-traffic),” *engineering.linkedin.com*, February 10,
-      2016.
+    “[Eliminating Large JVM GC Pauses Caused by Background IO Traffic](https://engineering.linkedin.com/blog/2016/02/eliminating-large-jvm-gc-pauses-caused-by-background-io-traffic),” *engineering.linkedin.com*, February 10,
+    2016.
 
 1.  David Terei and Amit Levy:
     “[Blade: A Data Center Garbage Collector](http://arxiv.org/pdf/1504.02578.pdf),”
@@ -313,34 +313,34 @@ Chapter 8 References
     `allla-mport-spubso-ntheweb`.
 
 1.  John Rushby:
-      “[Bus Architectures for Safety-Critical Embedded Systems](http://www.csl.sri.com/papers/emsoft01/emsoft01.pdf),” at *1st International Workshop on Embedded Software*
-      (EMSOFT), October 2001.
+    “[Bus Architectures for Safety-Critical Embedded Systems](http://www.csl.sri.com/papers/emsoft01/emsoft01.pdf),” at *1st International Workshop on Embedded Software*
+    (EMSOFT), October 2001.
 
 1.  Jake Edge:
-      “[ELC: SpaceX Lessons Learned](http://lwn.net/Articles/540368/),” *lwn.net*,
-      March 6, 2013.
+    “[ELC: SpaceX Lessons Learned](http://lwn.net/Articles/540368/),” *lwn.net*,
+    March 6, 2013.
 
 1.  Andrew Miller and Joseph J. LaViola, Jr.:
-      “[Anonymous Byzantine Consensus from Moderately-Hard Puzzles: A Model for Bitcoin](http://nakamotoinstitute.org/static/docs/anonymous-byzantine-consensus.pdf),” University of Central
-      Florida, Technical Report CS-TR-14-01, April 2014.
+    “[Anonymous Byzantine Consensus from Moderately-Hard Puzzles: A Model for Bitcoin](http://nakamotoinstitute.org/static/docs/anonymous-byzantine-consensus.pdf),” University of Central
+    Florida, Technical Report CS-TR-14-01, April 2014.
 
 1.  James Mickens:
     “[The Saddest Moment](https://www.usenix.org/system/files/login-logout_1305_mickens.pdf),” *USENIX ;login: logout*, May 2013.
 
 1.  Evan Gilman:
-      “[The Discovery of Apache ZooKeeper’s Poison Packet](http://www.pagerduty.com/blog/the-discovery-of-apache-zookeepers-poison-packet/),” *pagerduty.com*, May 7, 2015.
+    “[The Discovery of Apache ZooKeeper’s Poison Packet](http://www.pagerduty.com/blog/the-discovery-of-apache-zookeepers-poison-packet/),” *pagerduty.com*, May 7, 2015.
 
 1.  Jonathan Stone and Craig Partridge:
-      “[When the CRC and TCP Checksum Disagree](https://web.archive.org/web/20220818235232/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.27.7611&rep=rep1&type=pdf),” at *ACM Conference on Applications,
-      Technologies, Architectures, and Protocols for Computer Communication* (SIGCOMM), August 2000.
-      [doi:10.1145/347059.347561](http://dx.doi.org/10.1145/347059.347561)
+    “[When the CRC and TCP Checksum Disagree](https://web.archive.org/web/20220818235232/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.27.7611&rep=rep1&type=pdf),” at *ACM Conference on Applications,
+    Technologies, Architectures, and Protocols for Computer Communication* (SIGCOMM), August 2000.
+    [doi:10.1145/347059.347561](http://dx.doi.org/10.1145/347059.347561)
 
 1.  Evan Jones:
-      “[How Both TCP and Ethernet Checksums Fail](http://www.evanjones.ca/tcp-and-ethernet-checksums-fail.html),” *evanjones.ca*, October 5, 2015.
+    “[How Both TCP and Ethernet Checksums Fail](http://www.evanjones.ca/tcp-and-ethernet-checksums-fail.html),” *evanjones.ca*, October 5, 2015.
 
 1.  Cynthia Dwork, Nancy Lynch, and Larry Stockmeyer:
-      “[Consensus in the Presence of Partial Synchrony](https://dl.acm.org/doi/10.1145/42282.42283),” *Journal of the ACM*, volume 35, number 2, pages 288–323,
-      April 1988. [doi:10.1145/42282.42283](http://dx.doi.org/10.1145/42282.42283)
+    “[Consensus in the Presence of Partial Synchrony](https://dl.acm.org/doi/10.1145/42282.42283),” *Journal of the ACM*, volume 35, number 2, pages 288–323,
+    April 1988. [doi:10.1145/42282.42283](http://dx.doi.org/10.1145/42282.42283)
 
 1.  Peter Bailis and Ali Ghodsi:
     “[Eventual Consistency Today: Limitations, Extensions, and Beyond](http://queue.acm.org/detail.cfm?id=2462076),” *ACM Queue*, volume 11, number 3, pages 55-63, March 2013.

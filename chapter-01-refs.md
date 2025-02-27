@@ -36,10 +36,10 @@ Chapter 1 References
     [doi:10.1145/2670979.2670986](http://dx.doi.org/10.1145/2670979.2670986)
 
 1.  Nelson Minar:
-      “[Leap Second Crashes Half the Internet](http://www.somebits.com/weblog/tech/bad/leap-second-2012.html),” *somebits.com*, July 3, 2012.
+    “[Leap Second Crashes Half the Internet](http://www.somebits.com/weblog/tech/bad/leap-second-2012.html),” *somebits.com*, July 3, 2012.
 
 1.  Amazon Web Services:
-      “[Summary of the Amazon EC2 and Amazon RDS Service Disruption in the US East Region](http://aws.amazon.com/message/65648/),” *aws.amazon.com*, April 29, 2011.
+    “[Summary of the Amazon EC2 and Amazon RDS Service Disruption in the US East Region](http://aws.amazon.com/message/65648/),” *aws.amazon.com*, April 29, 2011.
 
 1.  Richard I. Cook:
     “[How Complex Systems Fail](https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf),” Cognitive Technologies Laboratory, April 2000.
@@ -52,7 +52,7 @@ Chapter 1 References
     Internet Technologies and Systems* (USITS), March 2003.
 
 1.  Nathan Marz:
-      “[Principles of Software Engineering, Part 1](http://nathanmarz.com/blog/principles-of-software-engineering-part-1.html),” *nathanmarz.com*, April 2, 2013.
+    “[Principles of Software Engineering, Part 1](http://nathanmarz.com/blog/principles-of-software-engineering-part-1.html),” *nathanmarz.com*, April 2, 2013.
 
 1.  Michael Jurewitz:
     “[The Human Impact of Bugs](http://jury.me/blog/2013/3/14/the-human-impact-of-bugs),”

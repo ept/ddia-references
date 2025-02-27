@@ -22,11 +22,11 @@ Chapter 2 References
     “[NoSQL: What's in a Name?](https://web.archive.org/web/20190623045155/http://blog.sym-link.com/2009/10/30/nosql_whats_in_a_name.html),” *blog.sym-link.com*, October 30, 2009.
 
 1.  James Phillips:
-      “[Surprises in Our NoSQL Adoption Survey](http://blog.couchbase.com/nosql-adoption-survey-surprises),” *blog.couchbase.com*, February 8, 2012.
+    “[Surprises in Our NoSQL Adoption Survey](http://blog.couchbase.com/nosql-adoption-survey-surprises),” *blog.couchbase.com*, February 8, 2012.
 
 1.  Michael Wagner:
-      *SQL/XML:2006 – Evaluierung der Standardkonformität ausgewählter Datenbanksysteme*.
-      Diplomica Verlag, Hamburg, 2010. ISBN: 978-3-836-64609-3
+    *SQL/XML:2006 – Evaluierung der Standardkonformität ausgewählter Datenbanksysteme*.
+    Diplomica Verlag, Hamburg, 2010. ISBN: 978-3-836-64609-3
 
 1.  “[XML Data (SQL Server)](https://docs.microsoft.com/en-us/sql/relational-databases/xml/xml-data-sql-server?view=sql-server-ver15),” SQL Server documentation, *docs.microsoft.com*, 2013.
 
@@ -172,11 +172,11 @@ Chapter 2 References
     “[Cascalog](https://github.com/nathanmarz/cascalog)," *github.com*.
 
 1.  Dennis A. Benson,
-      Ilene Karsch-Mizrachi, David J. Lipman, et al.:
-      “[GenBank](https://academic.oup.com/nar/article/36/suppl_1/D25/2507746),”
-      *Nucleic Acids Research*, volume 36, Database issue, pages D25–D30, December 2007.
-      [doi:10.1093/nar/gkm929](http://dx.doi.org/10.1093/nar/gkm929)
+    Ilene Karsch-Mizrachi, David J. Lipman, et al.:
+    “[GenBank](https://academic.oup.com/nar/article/36/suppl_1/D25/2507746),”
+    *Nucleic Acids Research*, volume 36, Database issue, pages D25–D30, December 2007.
+    [doi:10.1093/nar/gkm929](http://dx.doi.org/10.1093/nar/gkm929)
 
 1.  Fons Rademakers:
-      “[ROOT for Big Data Analysis](https://indico.cern.ch/event/246453/contributions/1566610/attachments/423154/587535/ROOT-BigData-Analysis-London-2013.pdf),” at *Workshop on the Future of Big Data Management*,
-      London, UK, June 2013.
+    “[ROOT for Big Data Analysis](https://indico.cern.ch/event/246453/contributions/1566610/attachments/423154/587535/ROOT-BigData-Analysis-London-2013.pdf),” at *Workshop on the Future of Big Data Management*,
+    London, UK, June 2013.

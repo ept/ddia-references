@@ -185,10 +185,10 @@ Chapter 10 References
     *blog.cloudera.com*, September 27, 2013.
 
 1.  Nathan Marz:
-      “[How to Beat the CAP Theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html),” *nathanmarz.com*, October 13, 2011.
+    “[How to Beat the CAP Theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html),” *nathanmarz.com*, October 13, 2011.
 
 1.  Molly Bartlett Dishman and Martin Fowler:
-      “[Agile Architecture](https://web.archive.org/web/20161130034721/http://conferences.oreilly.com/software-architecture/sa2015/public/schedule/detail/40388),” at *O'Reilly Software Architecture Conference*, March 2015.
+    “[Agile Architecture](https://web.archive.org/web/20161130034721/http://conferences.oreilly.com/software-architecture/sa2015/public/schedule/detail/40388),” at *O'Reilly Software Architecture Conference*, March 2015.
 
 1.  David J. DeWitt and Jim N. Gray:
     “[Parallel Database Systems: The Future of High Performance Database Systems](http://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/dewittgray92.pdf),”

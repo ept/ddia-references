@@ -15,14 +15,14 @@ Chapter 3 References
     “[Bitcask: A Log-Structured Hash Table for Fast Key/Value Data](https://riak.com/assets/bitcask-intro.pdf),” Basho Technologies, April 2010.
 
 1.  Yinan Li, Bingsheng He, Robin Jun Yang, et al.:
-      “[Tree Indexing on Solid State Drives](http://pages.cs.wisc.edu/~yinan/paper/fdtree_pvldb.pdf),”
-      *Proceedings of the VLDB Endowment*, volume 3, number 1, pages 1195–1206,
-      September 2010.
+    “[Tree Indexing on Solid State Drives](http://pages.cs.wisc.edu/~yinan/paper/fdtree_pvldb.pdf),”
+    *Proceedings of the VLDB Endowment*, volume 3, number 1, pages 1195–1206,
+    September 2010.
 
 1.  Goetz Graefe:
-      “[Modern B-Tree Techniques](https://w6113.github.io/files/papers/btreesurvey-graefe.pdf),”
-      *Foundations and Trends in Databases*, volume 3, number 4, pages 203–402, August 2011.
-      [doi:10.1561/1900000028](http://dx.doi.org/10.1561/1900000028)
+    “[Modern B-Tree Techniques](https://w6113.github.io/files/papers/btreesurvey-graefe.pdf),”
+    *Foundations and Trends in Databases*, volume 3, number 4, pages 203–402, August 2011.
+    [doi:10.1561/1900000028](http://dx.doi.org/10.1561/1900000028)
 
 1.  Jeffrey Dean and Sanjay Ghemawat:
     “[LevelDB Implementation Notes](https://github.com/google/leveldb/blob/master/doc/impl.md),”
@@ -83,12 +83,12 @@ Chapter 3 References
     [doi:10.1145/130283.130338](http://dx.doi.org/10.1145/130283.130338)
 
 1.  Howard Chu:
-      “[LDAP at Lightning Speed]( https://buildstuff14.sched.com/event/08a1a368e272eb599a52e08b4c3c779d),”
-      at *Build Stuff '14*, November 2014.
+    “[LDAP at Lightning Speed]( https://buildstuff14.sched.com/event/08a1a368e272eb599a52e08b4c3c779d),”
+    at *Build Stuff '14*, November 2014.
 
 1.  Bradley C. Kuszmaul:
-      “[A Comparison of Fractal Trees to Log-Structured Merge (LSM) Trees](http://www.pandademo.com/wp-content/uploads/2017/12/A-Comparison-of-Fractal-Trees-to-Log-Structured-Merge-LSM-Trees.pdf),” *tokutek.com*,
-      April 22, 2014.
+    “[A Comparison of Fractal Trees to Log-Structured Merge (LSM) Trees](http://www.pandademo.com/wp-content/uploads/2017/12/A-Comparison-of-Fractal-Trees-to-Log-Structured-Merge-LSM-Trees.pdf),” *tokutek.com*,
+    April 22, 2014.
 
 1.  Manos Athanassoulis, Michael S. Kester,
     Lukas M. Maas, et al.: “[Designing Access Methods: The RUM Conjecture](http://openproceedings.org/2016/conf/edbt/paper-12.pdf),” at *19th International Conference on Extending Database

@@ -16,8 +16,8 @@ Chapter 12 References
     *4th Biennial Conference on Innovative Data Systems Research* (CIDR), January 2009.
 
 1.  Jessica Kerr:
-      “[Provenance and Causality in Distributed Systems](https://web.archive.org/web/20190425150540/http://blog.jessitron.com/2016/09/provenance-and-causality-in-distributed.html),”
-      *blog.jessitron.com*, September 25, 2016.
+    “[Provenance and Causality in Distributed Systems](https://web.archive.org/web/20190425150540/http://blog.jessitron.com/2016/09/provenance-and-causality-in-distributed.html),”
+    *blog.jessitron.com*, September 25, 2016.
 
 1.  Kostas Tzoumas:
     “[Batch Is a Special Case of Streaming](http://data-artisans.com/blog/batch-is-a-special-case-of-streaming/),” *data-artisans.com*, September 15, 2015.
@@ -49,11 +49,11 @@ Chapter 12 References
     Manning, 2015. ISBN: 978-1-617-29034-3
 
 1.  Oscar Boykin, Sam Ritchie, Ian O'Connell, and
-      Jimmy Lin: “[Summingbird: A Framework for Integrating Batch and Online MapReduce Computations](http://www.vldb.org/pvldb/vol7/p1441-boykin.pdf),” at *40th International Conference on
-      Very Large Data Bases* (VLDB), September 2014.
+    Jimmy Lin: “[Summingbird: A Framework for Integrating Batch and Online MapReduce Computations](http://www.vldb.org/pvldb/vol7/p1441-boykin.pdf),” at *40th International Conference on
+    Very Large Data Bases* (VLDB), September 2014.
 
 1.  Jay Kreps:
-      “[Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture),” *oreilly.com*, July 2, 2014.
+    “[Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture),” *oreilly.com*, July 2, 2014.
 
 1.  Raul Castro Fernandez, Peter Pietzuch, Jay Kreps, et al.:
     “[Liquid: Unifying Nearline and Offline Big Data Integration](http://cidrdb.org/cidr2015/Papers/CIDR15_Paper25u.pdf),”
@@ -69,20 +69,20 @@ Chapter 12 References
     August 2011.
 
 1.  Michael Stonebraker:
-      “[The Case for Polystores](http://wp.sigmod.org/?p=1629),” *wp.sigmod.org*,
-      July 13, 2015.
+    “[The Case for Polystores](http://wp.sigmod.org/?p=1629),” *wp.sigmod.org*,
+    July 13, 2015.
 
 1.  Jennie Duggan,
-      Aaron J. Elmore, Michael Stonebraker, et al.:
-      “[The BigDAWG Polystore System](https://dspace.mit.edu/handle/1721.1/100936),” *ACM SIGMOD Record*, volume 44, number 2, pages 11–16, June 2015.
-      [doi:10.1145/2814710.2814713](http://dx.doi.org/10.1145/2814710.2814713)
+    Aaron J. Elmore, Michael Stonebraker, et al.:
+    “[The BigDAWG Polystore System](https://dspace.mit.edu/handle/1721.1/100936),” *ACM SIGMOD Record*, volume 44, number 2, pages 11–16, June 2015.
+    [doi:10.1145/2814710.2814713](http://dx.doi.org/10.1145/2814710.2814713)
 
 1.  Patrycja Dybka:
-      “[Foreign Data Wrappers for PostgreSQL](http://www.vertabelo.com/blog/technical-articles/foreign-data-wrappers-for-postgresql),” *vertabelo.com*, March 24, 2015.
+    “[Foreign Data Wrappers for PostgreSQL](http://www.vertabelo.com/blog/technical-articles/foreign-data-wrappers-for-postgresql),” *vertabelo.com*, March 24, 2015.
 
 1.  David B. Lomet, Alan Fekete, Gerhard Weikum, and Mike Zwilling:
-      “[Unbundling Transaction Services in the Cloud](https://www.microsoft.com/en-us/research/publication/unbundling-transaction-services-in-the-cloud/),” at *4th Biennial Conference on Innovative Data Systems
-      Research* (CIDR), January 2009.
+    “[Unbundling Transaction Services in the Cloud](https://www.microsoft.com/en-us/research/publication/unbundling-transaction-services-in-the-cloud/),” at *4th Biennial Conference on Innovative Data Systems
+    Research* (CIDR), January 2009.
 
 1.  Martin Kleppmann and Jay Kreps:
     “[Kafka, Samza and the Unix Philosophy of Distributed Data](http://martin.kleppmann.com/papers/kafka-debull15.pdf),” *IEEE Data Engineering Bulletin*, volume 38, number 4, pages 4–14,
@@ -230,17 +230,17 @@ Chapter 12 References
     [doi:10.1145/224056.224070](http://dx.doi.org/10.1145/224056.224070)
 
 1.  Jim Gray:
-      “[The Transaction Concept: Virtues and Limitations](http://jimgray.azurewebsites.net/papers/thetransactionconcept.pdf),”
-      at *7th International Conference on Very Large Data Bases* (VLDB), September 1981.
+    “[The Transaction Concept: Virtues and Limitations](http://jimgray.azurewebsites.net/papers/thetransactionconcept.pdf),”
+    at *7th International Conference on Very Large Data Bases* (VLDB), September 1981.
 
 1.  Hector Garcia-Molina and Kenneth Salem:
-      “[Sagas](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf),” at
-      *ACM International Conference on Management of Data* (SIGMOD), May 1987.
-      [doi:10.1145/38713.38742](http://dx.doi.org/10.1145/38713.38742)
+    “[Sagas](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf),” at
+    *ACM International Conference on Management of Data* (SIGMOD), May 1987.
+    [doi:10.1145/38713.38742](http://dx.doi.org/10.1145/38713.38742)
 
 1.  Pat Helland:
-      “[Memories, Guesses, and Apologies](https://web.archive.org/web/20160304020907/http://blogs.msdn.com/b/pathelland/archive/2007/05/15/memories-guesses-and-apologies.aspx),”
-      *blogs.msdn.com*, May 15, 2007.
+    “[Memories, Guesses, and Apologies](https://web.archive.org/web/20160304020907/http://blogs.msdn.com/b/pathelland/archive/2007/05/15/memories-guesses-and-apologies.aspx),”
+    *blogs.msdn.com*, May 15, 2007.
 
 1.  Yoongu Kim, Ross Daly, Jeremie Kim, et al.:
     “[Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors](https://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf),” at *41st Annual

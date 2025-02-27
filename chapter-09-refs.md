@@ -45,7 +45,7 @@ Chapter 9 References
     “[Computational Techniques in Knossos](https://aphyr.com/posts/314-computational-techniques-in-knossos),” *aphyr.com*, May 17, 2014.
 
 1.  Peter Bailis:
-      “[Linearizability Versus Serializability](http://www.bailis.org/blog/linearizability-versus-serializability/),” *bailis.org*, September 24, 2014.
+    “[Linearizability Versus Serializability](http://www.bailis.org/blog/linearizability-versus-serializability/),” *bailis.org*, September 24, 2014.
 
 1.  Philip A. Bernstein, Vassos Hadzilacos, and Nathan Goodman:
     [*Concurrency Control and Recovery in Database Systems*](https://www.microsoft.com/en-us/research/people/philbe/book/).
@@ -75,13 +75,13 @@ Chapter 9 References
     “[Call Me Maybe: etcd and Consul](https://aphyr.com/posts/316-call-me-maybe-etcd-and-consul),” *aphyr.com*, June 9, 2014.
 
 1.  Flavio P. Junqueira, Benjamin C. Reed, and Marco Serafini:
-      “[Zab: High-Performance Broadcast for Primary-Backup Systems](https://web.archive.org/web/20220419064903/https://marcoserafini.github.io/papers/zab.pdf),”
-      at *41st IEEE International Conference on Dependable Systems and Networks* (DSN), June 2011.
-      [doi:10.1109/DSN.2011.5958223](http://dx.doi.org/10.1109/DSN.2011.5958223)
+    “[Zab: High-Performance Broadcast for Primary-Backup Systems](https://web.archive.org/web/20220419064903/https://marcoserafini.github.io/papers/zab.pdf),”
+    at *41st IEEE International Conference on Dependable Systems and Networks* (DSN), June 2011.
+    [doi:10.1109/DSN.2011.5958223](http://dx.doi.org/10.1109/DSN.2011.5958223)
 
 1.  Diego Ongaro and John K. Ousterhout:
-      “[In Search of an Understandable Consensus Algorithm](https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf),”
-      at *USENIX Annual Technical Conference* (ATC), June 2014.
+    “[In Search of an Understandable Consensus Algorithm](https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf),”
+    at *USENIX Annual Technical Conference* (ATC), June 2014.
 
 1.  Hagit Attiya, Amotz Bar-Noy, and Danny Dolev:
     “[Sharing Memory Robustly in Message-Passing Systems](http://www.cse.huji.ac.il/course/2004/dist/p124-attiya.pdf),”
@@ -192,9 +192,9 @@ Chapter 9 References
     [doi:10.1145/176575.176576](http://dx.doi.org/10.1145/176575.176576)
 
 1.  Mustaque Ahamad, Gil Neiger, James E. Burns, et al.:
-      “[Causal Memory: Definitions, Implementation, and Programming](http://www-i2.informatik.rwth-aachen.de/i2/fileadmin/user_upload/documents/Seminar_MCMM11/Causal_memory_1996.pdf),” *Distributed
-      Computing*, volume 9, number 1, pages 37–49, March 1995.
-      [doi:10.1007/BF01784241](http://dx.doi.org/10.1007/BF01784241)
+    “[Causal Memory: Definitions, Implementation, and Programming](http://www-i2.informatik.rwth-aachen.de/i2/fileadmin/user_upload/documents/Seminar_MCMM11/Causal_memory_1996.pdf),” *Distributed
+    Computing*, volume 9, number 1, pages 37–49, March 1995.
+    [doi:10.1007/BF01784241](http://dx.doi.org/10.1007/BF01784241)
 
 1.  Wyatt Lloyd, Michael J. Freedman,
     Michael Kaminsky, and David G. Andersen:
@@ -223,7 +223,7 @@ Chapter 9 References
     [doi:10.1007/978-3-319-19129-4_6](http://dx.doi.org/10.1007/978-3-319-19129-4_6)
 
 1.  Rob Conery:
-      “[A Better ID Generator for PostgreSQL](https://web.archive.org/web/20220118044729/http://rob.conery.io/2014/05/29/a-better-id-generator-for-postgresql/),” *rob.conery.io*, May 29, 2014.
+    “[A Better ID Generator for PostgreSQL](https://web.archive.org/web/20220118044729/http://rob.conery.io/2014/05/29/a-better-id-generator-for-postgresql/),” *rob.conery.io*, May 29, 2014.
 
 1.  Leslie Lamport:
     “[Time, Clocks, and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/),”

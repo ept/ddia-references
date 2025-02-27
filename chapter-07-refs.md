@@ -51,35 +51,35 @@ Chapter 7 References
     [doi:10.1145/1071610.1071615](http://dx.doi.org/10.1145/1071610.1071615)
 
 1.  Mai Zheng, Joseph Tucek, Feng Qin, and Mark Lillibridge:
-      “[Understanding the Robustness of SSDs Under Power Fault](https://www.usenix.org/system/files/conference/fast13/fast13-final80.pdf),” at *11th USENIX Conference on File and
-      Storage Technologies* (FAST), February 2013.
+    “[Understanding the Robustness of SSDs Under Power Fault](https://www.usenix.org/system/files/conference/fast13/fast13-final80.pdf),” at *11th USENIX Conference on File and
+    Storage Technologies* (FAST), February 2013.
 
 1.  Laurie Denness:
-      “[SSDs: A Gift and a Curse](https://laur.ie/blog/2015/06/ssds-a-gift-and-a-curse/),”
-      *laur.ie*, June 2, 2015.
+    “[SSDs: A Gift and a Curse](https://laur.ie/blog/2015/06/ssds-a-gift-and-a-curse/),”
+    *laur.ie*, June 2, 2015.
 
 1.  Adam Surak:
-      “[When Solid State Drives Are Not That Solid](https://blog.algolia.com/when-solid-state-drives-are-not-that-solid/),” *blog.algolia.com*, June 15, 2015.
+    “[When Solid State Drives Are Not That Solid](https://blog.algolia.com/when-solid-state-drives-are-not-that-solid/),” *blog.algolia.com*, June 15, 2015.
 
 1.  Thanumalayan Sankaranarayana Pillai, Vijay Chidambaram,
-      Ramnatthan Alagappan, et al.: “[All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications](http://research.cs.wisc.edu/wind/Publications/alice-osdi14.pdf),”
-      at *11th USENIX Symposium on Operating Systems Design and Implementation* (OSDI),
-      October 2014.
+    Ramnatthan Alagappan, et al.: “[All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications](http://research.cs.wisc.edu/wind/Publications/alice-osdi14.pdf),”
+    at *11th USENIX Symposium on Operating Systems Design and Implementation* (OSDI),
+    October 2014.
 
 1.  Chris Siebenmann:
-      “[Unix's File Durability Problem](https://utcc.utoronto.ca/~cks/space/blog/unix/FileSyncProblem),” *utcc.utoronto.ca*, April 14, 2016.
+    “[Unix's File Durability Problem](https://utcc.utoronto.ca/~cks/space/blog/unix/FileSyncProblem),” *utcc.utoronto.ca*, April 14, 2016.
 
 1.  Lakshmi N. Bairavasundaram, Garth R.
-      Goodson, Bianca Schroeder, et al.:
-      “[An Analysis of Data Corruption in the Storage Stack](http://research.cs.wisc.edu/adsl/Publications/corruption-fast08.pdf),” at *6th USENIX Conference on File and Storage
-      Technologies* (FAST), February 2008.
+    Goodson, Bianca Schroeder, et al.:
+    “[An Analysis of Data Corruption in the Storage Stack](http://research.cs.wisc.edu/adsl/Publications/corruption-fast08.pdf),” at *6th USENIX Conference on File and Storage
+    Technologies* (FAST), February 2008.
 
 1.  Bianca Schroeder, Raghav Lagisetty, and Arif Merchant:
-      “[Flash Reliability in Production: The Expected and the Unexpected](https://www.usenix.org/conference/fast16/technical-sessions/presentation/schroeder),” at *14th USENIX Conference on
-      File and Storage Technologies* (FAST), February 2016.
+    “[Flash Reliability in Production: The Expected and the Unexpected](https://www.usenix.org/conference/fast16/technical-sessions/presentation/schroeder),” at *14th USENIX Conference on
+    File and Storage Technologies* (FAST), February 2016.
 
 1.  Don Allison:
-      “[SSD Storage – Ignorance of Technology Is No Excuse](https://blog.korelogic.com/blog/2015/03/24),” *blog.korelogic.com*, March 24, 2015.
+    “[SSD Storage – Ignorance of Technology Is No Excuse](https://blog.korelogic.com/blog/2015/03/24),” *blog.korelogic.com*, March 24, 2015.
 
 1.  Dave Scherer:
     “[Those Are Not Transactions (Cassandra 2.0)](http://web.archive.org/web/20150526065247/http://blog.foundationdb.com/those-are-not-transactions-cassandra-2-0),” *blog.foundationdb.com*, September 6, 2013.
@@ -164,15 +164,15 @@ Chapter 7 References
     at *38th International Conference on Very Large Databases* (VLDB), August 2012.
 
 1.  Tony Andrews:
-      “[Enforcing Complex Constraints in Oracle](http://tonyandrews.blogspot.co.uk/2004/10/enforcing-complex-constraints-in.html),” *tonyandrews.blogspot.co.uk*, October 15, 2004.
+    “[Enforcing Complex Constraints in Oracle](http://tonyandrews.blogspot.co.uk/2004/10/enforcing-complex-constraints-in.html),” *tonyandrews.blogspot.co.uk*, October 15, 2004.
 
 1.  Douglas B. Terry, Marvin M. Theimer, Karin Petersen, et al.:
-      “[Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](https://citeseerx.ist.psu.edu/pdf/20c450f099b661c5a2dff3f348773a0d1af1b09b),” at
-      *15th ACM Symposium on Operating Systems Principles* (SOSP), December 1995.
-      [doi:10.1145/224056.224070](http://dx.doi.org/10.1145/224056.224070)
+    “[Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](https://citeseerx.ist.psu.edu/pdf/20c450f099b661c5a2dff3f348773a0d1af1b09b),” at
+    *15th ACM Symposium on Operating Systems Principles* (SOSP), December 1995.
+    [doi:10.1145/224056.224070](http://dx.doi.org/10.1145/224056.224070)
 
 1.  Gary Fredericks:
-      “[Postgres Serializability Bug](https://github.com/gfredericks/pg-serializability-bug),” *github.com*, September 2015.
+    “[Postgres Serializability Bug](https://github.com/gfredericks/pg-serializability-bug),” *github.com*, September 2015.
 
 1.  Michael Stonebraker, Samuel Madden, Daniel J. Abadi, et al.:
     “[The End of an Architectural Era (It’s Time for a Complete Rewrite)](https://citeseerx.ist.psu.edu/pdf/775d54c66d271028a7d4dadf07cce6f918584cd3),” at *33rd International
