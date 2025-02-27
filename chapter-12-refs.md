@@ -62,7 +62,7 @@ Chapter 12 References
 1.  Dennis M. Ritchie and Ken Thompson:
     “[The UNIX Time-Sharing System](http://web.eecs.utk.edu/~qcao1/cs560/papers/paper-unix.pdf),”
     *Communications of the ACM*, volume 17, number 7, pages 365–375, July 1974.
-    [doi:10.1145/361011.361061](http://dx.doi.org/10.1145/361011.361061)
+    [doi:10.1145/361011.361061](https://dx.doi.org/10.1145/361011.361061)
 
 1.  Eric A. Brewer and Joseph M. Hellerstein:
     “[CS262a: Advanced Topics in Computer Systems](http://people.eecs.berkeley.edu/~brewer/cs262/systemr.html),” lecture notes, University of California, Berkeley, *cs.berkeley.edu*,
@@ -75,7 +75,7 @@ Chapter 12 References
 1.  Jennie Duggan,
       Aaron J. Elmore, Michael Stonebraker, et al.:
       “[The BigDAWG Polystore   System](https://dspace.mit.edu/handle/1721.1/100936),” *ACM SIGMOD Record*, volume 44, number 2, pages 11–16, June 2015.
-      [doi:10.1145/2814710.2814713](http://dx.doi.org/10.1145/2814710.2814713)
+      [doi:10.1145/2814710.2814713](https://dx.doi.org/10.1145/2814710.2814713)
 
 1.  Patrycja Dybka:
       “[Foreign   Data Wrappers for PostgreSQL](http://www.vertabelo.com/blog/technical-articles/foreign-data-wrappers-for-postgresql),” *vertabelo.com*, March 24, 2015.
@@ -98,7 +98,7 @@ Chapter 12 References
 1.  Derek G Murray, Frank McSherry, Rebecca Isaacs, et al.:
     “[Naiad: A Timely Dataflow System](http://sigops.org/s/conferences/sosp/2013/papers/p439-murray.pdf),”
     at *24th ACM Symposium on Operating Systems Principles* (SOSP), pages 439–455, November 2013.
-    [doi:10.1145/2517349.2522738](http://dx.doi.org/10.1145/2517349.2522738)
+    [doi:10.1145/2517349.2522738](https://dx.doi.org/10.1145/2517349.2522738)
 
 1.  Gwen Shapira:
     “[We have a bunch of customers who are implementing ‘database inside-out’ concept and they all ask ‘is anyone else doing it? are we crazy?’](https://twitter.com/gwenshap/status/758800071110430720)” *twitter.com*, July 28, 2016.
@@ -115,12 +115,12 @@ Chapter 12 References
 1.  Evan Czaplicki and Stephen Chong:
     “[Asynchronous Functional Reactive Programming for GUIs](http://people.seas.harvard.edu/~chong/pubs/pldi13-elm.pdf),” at *34th ACM SIGPLAN Conference on Programming Language
     Design and Implementation* (PLDI), June 2013.
-    [doi:10.1145/2491956.2462161](http://dx.doi.org/10.1145/2491956.2462161)
+    [doi:10.1145/2491956.2462161](https://dx.doi.org/10.1145/2491956.2462161)
 
 1.  Engineer Bainomugisha, Andoni Lombide Carreton,
     Tom van Cutsem, Stijn Mostinckx, and Wolfgang de Meuter:
     “[A Survey on Reactive Programming](http://soft.vub.ac.be/Publications/2012/vub-soft-tr-12-13.pdf),” *ACM Computing Surveys*, volume 45, number 4, pages 1–34, August 2013.
-    [doi:10.1145/2501654.2501666](http://dx.doi.org/10.1145/2501654.2501666)
+    [doi:10.1145/2501654.2501666](https://dx.doi.org/10.1145/2501654.2501666)
 
 1.  Peter Alvaro, Neil Conway, Joseph M. Hellerstein, and William R. Marczak:
     “[Consistency Analysis in Bloom: A CALM and Collected Approach](https://dsf.berkeley.edu/cs286/papers/calm-cidr2011.pdf),”
@@ -139,7 +139,7 @@ Chapter 12 References
 1.  Peter Bailis, Alan Fekete, Michael J Franklin,
     et al.: “[Feral Concurrency Control: An Empirical Investigation of Modern Application Integrity](http://www.bailis.org/papers/feral-sigmod2015.pdf),” at *ACM International Conference on
     Management of Data* (SIGMOD), June 2015.
-    [doi:10.1145/2723372.2737784](http://dx.doi.org/10.1145/2723372.2737784)
+    [doi:10.1145/2723372.2737784](https://dx.doi.org/10.1145/2723372.2737784)
 
 1.  Guy Steele:
     “[Re: Need for Macros (Was Re: Icon)](https://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg01134.html),” email to *ll1-discuss* mailing list, *people.csail.mit.edu*, December 24,
@@ -148,13 +148,13 @@ Chapter 12 References
 1.  David Gelernter:
     “[Generative Communication in Linda](http://cseweb.ucsd.edu/groups/csag/html/teaching/cse291s03/Readings/p80-gelernter.pdf),” *ACM Transactions on Programming Languages and Systems*
     (TOPLAS), volume 7, number 1, pages 80–112, January 1985.
-    [doi:10.1145/2363.2433](http://dx.doi.org/10.1145/2363.2433)
+    [doi:10.1145/2363.2433](https://dx.doi.org/10.1145/2363.2433)
 
 1.  Patrick Th. Eugster, Pascal A. Felber,
     Rachid Guerraoui, and Anne-Marie Kermarrec:
     “[The Many Faces of Publish/Subscribe](http://www.cs.ru.nl/~pieter/oss/manyfaces.pdf),”
     *ACM Computing Surveys*, volume 35, number 2, pages 114–131, June 2003.
-    [doi:10.1145/857076.857078](http://dx.doi.org/10.1145/857076.857078)
+    [doi:10.1145/857076.857078](https://dx.doi.org/10.1145/857076.857078)
 
 1.  Ben Stopford:
     “[Microservices in a Streaming World](https://www.infoq.com/presentations/microservices-streaming),” at *QCon London*, March 2016.
@@ -170,7 +170,7 @@ Chapter 12 References
     Protzenko, and Manuel Fähndrich:
     “[Global Sequence Protocol: A Robust Abstraction for Replicated Shared State](http://drops.dagstuhl.de/opus/volltexte/2015/5238/),” at *29th European Conference on Object-Oriented
     Programming* (ECOOP), July 2015.
-    [doi:10.4230/LIPIcs.ECOOP.2015.568](http://dx.doi.org/10.4230/LIPIcs.ECOOP.2015.568)
+    [doi:10.4230/LIPIcs.ECOOP.2015.568](https://dx.doi.org/10.4230/LIPIcs.ECOOP.2015.568)
 
 1.  Mark Soper:
     “[Clearing Up React Data Management Confusion with Flux, Redux, and Relay](https://medium.com/@marksoper/clearing-up-react-data-management-confusion-with-flux-redux-and-relay-aad504e63cae),” *medium.com*, December 3, 2015.
@@ -199,7 +199,7 @@ Chapter 12 References
 1.  Arthur J. Bernstein, Philip M. Lewis, and Shiyong Lu:
     “[Semantic Conditions for Correctness at Different Isolation Levels](http://db.cs.berkeley.edu/cs286/papers/isolation-icde2000.pdf),” at *16th International Conference on Data
     Engineering* (ICDE), February 2000.
-    [doi:10.1109/ICDE.2000.839387](http://dx.doi.org/10.1109/ICDE.2000.839387)
+    [doi:10.1109/ICDE.2000.839387](https://dx.doi.org/10.1109/ICDE.2000.839387)
 
 1.  Sudhir Jorwekar, Alan Fekete, Krithi Ramamritham, and
     S. Sudarshan: “[Automating the Detection of Snapshot Isolation Anomalies](http://www.vldb.org/conf/2007/papers/industrial/p1263-jorwekar.pdf),” at *33rd International Conference on Very
@@ -215,7 +215,7 @@ Chapter 12 References
 1.  Jerome H. Saltzer, David P. Reed, and David D. Clark:
     “[End-to-End Arguments in System Design](https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf),”
     *ACM Transactions on Computer Systems*, volume 2, number 4, pages 277–288, November 1984.
-    [doi:10.1145/357401.357402](http://dx.doi.org/10.1145/357401.357402)
+    [doi:10.1145/357401.357402](https://dx.doi.org/10.1145/357401.357402)
 
 1.  Peter Bailis, Alan Fekete, Michael J. Franklin, et al.:
     “[Coordination-Avoiding Database Systems](http://arxiv.org/pdf/1402.2237.pdf),”
@@ -227,7 +227,7 @@ Chapter 12 References
 1.  Douglas B Terry, Marvin M Theimer, Karin Petersen, et al.:
     “[Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](http://css.csail.mit.edu/6.824/2014/papers/bayou-conflicts.pdf),” at *15th ACM Symposium on Operating
     Systems Principles* (SOSP), pages 172–182, December 1995.
-    [doi:10.1145/224056.224070](http://dx.doi.org/10.1145/224056.224070)
+    [doi:10.1145/224056.224070](https://dx.doi.org/10.1145/224056.224070)
 
 1.  Jim Gray:
       “[The Transaction Concept: Virtues and Limitations](http://jimgray.azurewebsites.net/papers/thetransactionconcept.pdf),”
@@ -236,7 +236,7 @@ Chapter 12 References
 1.  Hector Garcia-Molina and Kenneth Salem:
       “[Sagas](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf),” at
       *ACM International Conference on Management of Data* (SIGMOD), May 1987.
-      [doi:10.1145/38713.38742](http://dx.doi.org/10.1145/38713.38742)
+      [doi:10.1145/38713.38742](https://dx.doi.org/10.1145/38713.38742)
 
 1.  Pat Helland:
       “[Memories, Guesses, and Apologies](https://web.archive.org/web/20160304020907/http://blogs.msdn.com/b/pathelland/archive/2007/05/15/memories-guesses-and-apologies.aspx),”
@@ -245,7 +245,7 @@ Chapter 12 References
 1.  Yoongu Kim, Ross Daly, Jeremie Kim, et al.:
     “[Flipping Bits in Memory Without Accessing Them: An Experimental Study of DRAM Disturbance Errors](https://users.ece.cmu.edu/~yoonguk/papers/kim-isca14.pdf),” at *41st Annual
     International Symposium on Computer Architecture* (ISCA), June 2014.
-    [doi:10.1145/2678373.2665726](http://dx.doi.org/10.1145/2678373.2665726)
+    [doi:10.1145/2678373.2665726](https://dx.doi.org/10.1145/2678373.2665726)
 
 1.  Mark Seaborn and Thomas Dullien:
     “[Exploiting the DRAM Rowhammer Bug to Gain Kernel Privileges](https://googleprojectzero.blogspot.co.uk/2015/03/exploiting-dram-rowhammer-bug-to-gain.html),” *googleprojectzero.blogspot.co.uk*, March 9,
@@ -287,17 +287,17 @@ Chapter 12 References
 
 1.  Ralph C. Merkle:
     “[A Digital Signature Based on a Conventional Encryption Function](https://people.eecs.berkeley.edu/~raluca/cs261-f15/readings/merkle.pdf),” at *CRYPTO '87*, August 1987.
-    [doi:10.1007/3-540-48184-2_32](http://dx.doi.org/10.1007/3-540-48184-2_32)
+    [doi:10.1007/3-540-48184-2_32](https://dx.doi.org/10.1007/3-540-48184-2_32)
 
 1.  Ben Laurie:
     “[Certificate Transparency](http://queue.acm.org/detail.cfm?id=2668154),” *ACM
     Queue*, volume 12, number 8, pages 10-19, August 2014.
-    [doi:10.1145/2668152.2668154](http://dx.doi.org/10.1145/2668152.2668154)
+    [doi:10.1145/2668152.2668154](https://dx.doi.org/10.1145/2668152.2668154)
 
 1.  Mark D. Ryan:
     “[Enhanced Certificate Transparency and End-to-End Encrypted Mail](https://www.ndss-symposium.org/wp-content/uploads/2017/09/12_2_1.pdf),”
     at *Network and Distributed System Security Symposium* (NDSS), February 2014.
-    [doi:10.14722/ndss.2014.23379](http://dx.doi.org/10.14722/ndss.2014.23379)
+    [doi:10.14722/ndss.2014.23379](https://dx.doi.org/10.14722/ndss.2014.23379)
 
 1.  “[ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics),”
     Association for Computing Machinery, *acm.org*, 2018.
@@ -314,7 +314,7 @@ Chapter 12 References
 
 1.  Logan Kugler:
     “[What Happens When Big Data Blunders?](http://cacm.acm.org/magazines/2016/6/202655-what-happens-when-big-data-blunders/fulltext),” *Communications of the ACM*, volume 59, number 6, pages
-15–16, June 2016. [doi:10.1145/2911975](http://dx.doi.org/10.1145/2911975)
+15–16, June 2016. [doi:10.1145/2911975](https://dx.doi.org/10.1145/2911975)
 
 1.  Bill Davidow:
     “[Welcome to Algorithmic Prison](http://www.theatlantic.com/technology/archive/2014/02/welcome-to-algorithmic-prison/283985/),” *theatlantic.com*, February 20, 2014.
@@ -377,7 +377,7 @@ Chapter 12 References
 1.  Shoshana Zuboff:
     “[Big Other: Surveillance Capitalism and the Prospects of an Information Civilization](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2594754),” *Journal of Information
     Technology*, volume 30, number 1, pages 75–89, April 2015.
-    [doi:10.1057/jit.2015.5](http://dx.doi.org/10.1057/jit.2015.5)
+    [doi:10.1057/jit.2015.5](https://dx.doi.org/10.1057/jit.2015.5)
 
 1.  Carina C. Zona:
     “[Consequences of an Insightful Algorithm](https://www.youtube.com/watch?v=YRI40A4tyWU),”
@@ -398,7 +398,7 @@ Chapter 12 References
 
 1.  Lena Ulbricht and Maximilian von Grafenstein:
     “[Big Data: Big Power Shifts?](http://policyreview.info/articles/analysis/big-data-big-power-shifts),” *Internet Policy Review*, volume 5, number 1, March 2016.
-    [doi:10.14763/2016.1.406](http://dx.doi.org/10.14763/2016.1.406)
+    [doi:10.14763/2016.1.406](https://dx.doi.org/10.14763/2016.1.406)
 
 1.  Ellen P. Goodman and Julia Powles:
     “[Facebook and Google: Most Powerful and Secretive Empires We've Ever Known](https://www.theguardian.com/technology/2016/sep/28/google-facebook-powerful-secretive-empire-transparency),” *theguardian.com*, September 28,
@@ -414,7 +414,7 @@ Chapter 12 References
 1.  Michiel Rhoen:
     “[Beyond Consent: Improving Data Protection Through Consumer Protection Law](http://policyreview.info/articles/analysis/beyond-consent-improving-data-protection-through-consumer-protection-law),” *Internet Policy
     Review*, volume 5, number 1, March 2016.
-    [doi:10.14763/2016.1.404](http://dx.doi.org/10.14763/2016.1.404)
+    [doi:10.14763/2016.1.404](https://dx.doi.org/10.14763/2016.1.404)
 
 1.  Jessica Leber:
     “[Your Data Footprint Is Affecting Your Life in Ways You Can’t Even Imagine](https://www.fastcoexist.com/3057514/your-data-footprint-is-affecting-your-life-in-ways-you-cant-even-imagine),” *fastcoexist.com*, March 15,
@@ -433,4 +433,3 @@ Chapter 12 References
 
 1.  Phillip Rogaway:
     “[The Moral Character of Cryptographic Work](http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf),” Cryptology ePrint 2015/1162, December 2015.
-

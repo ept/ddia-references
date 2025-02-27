@@ -14,7 +14,7 @@ Chapter 10 References
 1.  Shivnath Babu and Herodotos Herodotou:
     “[Massively Parallel Databases and MapReduce Systems](https://www.microsoft.com/en-us/research/wp-content/uploads/2013/11/db-mr-survey-final.pdf),”
     *Foundations and Trends in Databases*, volume 5, number 1, pages 1–104, November 2013.
-    [doi:10.1561/1900000036](http://dx.doi.org/10.1561/1900000036)
+    [doi:10.1561/1900000036](https://dx.doi.org/10.1561/1900000036)
 
 1.  David J. DeWitt and Michael Stonebraker:
     “[MapReduce: A Major Step Backwards](https://homes.cs.washington.edu/~billhowe/mapreduce_a_major_step_backwards.html),” originally published at *databasecolumn.vertica.com*, January 17, 2008.
@@ -72,11 +72,11 @@ Chapter 10 References
 1.  Sanjay Ghemawat, Howard Gobioff, and Shun-Tak
     Leung: “[The Google File System](http://research.google.com/archive/gfs-sosp2003.pdf),”
     at *19th ACM Symposium on Operating Systems Principles* (SOSP), October 2003.
-    [doi:10.1145/945445.945450](http://dx.doi.org/10.1145/945445.945450)
+    [doi:10.1145/945445.945450](https://dx.doi.org/10.1145/945445.945450)
 
 1.  Michael Ovsiannikov, Silvius Rus, Damian Reeves, et al.:
     “[The Quantcast File System](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p808-ovsiannikov.pdf),” *Proceedings of the VLDB Endowment*, volume 6, number 11, pages 1092–1101, August 2013.
-    [doi:10.14778/2536222.2536234](http://dx.doi.org/10.14778/2536222.2536234)
+    [doi:10.14778/2536222.2536234](https://dx.doi.org/10.14778/2536222.2536234)
 
 1.  “[OpenStack Swift 2.6.1 Developer Documentation](http://docs.openstack.org/developer/swift/),” OpenStack Foundation, *docs.openstack.org*, March 2016.
 
@@ -109,7 +109,7 @@ Chapter 10 References
 1.  Roshan Sumbaly, Jay Kreps, and Sam Shah:
     “[The 'Big Data' Ecosystem at LinkedIn](http://www.slideshare.net/s_shah/the-big-data-ecosystem-at-linkedin-23512853),” at *ACM International Conference on Management of Data*
     (SIGMOD), July 2013.
-    [doi:10.1145/2463676.2463707](http://dx.doi.org/10.1145/2463676.2463707)
+    [doi:10.1145/2463676.2463707](https://dx.doi.org/10.1145/2463676.2463707)
 
 1.  Alan F. Gates, Olga Natkovich, Shubham Chopra, et al.:
     “[Building a High-Level Dataflow System on Top of Map-Reduce: The Pig Experience](http://www.vldb.org/pvldb/vol2/vldb09-1074.pdf),”
@@ -117,7 +117,7 @@ Chapter 10 References
 
 1.  Ashish Thusoo, Joydeep Sen Sarma, Namit Jain, et al.:
     “[Hive – A Petabyte Scale Data Warehouse Using Hadoop](http://i.stanford.edu/~ragho/hive-icde2010.pdf),” at *26th IEEE International Conference on Data Engineering* (ICDE), March 2010.
-    [doi:10.1109/ICDE.2010.5447738](http://dx.doi.org/10.1109/ICDE.2010.5447738)
+    [doi:10.1109/ICDE.2010.5447738](https://dx.doi.org/10.1109/ICDE.2010.5447738)
 
 1.  “[Cascading 3.0 User Guide](http://docs.cascading.org/cascading/3.0/userguide/),” Concurrent, Inc., *docs.cascading.org*, January 2016.
 
@@ -126,7 +126,7 @@ Chapter 10 References
 1.  Craig Chambers, Ashish Raniwala, Frances
     Perry, et al.: “[FlumeJava: Easy, Efficient Data-Parallel Pipelines](https://research.google.com/pubs/archive/35650.pdf),” at *31st ACM SIGPLAN Conference on Programming Language
     Design and Implementation* (PLDI), June 2010.
-    [doi:10.1145/1806596.1806638](http://dx.doi.org/10.1145/1806596.1806638)
+    [doi:10.1145/1806596.1806638](https://dx.doi.org/10.1145/1806596.1806638)
 
 1.  Jay Kreps:
     “[Why Local State is a Fundamental Primitive in Stream Processing](https://www.oreilly.com/ideas/why-local-state-is-a-fundamental-primitive-in-stream-processing),” *oreilly.com*, July 31, 2014.
@@ -193,7 +193,7 @@ Chapter 10 References
 1.  David J. DeWitt and Jim N. Gray:
     “[Parallel Database Systems: The Future of High Performance Database Systems](http://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/dewittgray92.pdf),”
     *Communications of the ACM*, volume 35, number 6, pages 85–98, June 1992.
-    [doi:10.1145/129888.129894](http://dx.doi.org/10.1145/129888.129894)
+    [doi:10.1145/129888.129894](https://dx.doi.org/10.1145/129888.129894)
 
 1.  Jay Kreps:
     “[But the multi-tenancy thing is actually really really hard](https://twitter.com/jaykreps/status/528235702480142336),” tweetstorm, *twitter.com*, October 31, 2014.
@@ -201,7 +201,7 @@ Chapter 10 References
 1.  Jeffrey Cohen, Brian Dolan, Mark Dunlap, et al.:
     “[MAD Skills: New Analysis Practices for Big Data](http://www.vldb.org/pvldb/vol2/vldb09-219.pdf),”
     *Proceedings of the VLDB Endowment*, volume 2, number 2, pages 1481–1492, August 2009.
-    [doi:10.14778/1687553.1687576](http://dx.doi.org/10.14778/1687553.1687576)
+    [doi:10.14778/1687553.1687576](https://dx.doi.org/10.14778/1687553.1687576)
 
 1.  Ignacio
     Terrizzano, Peter Schwarz, Mary Roth, and John E. Colino:
@@ -217,11 +217,11 @@ Chapter 10 References
 
 1.  Vinod Kumar Vavilapalli, Arun C. Murthy, Chris Douglas, et al.:
     “[Apache Hadoop YARN: Yet Another Resource Negotiator](http://www.socc2013.org/home/program/a5-vavilapalli.pdf),” at *4th ACM Symposium on Cloud Computing* (SoCC), October 2013.
-    [doi:10.1145/2523616.2523633](http://dx.doi.org/10.1145/2523616.2523633)
+    [doi:10.1145/2523616.2523633](https://dx.doi.org/10.1145/2523616.2523633)
 
 1.  Abhishek Verma, Luis Pedrosa, Madhukar Korupolu, et al.:
     “[Large-Scale Cluster Management at Google with Borg](http://research.google.com/pubs/pub43438.html),” at *10th European Conference on Computer Systems* (EuroSys), April 2015.
-    [doi:10.1145/2741948.2741964](http://dx.doi.org/10.1145/2741948.2741964)
+    [doi:10.1145/2741948.2741964](https://dx.doi.org/10.1145/2741948.2741964)
 
 1.  Malte Schwarzkopf:
     “[The Evolution of Cluster Scheduler Architectures](https://web.archive.org/web/20201109052657/http://www.firmament.io/blog/scheduler-architectures.html),” *firmament.io*, March 9, 2016.
@@ -239,24 +239,24 @@ Chapter 10 References
 1.  Bikas Saha, Hitesh Shah, Siddharth Seth, et al.:
     “[Apache Tez: A Unifying Framework for Modeling and Building Data Processing Applications](http://home.cse.ust.hk/~weiwa/teaching/Fall15-COMP6611B/reading_list/Tez.pdf),” at *ACM
     International Conference on Management of Data* (SIGMOD), June 2015.
-    [doi:10.1145/2723372.2742790](http://dx.doi.org/10.1145/2723372.2742790)
+    [doi:10.1145/2723372.2742790](https://dx.doi.org/10.1145/2723372.2742790)
 
 1.  Kostas Tzoumas:
     “[Apache Flink: API, Runtime, and Project Roadmap](http://www.slideshare.net/KostasTzoumas/apache-flink-api-runtime-and-project-roadmap),” *slideshare.net*, January 14, 2015.
 
 1.  Alexander Alexandrov, Rico Bergmann, Stephan Ewen, et al.:
     “[The Stratosphere Platform for Big Data Analytics](https://ssc.io/pdf/2014-VLDBJ_Stratosphere_Overview.pdf),” *The VLDB Journal*, volume 23, number 6, pages 939–964, May 2014.
-    [doi:10.1007/s00778-014-0357-y](http://dx.doi.org/10.1007/s00778-014-0357-y)
+    [doi:10.1007/s00778-014-0357-y](https://dx.doi.org/10.1007/s00778-014-0357-y)
 
 1.  Michael Isard, Mihai Budiu, Yuan Yu, et al.:
     “[Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks](https://www.microsoft.com/en-us/research/publication/dryad-distributed-data-parallel-programs-from-sequential-building-blocks/),” at *European Conference on Computer
     Systems* (EuroSys), March 2007.
-    [doi:10.1145/1272996.1273005](http://dx.doi.org/10.1145/1272996.1273005)
+    [doi:10.1145/1272996.1273005](https://dx.doi.org/10.1145/1272996.1273005)
 
 1.  Daniel Warneke and Odej Kao:
     “[Nephele: Efficient Parallel Data Processing in the Cloud](https://stratosphere2.dima.tu-berlin.de/assets/papers/Nephele_09.pdf),” at *2nd Workshop on Many-Task Computing on Grids and
     Supercomputers* (MTAGS), November 2009.
-    [doi:10.1145/1646468.1646476](http://dx.doi.org/10.1145/1646468.1646476)
+    [doi:10.1145/1646468.1646476](https://dx.doi.org/10.1145/1646468.1646476)
 
 1.  Lawrence Page, Sergey Brin, Rajeev Motwani, and Terry Winograd:
     “[The PageRank Citation Ranking: Bringing Order to the Web](https://web.archive.org/web/20230219170930/http://ilpubs.stanford.edu:8090/422/),”
@@ -265,16 +265,16 @@ Chapter 10 References
 1.  Leslie G. Valiant:
     “[A Bridging Model for Parallel Computation](http://dl.acm.org/citation.cfm?id=79181),”
     *Communications of the ACM*, volume 33, number 8, pages 103–111, August 1990.
-    [doi:10.1145/79173.79181](http://dx.doi.org/10.1145/79173.79181)
+    [doi:10.1145/79173.79181](https://dx.doi.org/10.1145/79173.79181)
 
 1.  Stephan Ewen, Kostas Tzoumas, Moritz Kaufmann, and Volker Markl:
     “[Spinning Fast Iterative Data Flows](http://vldb.org/pvldb/vol5/p1268_stephanewen_vldb2012.pdf),” *Proceedings of the VLDB Endowment*, volume 5, number 11, pages 1268-1279, July 2012.
-    [doi:10.14778/2350229.2350245](http://dx.doi.org/10.14778/2350229.2350245)
+    [doi:10.14778/2350229.2350245](https://dx.doi.org/10.14778/2350229.2350245)
 
 1.  Grzegorz Malewicz, Matthew H.
     Austern, Aart J. C. Bik, et al.: “[Pregel: A System for Large-Scale Graph Processing](https://kowshik.github.io/JPregel/pregel_paper.pdf),” at *ACM International Conference on Management of
     Data* (SIGMOD), June 2010.
-    [doi:10.1145/1807167.1807184](http://dx.doi.org/10.1145/1807167.1807184)
+    [doi:10.1145/1807167.1807184](https://dx.doi.org/10.1145/1807167.1807184)
 
 1.  Frank McSherry, Michael Isard, and Derek G. Murray:
     “[Scalability! But at What COST?](http://www.frankmcsherry.org/assets/COST.pdf),” at
@@ -283,7 +283,7 @@ Chapter 10 References
 1.  Ionel Gog, Malte Schwarzkopf, Natacha Crooks, et al.:
     “[Musketeer: All for One, One for All in Data Processing Systems](http://www.cl.cam.ac.uk/research/srg/netos/camsas/pubs/eurosys15-musketeer.pdf),” at *10th European Conference on
     Computer Systems* (EuroSys), April 2015.
-    [doi:10.1145/2741948.2741968](http://dx.doi.org/10.1145/2741948.2741968)
+    [doi:10.1145/2741948.2741968](https://dx.doi.org/10.1145/2741948.2741968)
 
 1.  Aapo Kyrola, Guy Blelloch, and Carlos Guestrin:
     “[GraphChi: Large-Scale Graph Computation on Just a PC](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-126.pdf),” at *10th USENIX Symposium on Operating Systems
@@ -291,7 +291,7 @@ Chapter 10 References
 
 1.  Andrew Lenharth, Donald Nguyen, and Keshav Pingali:
     “[Parallel Graph Analytics](http://cacm.acm.org/magazines/2016/5/201591-parallel-graph-analytics/fulltext),” *Communications of the ACM*, volume 59, number 5, pages 78–87, May
-    2016. [doi:10.1145/2901919](http://dx.doi.org/10.1145/2901919)
+    2016. [doi:10.1145/2901919](https://dx.doi.org/10.1145/2901919)
 
 1.  Fabian Hüske:
     “[Peeking into Apache Flink's Engine Room](http://flink.apache.org/news/2015/03/13/peeking-into-Apache-Flinks-Engine-Room.html),” *flink.apache.org*, March 13, 2015.
@@ -302,7 +302,7 @@ Chapter 10 References
 
 1.  Michael Armbrust, Reynold S Xin, Cheng Lian, et al.:
     “[Spark SQL: Relational Data Processing in Spark](http://people.csail.mit.edu/matei/papers/2015/sigmod_spark_sql.pdf),” at *ACM International Conference on Management of Data* (SIGMOD), June 2015.
-    [doi:10.1145/2723372.2742797](http://dx.doi.org/10.1145/2723372.2742797)
+    [doi:10.1145/2723372.2742797](https://dx.doi.org/10.1145/2723372.2742797)
 
 1.  Daniel Blazevski:
     “[Planting Quadtrees for Apache Flink](https://blog.insightdatascience.com/planting-quadtrees-for-apache-flink-b396ebc80d35),” *insightdataengineering.com*, March 25, 2016.

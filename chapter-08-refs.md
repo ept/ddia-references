@@ -6,7 +6,7 @@ Chapter 8 References
 
 1.  Mark Cavage:
     “[There’s Just No Getting Around It: You’re Building a Distributed System](http://queue.acm.org/detail.cfm?id=2482856),” *ACM Queue*, volume 11, number 4, pages 80-89, April 2013.
-    [doi:10.1145/2466486.2482856](http://dx.doi.org/10.1145/2466486.2482856)
+    [doi:10.1145/2466486.2482856](https://dx.doi.org/10.1145/2466486.2482856)
 
 1.  Jay Kreps:
     “[Getting Real About Distributed System Reliability](http://blog.empathybox.com/post/19574936361/getting-real-about-distributed-system-reliability),” *blog.empathybox.com*, March 19, 2012.
@@ -28,7 +28,7 @@ Chapter 8 References
     “[The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines, Second Edition](https://web.archive.org/web/20140404113735/http://www.morganclaypool.com/doi/abs/10.2200/S00516ED2V01Y201306CAC024),”
     *Synthesis Lectures on Computer Architecture*, volume 8, number 3,
     Morgan & Claypool Publishers, July 2013.
-    [doi:10.2200/S00516ED2V01Y201306CAC024](http://dx.doi.org/10.2200/S00516ED2V01Y201306CAC024),
+    [doi:10.2200/S00516ED2V01Y201306CAC024](https://dx.doi.org/10.2200/S00516ED2V01Y201306CAC024),
     ISBN: 978-1-627-05010-4
 
 1.  David Fiala, Frank Mueller, Christian Engelmann, et al.:
@@ -39,7 +39,7 @@ Chapter 8 References
 1.  Arjun Singh, Joon Ong, Amit Agarwal, et al.:
       “[Jupiter Rising: A Decade of Clos Topologies and Centralized Control in Google’s Datacenter Network](http://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p183.pdf),” at
       *Annual Conference of the ACM Special Interest Group on Data Communication* (SIGCOMM), August 2015.
-      [doi:10.1145/2785956.2787508](http://dx.doi.org/10.1145/2785956.2787508)
+      [doi:10.1145/2785956.2787508](https://dx.doi.org/10.1145/2785956.2787508)
 
 1.  Glenn K. Lockwood:
       “[Hadoop's Uncomfortable Fit in HPC](http://glennklockwood.blogspot.co.uk/2014/05/hadoops-uncomfortable-fit-in-hpc.html),” *glennklockwood.blogspot.co.uk*, May 16, 2014.
@@ -60,17 +60,17 @@ Chapter 8 References
 1.  Peter Bailis and Kyle Kingsbury:
     “[The Network Is Reliable](https://queue.acm.org/detail.cfm?id=2655736),”
     *ACM Queue*, volume 12, number 7, pages 48-55, July 2014.
-    [doi:10.1145/2639988.2639988](http://dx.doi.org/10.1145/2639988.2639988)
+    [doi:10.1145/2639988.2639988](https://dx.doi.org/10.1145/2639988.2639988)
 
 1.  Joshua B. Leners, Trinabh Gupta, Marcos K. Aguilera, and Michael Walfish:
     “[Taming Uncertainty in Distributed Systems with Help from the Network](http://www.cs.nyu.edu/~mwalfish/papers/albatross-eurosys15.pdf),” at *10th European Conference on
     Computer Systems* (EuroSys), April 2015.
-    [doi:10.1145/2741948.2741976](http://dx.doi.org/10.1145/2741948.2741976)
+    [doi:10.1145/2741948.2741976](https://dx.doi.org/10.1145/2741948.2741976)
 
 1.  Phillipa Gill, Navendu Jain, and Nachiappan Nagappan:
     “[Understanding Network Failures in Data Centers: Measurement, Analysis, and Implications](http://conferences.sigcomm.org/sigcomm/2011/papers/sigcomm/p350.pdf),” at
     *ACM SIGCOMM Conference*, August 2011.
-    [doi:10.1145/2018436.2018477](http://dx.doi.org/10.1145/2018436.2018477)
+    [doi:10.1145/2018436.2018477](https://dx.doi.org/10.1145/2018436.2018477)
 
 1.  Mark Imbriaco:
     “[Downtime Last Saturday](https://github.com/blog/1364-downtime-last-saturday),”
@@ -99,7 +99,7 @@ Chapter 8 References
 1.  Jerome H. Saltzer, David P. Reed, and David D. Clark:
     “[End-To-End Arguments in System Design](https://groups.csail.mit.edu/ana/Publications/PubPDFs/End-to-End%20Arguments%20in%20System%20Design.pdf),”
     *ACM Transactions on Computer Systems*, volume 2, number 4, pages 277–288, November 1984.
-    [doi:10.1145/357401.357402](http://dx.doi.org/10.1145/357401.357402)
+    [doi:10.1145/357401.357402](https://dx.doi.org/10.1145/357401.357402)
 
 1.  Matthew P. Grosvenor, Malte Schwarzkopf, Ionel Gog, et al.:
     “[Queues Don’t Matter When You Can JUMP Them!](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-grosvenor_update.pdf),” at *12th USENIX Symposium on Networked
@@ -108,12 +108,12 @@ Chapter 8 References
 1.  Guohui Wang and T. S. Eugene Ng:
       “[The Impact of Virtualization on Network Performance of Amazon EC2 Data Center](http://www.cs.rice.edu/~eugeneng/papers/INFOCOM10-ec2.pdf),” at *29th IEEE
       International Conference on Computer Communications* (INFOCOM), March 2010.
-      [doi:10.1109/INFCOM.2010.5461931](http://dx.doi.org/10.1109/INFCOM.2010.5461931)
+      [doi:10.1109/INFCOM.2010.5461931](https://dx.doi.org/10.1109/INFCOM.2010.5461931)
 
 1.  Van Jacobson:
       “[Congestion Avoidance and Control](http://www.cs.usask.ca/ftp/pub/discus/seminars2002-2003/p314-jacobson.pdf),” at *ACM Symposium on Communications Architectures and
       Protocols* (SIGCOMM), August 1988.
-      [doi:10.1145/52324.52356](http://dx.doi.org/10.1145/52324.52356)
+      [doi:10.1145/52324.52356](https://dx.doi.org/10.1145/52324.52356)
 
 1.  Brandon Philips:
     “[etcd: Distributed Locking and Service Discovery](https://www.youtube.com/watch?v=HJIjTTHWYnE),” at *Strange Loop*, September 2014.
@@ -144,7 +144,7 @@ Chapter 8 References
     “[End-to-End Congestion Control for InfiniBand](http://www.hpl.hp.com/techreports/2002/HPL-2002-359.pdf),” at *22nd Annual Joint Conference of the IEEE Computer and
     Communications Societies* (INFOCOM), April 2003. Also published by HP Laboratories Palo
     Alto, Tech Report HPL-2002-359.
-    [doi:10.1109/INFCOM.2003.1208949](http://dx.doi.org/10.1109/INFCOM.2003.1208949)
+    [doi:10.1109/INFCOM.2003.1208949](https://dx.doi.org/10.1109/INFCOM.2003.1208949)
 
 1.  Ulrich Windl, David Dalton, Marc Martinec, and Dale R. Worley:
     “[The NTP FAQ and HOWTO](http://www.ntp.org/ntpfaq/NTP-a-faq.htm),” *ntp.org*,
@@ -167,7 +167,7 @@ Chapter 8 References
 1.  M. Caporaloni and R. Ambrosini:
       “[How Closely Can a Personal Computer Clock Track the UTC Timescale Via the Internet?](https://iopscience.iop.org/0143-0807/23/4/103/),” *European Journal of
       Physics*, volume 23, number 4, pages L17–L21, June 2012.
-      [doi:10.1088/0143-0807/23/4/103](http://dx.doi.org/10.1088/0143-0807/23/4/103)
+      [doi:10.1088/0143-0807/23/4/103](https://dx.doi.org/10.1088/0143-0807/23/4/103)
 
 1.  Nelson Minar:
       “[A Survey of the NTP Network](http://alumni.media.mit.edu/~nelson/research/ntp-survey99/),”
@@ -178,7 +178,7 @@ Chapter 8 References
 
 1.  Poul-Henning Kamp:
       “[The One-Second War (What Time Will You Die?)](http://queue.acm.org/detail.cfm?id=1967009),” *ACM Queue*, volume 9, number 4, pages 44–48, April 2011.
-      [doi:10.1145/1966989.1967009](http://dx.doi.org/10.1145/1966989.1967009)
+      [doi:10.1145/1966989.1967009](https://dx.doi.org/10.1145/1966989.1967009)
 
 1.  Nelson Minar:
       “[Leap Second Crashes Half the Internet](http://www.somebits.com/weblog/tech/bad/leap-second-2012.html),” *somebits.com*, July 3, 2012.
@@ -192,7 +192,7 @@ Chapter 8 References
 1.  Darryl Veitch and Kanthaiah Vijayalayan:
       “[Network Timing and the 2015 Leap Second](https://tklab.feit.uts.edu.au/~darryl/Publications/LeapSecond_camera.pdf),” at *17th International Conference on Passive and Active
       Measurement* (PAM), April 2016.
-      [doi:10.1007/978-3-319-30505-9_29](http://dx.doi.org/10.1007/978-3-319-30505-9_29)
+      [doi:10.1007/978-3-319-30505-9_29](https://dx.doi.org/10.1007/978-3-319-30505-9_29)
 
 1.  “[Timekeeping in VMware Virtual Machines](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/techpaper/Timekeeping-In-VirtualMachines.pdf),”
     Information Guide, VMware, Inc., December 2011.
@@ -217,7 +217,7 @@ Chapter 8 References
 1.  Leslie Lamport:
     “[Time, Clocks, and the Ordering of Events in a Distributed System](https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/),”
     *Communications of the ACM*, volume 21, number 7, pages 558–565, July 1978.
-    [doi:10.1145/359545.359563](http://dx.doi.org/10.1145/359545.359563)
+    [doi:10.1145/359545.359563](https://dx.doi.org/10.1145/359545.359563)
 
 1.  Sandeep Kulkarni, Murat Demirbas, Deepak Madeppa, et al.:
     “[Logical Physical Clocks and Consistent Snapshots in Globally Distributed Databases](http://www.cse.buffalo.edu/tech-reports/2014-04.pdf),” State University of New York at
@@ -225,14 +225,14 @@ Chapter 8 References
 
 1.  Justin Sheehy:
     “[There Is No Now: Problems With Simultaneity in Distributed Systems](https://queue.acm.org/detail.cfm?id=2745385),” *ACM Queue*, volume 13, number 3, pages 36–41, March 2015.
-    [doi:10.1145/2733108](http://dx.doi.org/10.1145/2733108)
+    [doi:10.1145/2733108](https://dx.doi.org/10.1145/2733108)
 
 1.  Murat Demirbas:
     “[Spanner: Google's Globally-Distributed Database](http://muratbuffalo.blogspot.co.uk/2013/07/spanner-googles-globally-distributed_4.html),” *muratbuffalo.blogspot.co.uk*, July 4, 2013.
 
 1.  Dahlia Malkhi and Jean-Philippe Martin:
     “[Spanner's Concurrency Control](http://www.cs.cornell.edu/~ie53/publications/DC-col51-Sep13.pdf),” *ACM SIGACT News*, volume 44, number 3, pages 73–77, September 2013.
-    [doi:10.1145/2527748.2527767](http://dx.doi.org/10.1145/2527748.2527767)
+    [doi:10.1145/2527748.2527767](https://dx.doi.org/10.1145/2527748.2527767)
 
 1.  Manuel Bravo, Nuno Diegues, Jingna Zeng, et al.:
     “[On the Use of Clocks to Enforce Consistency in the Cloud](http://sites.computer.org/debull/A15mar/p18.pdf),” *IEEE Data Engineering Bulletin*,
@@ -244,7 +244,7 @@ Chapter 8 References
 1.  Cary G. Gray and David R. Cheriton:
     “[Leases: An Efficient Fault-Tolerant Mechanism for Distributed File Cache Consistency](https://web.archive.org/web/20230325205928/http://web.stanford.edu/class/cs240/readings/89-leases.pdf),” at
     *12th ACM Symposium on Operating Systems Principles* (SOSP), December 1989.
-    [doi:10.1145/74850.74870](http://dx.doi.org/10.1145/74850.74870)
+    [doi:10.1145/74850.74870](https://dx.doi.org/10.1145/74850.74870)
 
 1.  Todd Lipcon:
       “[Avoiding Full GCs in Apache HBase with MemStore-Local Allocation Buffers: Part 1](https://web.archive.org/web/20121101040711/http://blog.cloudera.com/blog/2011/02/avoiding-full-gcs-in-hbase-with-memstore-local-allocation-buffers-part-1/),”
@@ -297,7 +297,7 @@ Chapter 8 References
 1.  Leslie Lamport, Robert Shostak, and Marshall Pease:
     “[The Byzantine Generals Problem](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/),”
     *ACM Transactions on Programming Languages and Systems* (TOPLAS), volume 4, number 3, pages 382–401, July 1982.
-    [doi:10.1145/357172.357176](http://dx.doi.org/10.1145/357172.357176)
+    [doi:10.1145/357172.357176](https://dx.doi.org/10.1145/357172.357176)
 
 1.  Jim N. Gray:
     “[Notes on Data Base Operating Systems](http://jimgray.azurewebsites.net/papers/dbos.pdf),” in *Operating Systems: An Advanced Course*, Lecture
@@ -333,23 +333,23 @@ Chapter 8 References
 1.  Jonathan Stone and Craig Partridge:
       “[When the CRC and TCP Checksum Disagree](https://web.archive.org/web/20220818235232/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.27.7611&rep=rep1&type=pdf),” at *ACM Conference on Applications,
       Technologies, Architectures, and Protocols for Computer Communication* (SIGCOMM), August 2000.
-      [doi:10.1145/347059.347561](http://dx.doi.org/10.1145/347059.347561)
+      [doi:10.1145/347059.347561](https://dx.doi.org/10.1145/347059.347561)
 
 1.  Evan Jones:
       “[How Both TCP and Ethernet Checksums Fail](http://www.evanjones.ca/tcp-and-ethernet-checksums-fail.html),” *evanjones.ca*, October 5, 2015.
 
 1.  Cynthia Dwork, Nancy Lynch, and Larry Stockmeyer:
       “[Consensus in the Presence of Partial Synchrony](https://dl.acm.org/doi/10.1145/42282.42283),” *Journal of the ACM*, volume 35, number 2, pages 288–323,
-      April 1988. [doi:10.1145/42282.42283](http://dx.doi.org/10.1145/42282.42283)
+      April 1988. [doi:10.1145/42282.42283](https://dx.doi.org/10.1145/42282.42283)
 
 1.  Peter Bailis and Ali Ghodsi:
     “[Eventual Consistency Today: Limitations, Extensions, and Beyond](http://queue.acm.org/detail.cfm?id=2462076),” *ACM Queue*, volume 11, number 3, pages 55-63, March 2013.
-    [doi:10.1145/2460276.2462076](http://dx.doi.org/10.1145/2460276.2462076)
+    [doi:10.1145/2460276.2462076](https://dx.doi.org/10.1145/2460276.2462076)
 
 1.  Bowen Alpern and Fred B. Schneider:
     “[Defining Liveness](https://www.cs.cornell.edu/fbs/publications/DefLiveness.pdf),”
     *Information Processing Letters*, volume 21, number 4, pages 181–185, October 1985.
-    [doi:10.1016/0020-0190(85)90056-0](http://dx.doi.org/10.1016/0020-0190(85)90056-0)
+    [doi:10.1016/0020-0190(85)90056-0](https://dx.doi.org/10.1016/0020-0190(85)90056-0)
 
 1.  Flavio P. Junqueira:
     “[Dude, Where’s My Metadata?](https://web.archive.org/web/20230604215314/https://fpj.systems/2015/05/28/dude-wheres-my-metadata/),”
@@ -365,10 +365,9 @@ Chapter 8 References
     Leesatapornwongsa, et al.:
     “[Limplock: Understanding the Impact of Limpware on Scale-out Cloud Systems](http://ucare.cs.uchicago.edu/pdf/socc13-limplock.pdf),” at *4th ACM Symposium on Cloud Computing*
     (SoCC), October 2013.
-    [doi:10.1145/2523616.2523627](http://dx.doi.org/10.1145/2523616.2523627)
+    [doi:10.1145/2523616.2523627](https://dx.doi.org/10.1145/2523616.2523627)
 
 1.  Frank McSherry, Michael Isard, and Derek G. Murray:
     “[Scalability! But at What COST?](http://www.frankmcsherry.org/assets/COST.pdf),”
     at *15th USENIX Workshop on Hot Topics in Operating Systems* (HotOS),
     May 2015.
-

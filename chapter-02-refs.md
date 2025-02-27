@@ -7,7 +7,7 @@ Chapter 2 References
 1.  Edgar F. Codd:
     “[A Relational Model of Data for Large Shared Data Banks](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf),” *Communications of the ACM*, volume 13, number
     6, pages 377–387, June 1970.
-    [doi:10.1145/362384.362685](http://dx.doi.org/10.1145/362384.362685)
+    [doi:10.1145/362384.362685](https://dx.doi.org/10.1145/362384.362685)
 
 1.  Michael Stonebraker and Joseph M. Hellerstein:
     “[What Goes Around Comes Around](http://mitpress2.mit.edu/books/chapters/0262693143chapm1.pdf),”
@@ -61,12 +61,12 @@ Chapter 2 References
 1.  Charles W. Bachman:
     “[The Programmer as Navigator](http://dl.acm.org/citation.cfm?id=362534),”
     *Communications of the ACM*, volume 16, number 11, pages 653–658, November 1973.
-    [doi:10.1145/355611.362534](http://dx.doi.org/10.1145/355611.362534)
+    [doi:10.1145/355611.362534](https://dx.doi.org/10.1145/355611.362534)
 
 1.  Joseph M. Hellerstein, Michael Stonebraker, and James Hamilton:
     “[Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf),”
     *Foundations and Trends in Databases*, volume 1, number 2, pages 141–259, November 2007.
-    [doi:10.1561/1900000002](http://dx.doi.org/10.1561/1900000002)
+    [doi:10.1561/1900000002](https://dx.doi.org/10.1561/1900000002)
 
 1.  Sandeep Parikh and Kelly Stirman:
     “[Schema Design for Time Series Data in MongoDB](http://blog.mongodb.org/post/65517193370/schema-design-for-time-series-data-in-mongodb),” *blog.mongodb.org*, October 30, 2013.
@@ -157,12 +157,12 @@ Chapter 2 References
 1.  Todd J. Green, Shan Shan Huang, Boon Thau Loo, and Wenchao Zhou:
     “[Datalog and Recursive Query Processing](http://blogs.evergreen.edu/sosw/files/2014/04/Green-Vol5-DBS-017.pdf),” *Foundations and Trends in Databases*,
     volume 5, number 2, pages 105–195, November 2013.
-    [doi:10.1561/1900000017](http://dx.doi.org/10.1561/1900000017)
+    [doi:10.1561/1900000017](https://dx.doi.org/10.1561/1900000017)
 
 1.  Stefano Ceri, Georg Gottlob, and Letizia Tanca:
     “[What You Always Wanted to Know About Datalog (And Never Dared to Ask)](https://www.researchgate.net/profile/Letizia_Tanca/publication/3296132_What_you_always_wanted_to_know_about_Datalog_and_never_dared_to_ask/links/0fcfd50ca2d20473ca000000.pdf),” *IEEE
     Transactions on Knowledge and Data Engineering*, volume 1, number 1, pages 146–166, March 1989.
-    [doi:10.1109/69.43410](http://dx.doi.org/10.1109/69.43410)
+    [doi:10.1109/69.43410](https://dx.doi.org/10.1109/69.43410)
 
 1.  Serge Abiteboul, Richard Hull, and Victor Vianu:
     [*Foundations of Databases*](http://webdam.inria.fr/Alice/). Addison-Wesley, 1995.
@@ -175,9 +175,8 @@ Chapter 2 References
       Ilene Karsch-Mizrachi, David J. Lipman, et al.:
       “[GenBank](https://academic.oup.com/nar/article/36/suppl_1/D25/2507746),”
       *Nucleic Acids Research*, volume 36, Database issue, pages D25–D30, December 2007.
-      [doi:10.1093/nar/gkm929](http://dx.doi.org/10.1093/nar/gkm929)
+      [doi:10.1093/nar/gkm929](https://dx.doi.org/10.1093/nar/gkm929)
 
 1.  Fons Rademakers:
       “[ROOT for Big Data Analysis](https://indico.cern.ch/event/246453/contributions/1566610/attachments/423154/587535/ROOT-BigData-Analysis-London-2013.pdf),” at *Workshop on the Future of Big Data Management*,
       London, UK, June 2013.
-

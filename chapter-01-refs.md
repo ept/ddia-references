@@ -33,7 +33,7 @@ Chapter 1 References
 
 1.  Haryadi S. Gunawi, Mingzhe Hao, Tanakorn
     Leesatapornwongsa, et al.: “[What Bugs Live in the Cloud?](http://ucare.cs.uchicago.edu/pdf/socc14-cbs.pdf),” at *5th ACM Symposium on Cloud Computing* (SoCC), November 2014.
-    [doi:10.1145/2670979.2670986](http://dx.doi.org/10.1145/2670979.2670986)
+    [doi:10.1145/2670979.2670986](https://dx.doi.org/10.1145/2670979.2670986)
 
 1.  Nelson Minar:
       “[Leap Second Crashes Half   the Internet](http://www.somebits.com/weblog/tech/bad/leap-second-2012.html),” *somebits.com*, July 3, 2012.
@@ -88,7 +88,7 @@ Chapter 1 References
 1.  Jeffrey Dean and Luiz André Barroso:
     “[The Tail at Scale](http://cacm.acm.org/magazines/2013/2/160173-the-tail-at-scale/fulltext),”
     *Communications of the ACM*, volume 56, number 2, pages 74–80, February 2013.
-    [doi:10.1145/2408776.2408794](http://dx.doi.org/10.1145/2408776.2408794)
+    [doi:10.1145/2408776.2408794](https://dx.doi.org/10.1145/2408776.2408794)
 
 1.  Graham Cormode, Vladislav
     Shkapenyuk, Divesh Srivastava, and Bojian Xu:
@@ -129,5 +129,4 @@ Chapter 1 References
     “[Analyzing Software Evolvability](http://www.es.mdh.se/pdf_publications/1251.pdf),”
     at *32nd Annual IEEE International Computer Software and Applications Conference*
     (COMPSAC), July 2008.
-    [doi:10.1109/COMPSAC.2008.50](http://dx.doi.org/10.1109/COMPSAC.2008.50)
-
+    [doi:10.1109/COMPSAC.2008.50](https://dx.doi.org/10.1109/COMPSAC.2008.50)
