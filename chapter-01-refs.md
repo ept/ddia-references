@@ -118,7 +118,7 @@ Chapter 1 References
     edition, Addison-Wesley, 1995. ISBN: 978-0-201-83595-3
 
 1.  Ben Moseley and Peter Marks:
-    “[Out of the Tar Pit](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.93.8928),”
+    “[Out of the Tar Pit](https://curtclifton.net/papers/MoseleyMarks06a.pdf),”
     at *BCS Software Practice Advancement* (SPA), 2006.
 
 1.  Rich Hickey:
