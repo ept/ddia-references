@@ -20,9 +20,9 @@ Chapter 3 References
       September 2010.
 
 1.  Goetz Graefe:
-      “[Modern B-Tree Techniques](https://w6113.github.io/files/papers/btreesurvey-graefe.pdf),”
-      *Foundations and Trends in Databases*, volume 3, number 4, pages 203–402, August 2011.
-      [doi:10.1561/1900000028](http://dx.doi.org/10.1561/1900000028)
+    “[Modern B-Tree Techniques](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=0b19f413ffb5bc68b43f3bd05a97c282a7c6d6ab),”
+    *Foundations and Trends in Databases*, volume 3, number 4, pages 203–402, August 2011.
+    [doi:10.1561/1900000028](http://dx.doi.org/10.1561/1900000028)
 
 1.  Jeffrey Dean and Sanjay Ghemawat:
     “[LevelDB Implementation Notes](https://github.com/google/leveldb/blob/master/doc/impl.md),”
@@ -71,7 +71,7 @@ Chapter 3 References
     Laboratory, report no. 20, July 1970.
 
 1.  Douglas Comer:
-    “[The Ubiquitous B-Tree](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.96.6637&rep=rep1&type=pdf),” *ACM Computing Surveys*, volume 11, number 2, pages 121–137, June 1979.
+    “[The Ubiquitous B-Tree](https://carlosproal.com/ir/papers/p121-comer.pdf),” *ACM Computing Surveys*, volume 11, number 2, pages 121–137, June 1979.
     [doi:10.1145/356770.356776](http://dx.doi.org/10.1145/356770.356776)
 
 1.  Emmanuel Goossaert:
@@ -100,7 +100,7 @@ Chapter 3 References
     *percona.com*, August 4, 2006.
 
 1.  Tomas Vondra:
-    “[On the Impact of Full-Page Writes](http://blog.2ndquadrant.com/on-the-impact-of-full-page-writes/),” *blog.2ndquadrant.com*, November 23, 2016.
+    “[On the Impact of Full-Page Writes](https://www.enterprisedb.com/blog/impact-full-page-writes),” *blog.2ndquadrant.com*, November 23, 2016.
 
 1.  Mark Callaghan:
     “[The Advantages of an LSM vs a B-Tree](http://smalldatum.blogspot.co.uk/2016/01/summary-of-advantages-of-lsm-vs-b-tree.html),” *smalldatum.blogspot.co.uk*, January 19, 2016.
@@ -157,7 +157,7 @@ Chapter 3 References
     Cambridge University Press, 2008. ISBN: 978-0-521-86571-5, available online at *nlp.stanford.edu/IR-book*
 
 1.  Michael Stonebraker, Samuel Madden, Daniel J. Abadi, et al.:
-    “[The End of an Architectural Era (It’s Time for a Complete Rewrite)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.137.3697&rep=rep1&type=pdf),” at
+    “[The End of an Architectural Era (It’s Time for a Complete Rewrite)](http://nms.csail.mit.edu/~stavros/pubs/hstore.pdf),” at
     *33rd International Conference on Very Large Data Bases* (VLDB), September 2007.
 
 1.  “[VoltDB Technical Overview White Paper](https://www.voltdb.com/files/voltdb-technical-overview/),” VoltDB, 2014.
