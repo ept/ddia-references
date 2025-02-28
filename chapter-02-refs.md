@@ -99,7 +99,7 @@ Chapter 2 References
     October 2012.
 
 1.  Donald K. Burleson:
-    “[Reduce I/O with Oracle Cluster Tables](http://www.dba-oracle.com/oracle_tip_hash_index_cluster_table.htm),” *dba-oracle.com*.
+    “[Reduce I/O with Oracle Cluster Tables](https://web.archive.org/web/20231207233228/http://www.dba-oracle.com/oracle_tip_hash_index_cluster_table.htm),” *dba-oracle.com*.
 
 1.  Fay Chang, Jeffrey Dean, Sanjay Ghemawat, et al.:
     “[Bigtable: A Distributed Storage System for Structured Data](https://research.google/pubs/pub27898/),” at *7th USENIX Symposium on Operating System Design and
