@@ -435,7 +435,7 @@ Chapter 9 References
     [doi:10.4230/LIPIcs.OPODIS.2016.25](http://dx.doi.org/10.4230/LIPIcs.OPODIS.2016.25)
 
 1.  Heidi Howard and Jon Crowcroft:
-    “[Coracle: Evaluating Consensus at the Internet Edge](http://www.sigcomm.org/sites/default/files/ccr/papers/2015/August/2829988-2790010.pdf),”
+    “[Coracle: Evaluating Consensus at the Internet Edge](https://web.archive.org/web/20220201190652/https://www.sigcomm.org/sites/default/files/ccr/papers/2015/August/2829988-2790010.pdf),”
     at *Annual Conference of the ACM Special Interest Group on Data Communication* (SIGCOMM), August 2015.
     [doi:10.1145/2829988.2790010](http://dx.doi.org/10.1145/2829988.2790010)
 
