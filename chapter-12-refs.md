@@ -78,7 +78,7 @@ Chapter 12 References
       [doi:10.1145/2814710.2814713](http://dx.doi.org/10.1145/2814710.2814713)
 
 1.  Patrycja Dybka:
-      “[Foreign   Data Wrappers for PostgreSQL](http://www.vertabelo.com/blog/technical-articles/foreign-data-wrappers-for-postgresql),” *vertabelo.com*, March 24, 2015.
+    “[Foreign Data Wrappers for PostgreSQL](https://web.archive.org/web/20221003115732/https://www.vertabelo.com/blog/foreign-data-wrappers-for-postgresql/),” *vertabelo.com*, March 24, 2015.
 
 1.  David B. Lomet, Alan Fekete, Gerhard Weikum, and Mike Zwilling:
       “[Unbundling   Transaction Services in the Cloud](https://www.microsoft.com/en-us/research/publication/unbundling-transaction-services-in-the-cloud/),” at *4th Biennial Conference on Innovative Data Systems
@@ -343,7 +343,7 @@ Chapter 12 References
     “[European Union Regulations on Algorithmic Decision-Making and a ‘Right to Explanation’](https://arxiv.org/abs/1606.08813),” *arXiv:1606.08813*, August 31,
     2016.
 
-1.  “[A Review of the Data Broker Industry: Collection, Use, and Sale of Consumer Data for Marketing Purposes](http://educationnewyork.com/files/rockefeller_databroker.pdf),”
+1.  “[A Review of the Data Broker Industry: Collection, Use, and Sale of Consumer Data for Marketing Purposes](https://web.archive.org/web/20240619042302/http://educationnewyork.com/files/rockefeller_databroker.pdf),”
     Staff Report, *United States Senate Committee on Commerce, Science, and Transportation*, *commerce.senate.gov*, December 2013.
 
 1.  Olivia Solon:
