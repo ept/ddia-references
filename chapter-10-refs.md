@@ -216,7 +216,7 @@ Chapter 10 References
     at *Strata+Hadoop World*, February 2015.
 
 1.  Vinod Kumar Vavilapalli, Arun C. Murthy, Chris Douglas, et al.:
-    “[Apache Hadoop YARN: Yet Another Resource Negotiator](http://www.socc2013.org/home/program/a5-vavilapalli.pdf),” at *4th ACM Symposium on Cloud Computing* (SoCC), October 2013.
+    “[Apache Hadoop YARN: Yet Another Resource Negotiator](https://www.cs.cmu.edu/~garth/15719/papers/yarn.pdf),” at *4th ACM Symposium on Cloud Computing* (SoCC), October 2013.
     [doi:10.1145/2523616.2523633](http://dx.doi.org/10.1145/2523616.2523633)
 
 1.  Abhishek Verma, Luis Pedrosa, Madhukar Korupolu, et al.:
