@@ -82,7 +82,7 @@ Chapter 6 References
     “[Reroute API Explained](https://web.archive.org/web/20190706215750/http://elasticsearchserverbook.com/reroute-api-explained/),”
     *elasticsearchserverbook.com*, September 30, 2013.
 
-1.  “[Project Voldemort Documentation](http://www.project-voldemort.com/voldemort/),” *project-voldemort.com*.
+1.  “[Project Voldemort Documentation](https://web.archive.org/web/20250107145644/http://www.project-voldemort.com/voldemort/),” *project-voldemort.com*.
 
 1.  Enis Soztutar:
     “[Apache HBase Region Splitting and Merging](http://hortonworks.com/blog/apache-hbase-region-splitting-and-merging/),” *hortonworks.com*, February 1, 2013.

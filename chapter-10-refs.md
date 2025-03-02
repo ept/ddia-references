@@ -119,7 +119,7 @@ Chapter 10 References
     “[Hive – A Petabyte Scale Data Warehouse Using Hadoop](http://i.stanford.edu/~ragho/hive-icde2010.pdf),” at *26th IEEE International Conference on Data Engineering* (ICDE), March 2010.
     [doi:10.1109/ICDE.2010.5447738](http://dx.doi.org/10.1109/ICDE.2010.5447738)
 
-1.  “[Cascading 3.0 User Guide](http://docs.cascading.org/cascading/3.0/userguide/),” Concurrent, Inc., *docs.cascading.org*, January 2016.
+1.  “[Cascading 3.0 User Guide](https://web.archive.org/web/20231206195311/http://docs.cascading.org/cascading/3.0/userguide/),” Concurrent, Inc., *docs.cascading.org*, January 2016.
 
 1.  “[Apache Crunch User Guide](https://crunch.apache.org/user-guide.html),” Apache Software Foundation, *crunch.apache.org*.
 
@@ -216,7 +216,7 @@ Chapter 10 References
     at *Strata+Hadoop World*, February 2015.
 
 1.  Vinod Kumar Vavilapalli, Arun C. Murthy, Chris Douglas, et al.:
-    “[Apache Hadoop YARN: Yet Another Resource Negotiator](http://www.socc2013.org/home/program/a5-vavilapalli.pdf),” at *4th ACM Symposium on Cloud Computing* (SoCC), October 2013.
+    “[Apache Hadoop YARN: Yet Another Resource Negotiator](https://www.cs.cmu.edu/~garth/15719/papers/yarn.pdf),” at *4th ACM Symposium on Cloud Computing* (SoCC), October 2013.
     [doi:10.1145/2523616.2523633](http://dx.doi.org/10.1145/2523616.2523633)
 
 1.  Abhishek Verma, Luis Pedrosa, Madhukar Korupolu, et al.:
