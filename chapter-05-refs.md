@@ -54,8 +54,8 @@ Chapter 5 References
 1.  Amit Kapila:
     “[WAL Internals of PostgreSQL](http://www.pgcon.org/2012/schedule/attachments/258_212_Internals%20Of%20PostgreSQL%20Wal.pdf),” at *PostgreSQL Conference* (PGCon), May 2012.
 
-1.  [*MySQL Internals Manual*](http://dev.mysql.com/doc/internals/en/index.html).
-    Oracle, 2014.
+1.  [*MySQL Documentation*](https://dev.mysql.com/doc/refman/en/binary-log.html).
+    Oracle, 2025.
 
 1.  Yogeshwer Sharma, Philippe Ajoux, Petchean Ang, et al.:
     “[Wormhole: Reliable Pub-Sub to Support Geo-Replicated Internet Services](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-sharma.pdf),” at *12th USENIX
