@@ -87,7 +87,7 @@ Chapter 3 References
       at *Build Stuff '14*, November 2014.
 
 1.  Bradley C. Kuszmaul:
-      “[A   Comparison of Fractal Trees to Log-Structured Merge (LSM) Trees](http://www.pandademo.com/wp-content/uploads/2017/12/A-Comparison-of-Fractal-Trees-to-Log-Structured-Merge-LSM-Trees.pdf),” *tokutek.com*,
+      “[A   Comparison of Fractal Trees to Log-Structured Merge (LSM) Trees](https://www.appservgrid.com/refcards/refcards/dzonerefcards/bundles/Tokutek%20Whitepaper%20Bundle/lsm-vs-fractal.pdf),” *tokutek.com*,
       April 22, 2014.
 
 1.  Manos Athanassoulis, Michael S. Kester,
