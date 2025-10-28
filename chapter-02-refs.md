@@ -69,7 +69,7 @@ Chapter 2 References
     [doi:10.1561/1900000002](http://dx.doi.org/10.1561/1900000002)
 
 1.  Sandeep Parikh and Kelly Stirman:
-    “[Schema Design for Time Series Data in MongoDB](http://blog.mongodb.org/post/65517193370/schema-design-for-time-series-data-in-mongodb),” *blog.mongodb.org*, October 30, 2013.
+    “[Schema Design for Time Series Data in MongoDB](https://web.archive.org/web/20190515093052/https://www.mongodb.com/blog/post/schema-design-for-time-series-data-in-mongodb),” *blog.mongodb.org*, October 30, 2013.
 
 1.  Martin Fowler:
     “[Schemaless Data Structures](http://martinfowler.com/articles/schemaless/),”
