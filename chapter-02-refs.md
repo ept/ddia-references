@@ -50,7 +50,7 @@ Chapter 2 References
     “[IBM’s IMS—Myths, Realities, and Opportunities](https://public.dhe.ibm.com/software/data/ims/pdf/TCG2013015LI.pdf),” The Clipper Group Navigator, TCG2013015LI, July 2013.
 
 1.  Sarah Mei:
-    “[Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/),”
+    “[Why You Should Never Use MongoDB](https://web.archive.org/web/20250418031711/http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/),”
     *sarahmei.com*, November 11, 2013.
 
 1.  J. S. Knowles and D. M. R. Bell:
