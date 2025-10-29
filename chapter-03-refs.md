@@ -190,7 +190,7 @@ Chapter 3 References
     March 1997. [doi:10.1145/248603.248616](http://dx.doi.org/10.1145/248603.248616)
 
 1.  Per-Åke Larson, Cipri Clinciu, Campbell Fraser, et al.:
-    “[Enhancements to SQL Server Column Stores](http://research.microsoft.com/pubs/193599/Apollo3%20-%20Sigmod%202013%20-%20final.pdf),” at *ACM International Conference on Management of Data*
+    “[Enhancements to SQL Server Column Stores](https://www.microsoft.com/en-us/research/publication/enhancements-to-sql-server-column-stores/),” at *ACM International Conference on Management of Data*
     (SIGMOD), June 2013.
 
 1.  Franz Färber, Norman May, Wolfgang Lehner, et al.:
