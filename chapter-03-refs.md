@@ -33,7 +33,7 @@ Chapter 3 References
     *rocksdb.blogspot.com*, November 24, 2013.
 
 1.  Matteo Bertozzi:
-    “[Apache HBase I/O – HFile](https://blog.cloudera.com/apache-hbase-i-o-hfile/),” *blog.cloudera.com*, June 29, 2012.
+    “[Apache HBase I/O – HFile](https://www.cloudera.com/blog/technical/apache-hbase-i-o-hfile.html),” *blog.cloudera.com*, June 29, 2012.
 
 1.  Fay Chang, Jeffrey Dean, Sanjay Ghemawat, et al.:
     “[Bigtable: A Distributed Storage System for Structured Data](https://research.google/pubs/pub27898/),” at *7th USENIX Symposium on Operating System Design and
