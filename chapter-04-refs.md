@@ -159,7 +159,7 @@ Chapter 4 References
 1.  “[API Upgrades](https://stripe.com/docs/upgrades),” Stripe, Inc., April 2015.
 
 1.  Jonas Bonér:
-      “[Upgrade in an   Akka Cluster](http://grokbase.com/t/gg/akka-user/138wd8j9e3/upgrade-in-an-akka-cluster),” email to *akka-user* mailing list, *grokbase.com*, August 28, 2013.
+      “[Upgrade in an   Akka Cluster](https://groups.google.com/g/akka-user/c/sHIrNlTopYI/m/ylJrL3QCv_UJ),” email to *akka-user* mailing list, *grokbase.com*, August 28, 2013.
 
 1.  Philip A. Bernstein, Sergey Bykov, Alan Geller, et al.:
       “[Orleans: Distributed Virtual Actors for Programmability and Scalability](https://www.microsoft.com/en-us/research/publication/orleans-distributed-virtual-actors-for-programmability-and-scalability/),” Microsoft Research
