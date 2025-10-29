@@ -7,7 +7,7 @@ Chapter 5 References
 1.  Bruce G. Lindsay, Patricia Griffiths Selinger, C. Galtieri, et al.:
     “[Notes on Distributed Databases](https://dominoweb.draco.res.ibm.com/reports/RJ2571.pdf),” IBM Research, Research Report RJ2571(33471), July 1979.
 
-1.  “[Oracle Active Data Guard Real-Time Data Protection and Availability](http://www.oracle.com/technetwork/database/availability/active-data-guard-wp-12c-1896127.pdf),” Oracle White Paper, June 2013.
+1.  “[Oracle Active Data Guard Real-Time Data Protection and Availability](https://www.oracle.com/technetwork/database/features/availability/idg-active-data-guard-167818.pdf),” Oracle White Paper, June 2013.
 
 1.  “[AlwaysOn Availability Groups](http://msdn.microsoft.com/en-us/library/hh510230.aspx),” in *SQL Server Books Online*, Microsoft, 2012.
 
