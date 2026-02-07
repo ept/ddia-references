@@ -76,7 +76,7 @@ Chapter 4 References
     February 25, 2015.
 
 1.  Gwen Shapira:
-    “[The Problem of Managing Schemas](http://radar.oreilly.com/2014/11/the-problem-of-managing-schemas.html),” *radar.oreilly.com*, November 4, 2014.
+    “[The Problem of Managing Schemas](https://web.archive.org/web/20221203052207/http://radar.oreilly.com/2014/11/the-problem-of-managing-schemas.html),” *radar.oreilly.com*, November 4, 2014.
 
 1.  “[Apache Pig 0.14.0 Documentation](http://pig.apache.org/docs/r0.14.0/),” *pig.apache.org*, November 2014.
 
